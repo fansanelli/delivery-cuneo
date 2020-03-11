@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-11T11:06:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-11T16:20:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -29,10 +29,14 @@
     <tag k="name" v="Pizzeria Medaglie d'Oro"/>
   </node>
   <node id="5402092382" lat="44.3801459" lon="7.5380339">
+    <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="delivery" v="yes"/>
+    <tag k="delivery_point:access" v="yes"/>
     <tag k="name" v="L'Angolo alimentare"/>
+    <tag k="phone" v="+39 0171 696139"/>
     <tag k="shop" v="convenience"/>
   </node>
   <node id="5420548585" lat="44.3899647" lon="7.5776326">
@@ -55,6 +59,17 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.carrefour.it/?cat=spesa"/>
   </node>
+  <node id="6129227492" lat="44.3832705" lon="7.5392283">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Michele Coppino"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna a domicilio su Cuneo."/>
+    <tag k="name" v="Alimentari e Pane di Laugero Silvana"/>
+    <tag k="phone" v="+39 0171 602533"/>
+    <tag k="shop" v="bakery"/>
+  </node>
   <node id="6130371486" lat="44.3926051" lon="7.5500258">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
@@ -75,16 +90,18 @@
     <tag k="ref:vatin" v="IT03246830040"/>
     <tag k="shop" v="butcher"/>
   </node>
-  <node id="6154076420" lat="44.4155121" lon="7.5546907">
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:street" v="Via Torino"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="japanese;sushi"/>
+  <node id="6160271235" lat="44.3945019" lon="7.5017926">
+    <tag k="addr:city" v="San Defendente di Cervasca"/>
+    <tag k="addr:housenumber" v="76d"/>
+    <tag k="addr:postcode" v="12010"/>
+    <tag k="addr:street" v="Via Nazionale"/>
     <tag k="delivery" v="yes"/>
-    <tag k="name" v="Tokyo Fusion Restaurant"/>
-    <tag k="opening_hours" v="Tu-Su 12:00-15:00,19:00-24:00"/>
-    <tag k="operator" v="Ristorante Tokyo di Pan Wu"/>
-    <tag k="ref:vatin" v="IT03662490048"/>
+    <tag k="email" v="info@nordgel.it"/>
+    <tag k="name" v="Nord Gel"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-12:30,15:00-19:30; Su 08:30-12:30"/>
+    <tag k="phone" v="+39 0171 612405;+39 0171 612602"/>
+    <tag k="shop" v="frozen_food"/>
+    <tag k="website" v="https://www.nordgel.it/"/>
   </node>
   <node id="6170776614" lat="44.3840423" lon="7.5411894">
     <tag k="addr:housenumber" v="14"/>
@@ -112,13 +129,6 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizza Flash"/>
     <tag k="phone" v="+39 0171 630775"/>
-  </node>
-  <node id="6342641186" lat="44.3904384" lon="7.5500289">
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Piazza Boves"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="name" v="La cantinetta"/>
-    <tag k="shop" v="wine"/>
   </node>
   <node id="6358483961" lat="44.3857052" lon="7.5420549">
     <tag k="amenity" v="cafe"/>
@@ -166,6 +176,17 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="http://www.supermercatolingua.it"/>
   </node>
+  <node id="6696715650" lat="44.3821880" lon="7.5408831">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Antonio Stoppani"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Bioprofumeria - Bio e Vegan"/>
+    <tag k="opening_hours" v="Mo 15:30-19:30; Tu-Sa 09:00-12:30,15:30-19:30"/>
+    <tag k="phone" v="+39 335 7067241"/>
+    <tag k="shop" v="perfumery"/>
+  </node>
   <node id="6741665122" lat="44.3895004" lon="7.5614479">
     <tag k="addr:city" v="Borgo San Giuseppe"/>
     <tag k="addr:housenumber" v="14f"/>
@@ -178,8 +199,13 @@
     <tag k="shop" v="butcher"/>
   </node>
   <node id="6741665126" lat="44.3891404" lon="7.5613945">
+    <tag k="addr:city" v="Borgo San Giuseppe"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Bisalta"/>
     <tag k="delivery" v="yes"/>
-    <tag k="name" v="La bottega"/>
+    <tag k="name" v="La Bottega Simply"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-12:50,16:00-19:30"/>
     <tag k="phone" v="+39 0171 346333"/>
     <tag k="shop" v="convenience"/>
   </node>
@@ -248,6 +274,17 @@
     <tag k="name" v="Alimenti Naturali"/>
     <tag k="phone" v="+39 0171 500911"/>
     <tag k="shop" v="health_food"/>
+  </node>
+  <node id="7285142734" lat="44.3911381" lon="7.5618034">
+    <tag k="addr:city" v="Borgo San Giuseppe"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Savona"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Nord Gel"/>
+    <tag k="opening_hours" v="Tu-Sa 08:30-13:00,16:00-19:30"/>
+    <tag k="phone" v="+39 370 3093939"/>
+    <tag k="shop" v="frozen_food"/>
   </node>
 
 </osm>

@@ -1,12 +1,13 @@
 dati ricavati con query overpass:
 
 ```
-[out:json];
 ( area[name=Cuneo]; )->.searchArea;
 (
-  nwr["delivery"][delivery!=no](area.searchArea);
+  nwr["delivery"][delivery!=no]["name"!="La cantinetta"]["name"!="Tokyo Fusion Restaurant"](area.searchArea);
 );
 out body;
 >;
-out skel qt;
+out meta qt;
+
+
 ```
