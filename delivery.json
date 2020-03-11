@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.1002 b121d216",
   "osm3s": {
-    "timestamp_osm_base": "2020-03-11T07:48:02Z",
+    "timestamp_osm_base": "2020-03-11T07:55:02Z",
     "timestamp_areas_base": "2020-03-06T11:03:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -300,6 +300,18 @@
     "opening_hours": "Tu-Sa 08:15-13:00,16:00-19:30",
     "phone": "+39 0171 401266",
     "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 6741665126,
+  "lat": 44.3891404,
+  "lon": 7.5613945,
+  "tags": {
+    "delivery": "yes",
+    "name": "La bottega",
+    "phone": "+39 0171 346333",
+    "shop": "convenience"
   }
 },
 {
