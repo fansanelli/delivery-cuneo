@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-11T07:56:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-11T11:06:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -234,19 +234,17 @@
     <tag k="phone" v="+39 0171 48273"/>
     <tag k="shop" v="butcher"/>
   </node>
-  <node id="7284193496" lat="44.3932080" lon="7.5472027">
+  <node id="7284193496" lat="44.3931501" lon="7.5471118">
     <tag k="contact:facebook" v="https://www.facebook.com/acquarioandpiccolianimali/"/>
     <tag k="delivery" v="yes"/>
-    <tag k="fixme" v="position estimated"/>
     <tag k="name" v="L'acquario and Piccoli Animali"/>
-    <tag k="phone" v="+39 328 3224280"/>
+    <tag k="phone" v="+39 328 322 4280"/>
     <tag k="shop" v="pet"/>
   </node>
-  <node id="7284202331" lat="44.3924501" lon="7.5505462">
+  <node id="7284202331" lat="44.3923870" lon="7.5504599">
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="delivery" v="yes"/>
-    <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Alimenti Naturali"/>
     <tag k="phone" v="+39 0171 500911"/>
     <tag k="shop" v="health_food"/>
