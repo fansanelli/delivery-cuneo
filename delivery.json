@@ -1,0 +1,418 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.1002 b121d216",
+  "osm3s": {
+    "timestamp_osm_base": "2020-03-11T07:48:02Z",
+    "timestamp_areas_base": "2020-03-06T11:03:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1965797379,
+  "lat": 44.3957483,
+  "lon": 7.4913901,
+  "tags": {
+    "delivery": "yes",
+    "description": "Offre il servizio di consegna gratuita della spesa in Cuneo città e zone limitrofe. Tramite telefono o sito web.",
+    "name": "La Fattoria",
+    "opening_hours": "Mo 08:50-12:50,16:10-19:30; Tu,We,Fr 08:50-12:20,16:00-19:30; Th 08:20-12:50; Sa 08:20-12:50,15:50-19:30",
+    "phone": "+39 0171 85107",
+    "shop": "convenience",
+    "website": "https://lafattoria1946.com/store/"
+  }
+},
+{
+  "type": "node",
+  "id": 2639877631,
+  "lat": 44.3860349,
+  "lon": 7.5439369,
+  "tags": {
+    "addr:housenumber": "40",
+    "addr:street": "Corso Dante Alighieri",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizzeria Vesuvio",
+    "opening_hours": "Tu,Th-Su 12:00-14:25,18:00-02:10",
+    "phone": "+39 0171 602061"
+  }
+},
+{
+  "type": "node",
+  "id": 5402092336,
+  "lat": 44.3775707,
+  "lon": 7.5395501,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizzeria Medaglie d'Oro"
+  }
+},
+{
+  "type": "node",
+  "id": 5402092382,
+  "lat": 44.3801459,
+  "lon": 7.5380339,
+  "tags": {
+    "addr:housenumber": "80",
+    "addr:street": "Corso Nizza",
+    "delivery": "yes",
+    "name": "L'Angolo alimentare",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 5420548585,
+  "lat": 44.3899647,
+  "lon": 7.5776326,
+  "tags": {
+    "addr:housenumber": "81",
+    "addr:street": "Via Savona",
+    "delivery": "yes",
+    "name": "L'Albero del Pane",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6068082705,
+  "lat": 44.3890578,
+  "lon": 7.5403061,
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Corso Quattro Novembre",
+    "brand": "Carrefour Market",
+    "brand:wikidata": "Q2689639",
+    "brand:wikipedia": "fr:Carrefour Market",
+    "delivery": "yes",
+    "description": "Spesa online, gratis per OVER 65 fino al 12 aprile 2020",
+    "name": "Carrefour Market",
+    "opening_hours": "24/7",
+    "shop": "supermarket",
+    "website": "https://www.carrefour.it/?cat=spesa"
+  }
+},
+{
+  "type": "node",
+  "id": 6130371486,
+  "lat": 44.3926051,
+  "lon": 7.5500258,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "delivery": "yes",
+    "name": "Bove’s Macellai"
+  }
+},
+{
+  "type": "node",
+  "id": 6140017111,
+  "lat": 44.3908068,
+  "lon": 7.5473757,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Via Carlo Pascal",
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "delivery": "yes",
+    "name": "Macelleria D'Ale",
+    "opening_hours": "Mo-Sa 09:30-14:30; Mo-Th 16:30-20:00; Fr 16:30-22:30; Sa 16:30-23:00",
+    "opening_hours:kitchen": "Mo-Sa 12:00-14:30; Fr 19:00-22:30; Sa 19:00-23:00",
+    "operator": "Macelleria - Gastronomia D'Ale di Arborino Alessandro & C. S.N.C.",
+    "phone": "+39 0171 65759",
+    "ref:vatin": "IT03246830040",
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 6154076420,
+  "lat": 44.4155121,
+  "lon": 7.5546907,
+  "tags": {
+    "addr:housenumber": "173",
+    "addr:street": "Via Torino",
+    "amenity": "restaurant",
+    "cuisine": "japanese;sushi",
+    "delivery": "yes",
+    "name": "Tokyo Fusion Restaurant",
+    "opening_hours": "Tu-Su 12:00-15:00,19:00-24:00",
+    "operator": "Ristorante Tokyo di Pan Wu",
+    "ref:vatin": "IT03662490048"
+  }
+},
+{
+  "type": "node",
+  "id": 6170776614,
+  "lat": 44.3840423,
+  "lon": 7.5411894,
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "Piazza Europa",
+    "amenity": "bar",
+    "brewery": "Beck's;Leffe",
+    "cuisine": "ice_cream",
+    "delivery": "yes",
+    "name": "Cuba",
+    "outdoor_seating": "yes",
+    "phone": "+39 0171 693968"
+  }
+},
+{
+  "type": "node",
+  "id": 6173030845,
+  "lat": 44.3838343,
+  "lon": 7.5409787,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Piazza Europa",
+    "clothes": "underwear",
+    "contact:facebook": "https://www.facebook.com/bruna.intimomerceria/",
+    "delivery": "yes",
+    "name": "Bruna",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 6298798509,
+  "lat": 44.3869182,
+  "lon": 7.5445247,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizza Flash",
+    "phone": "+39 0171 630775"
+  }
+},
+{
+  "type": "node",
+  "id": 6342641186,
+  "lat": 44.3904384,
+  "lon": 7.5500289,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Piazza Boves",
+    "delivery": "yes",
+    "name": "La cantinetta",
+    "shop": "wine"
+  }
+},
+{
+  "type": "node",
+  "id": 6358483961,
+  "lat": 44.3857052,
+  "lon": 7.5420549,
+  "tags": {
+    "amenity": "cafe",
+    "delivery": "yes",
+    "name": "La coccinella",
+    "phone": "+39 339 2429445"
+  }
+},
+{
+  "type": "node",
+  "id": 6360785558,
+  "lat": 44.3807256,
+  "lon": 7.5401910,
+  "tags": {
+    "delivery": "yes",
+    "name": "Arcobaleno di frutta",
+    "phone": "+39 392 5903163",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 6433717643,
+  "lat": 44.3877362,
+  "lon": 7.5380134,
+  "tags": {
+    "delivery": "yes",
+    "name": "Eco store",
+    "phone": "+39 392 4050480",
+    "shop": "ink"
+  }
+},
+{
+  "type": "node",
+  "id": 6547627107,
+  "lat": 44.3809534,
+  "lon": 7.5405130,
+  "tags": {
+    "addr:housenumber": "7c",
+    "addr:street": "Corso Vittorio Emanuele Secondo",
+    "amenity": "fast_food",
+    "cuisine": "pizza;hamburger",
+    "delivery": "yes",
+    "name": "Yuppidù Pizza",
+    "opening_hours": "Mo-Su 18:30-23:15",
+    "phone": "+39 0171 631827",
+    "website": "http://yuppidupizza-cuneo.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 6611933791,
+  "lat": 44.3927068,
+  "lon": 7.5498378,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:mobile": "+39 391 3004405",
+    "delivery": "yes",
+    "name": "I 5 sensi",
+    "phone": "+39 0171 325145"
+  }
+},
+{
+  "type": "node",
+  "id": 6696708899,
+  "lat": 44.3818954,
+  "lon": 7.5414661,
+  "tags": {
+    "addr:housenumber": "10a",
+    "addr:street": "Via Antonio Stoppani",
+    "delivery": "yes",
+    "name": "Supermercato Lingua",
+    "opening_hours": "Mo, Tu, Fr-Su 08:10-12:30, 15:30-19:30; We 08:10-12:30, 15:30-19:00; Th 08:10-12:30",
+    "phone": "+39 0171 67397",
+    "shop": "supermarket",
+    "website": "http://www.supermercatolingua.it"
+  }
+},
+{
+  "type": "node",
+  "id": 6741665122,
+  "lat": 44.3895004,
+  "lon": 7.5614479,
+  "tags": {
+    "addr:city": "Borgo San Giuseppe",
+    "addr:housenumber": "14f",
+    "addr:postcode": "12100",
+    "addr:street": "Via Bisalta",
+    "delivery": "yes",
+    "name": "Agrimacelleria, Macelleria Ghibaudo",
+    "opening_hours": "Tu-Sa 08:15-13:00,16:00-19:30",
+    "phone": "+39 0171 401266",
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 6814084330,
+  "lat": 44.3919955,
+  "lon": 7.5476990,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Piazza Foro Boario",
+    "delivery": "yes",
+    "name": "La bottega dei sapori",
+    "operator": "La bottega dei sapori di Melillo Michela",
+    "phone": "+39 345 9925106",
+    "ref:vatin": "IT03766680049",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 6872671494,
+  "lat": 44.3874961,
+  "lon": 7.5408009,
+  "tags": {
+    "delivery": "yes",
+    "name": "Bottega Ludica",
+    "opening_hours": "Tu 08:30-13:00; Mo-Sa 15:30-20:00; Sa 10:00-13:00",
+    "phone": "+39 347 9646610",
+    "shop": "toys"
+  }
+},
+{
+  "type": "node",
+  "id": 7041920027,
+  "lat": 44.4324071,
+  "lon": 7.5068911,
+  "tags": {
+    "addr:housenumber": "230",
+    "addr:street": "Via della Battaglia",
+    "amenity": "restaurant",
+    "cuisine": "burger;pizza",
+    "delivery": "yes",
+    "name": "La Pantalera",
+    "phone": "+39 0171 682941"
+  }
+},
+{
+  "type": "node",
+  "id": 7283446098,
+  "lat": 44.3294908,
+  "lon": 7.4881627,
+  "tags": {
+    "addr:city": "Borgo San Dalmazzo",
+    "addr:housenumber": "91",
+    "addr:postcode": "12011",
+    "addr:street": "Via Roma",
+    "amenity": "restaurant",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "name": "Pizza al taglio Re Antò",
+    "opening_hours": "Tu-Fr 11:30-14:30,18:00-23:00; Su 17:30-23:00",
+    "phone": "+39 333 3333639"
+  }
+},
+{
+  "type": "node",
+  "id": 7283477362,
+  "lat": 44.3604051,
+  "lon": 7.4750752,
+  "tags": {
+    "addr:city": "Vignolo",
+    "addr:housenumber": "14",
+    "addr:postcode": "12010",
+    "addr:street": "Piazza Grande",
+    "contact:mobile": "+39 348 6921079",
+    "delivery": "yes",
+    "description": "Consegna a domicilio gratuita su Vignolo e dintorni. Disponibili al telefono e tramite WhatsApp",
+    "name": "Bottega della carne",
+    "opening_hours": "Mo-Sa 07:00-18:30",
+    "phone": "+39 0171 48273",
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 7284193496,
+  "lat": 44.3932080,
+  "lon": 7.5472027,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/acquarioandpiccolianimali/",
+    "delivery": "yes",
+    "fixme": "position estimated",
+    "name": "L'acquario and Piccoli Animali",
+    "phone": "+39 328 3224280",
+    "shop": "pet"
+  }
+},
+{
+  "type": "node",
+  "id": 7284202331,
+  "lat": 44.3924501,
+  "lon": 7.5505462,
+  "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "Via Roma",
+    "delivery": "yes",
+    "fixme": "position estimated",
+    "name": "Alimenti Naturali",
+    "phone": "+39 0171 500911",
+    "shop": "health_food"
+  }
+}
+
+  ]
+}
+
