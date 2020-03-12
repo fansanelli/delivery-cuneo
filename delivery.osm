@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-11T16:20:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-12T08:12:01Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -142,11 +142,49 @@
     <tag k="phone" v="+39 392 5903163"/>
     <tag k="shop" v="greengrocer"/>
   </node>
+  <node id="6420509034" lat="44.3852092" lon="7.5399560">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Quintino Sella"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Il verdurivendolo"/>
+    <tag k="opening_hours" v="Mo,Fr 16:00-19:00; Tu,Th 09:30-13:00,16:00-19:00; Sa 09:30-12:30"/>
+    <tag k="phone" v="+39 320 4682017"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="website" v="http://www.ilverdurivendolo.it/home-page/"/>
+  </node>
   <node id="6433717643" lat="44.3877362" lon="7.5380134">
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Eco store"/>
     <tag k="phone" v="+39 392 4050480"/>
     <tag k="shop" v="ink"/>
+  </node>
+  <node id="6466198055" lat="44.3826094" lon="7.5415535">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="La bufalina"/>
+    <tag k="opening_hours" v="Mo 16:00-19:30; Tu-Fr 09:00-13:00,16:00-19:30; Sa 09:00-13:00"/>
+    <tag k="phone" v="+39 320 4682017"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="http://labufalinacuneo.altervista.org"/>
+  </node>
+  <node id="6515989776" lat="44.3793590" lon="7.5310743">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza;kebab"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Crazy pizza"/>
+  </node>
+  <node id="6547627100" lat="44.3808538" lon="7.5407151">
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Vende alimentari freschi e secchi."/>
+    <tag k="name" v="La bottega 71"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-13:00,16:00-19:30"/>
+    <tag k="phone" v="+39 0171 691004"/>
+    <tag k="shop" v="convenience"/>
   </node>
   <node id="6547627107" lat="44.3809534" lon="7.5405130">
     <tag k="addr:housenumber" v="7c"/>
@@ -219,6 +257,17 @@
     <tag k="ref:vatin" v="IT03766680049"/>
     <tag k="shop" v="deli"/>
   </node>
+  <node id="6854314007" lat="44.3795136" lon="7.5297222">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Corso Alcide De Gasperi"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Nutrimind"/>
+    <tag k="opening_hours" v="Mo 14:00-19:00; Tu-Sa 10:00-19:00"/>
+    <tag k="phone" v="+39 320 6017904"/>
+    <tag k="shop" v="nutrition_supplements"/>
+  </node>
   <node id="6872671494" lat="44.3874961" lon="7.5408009">
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Bottega Ludica"/>
@@ -233,6 +282,7 @@
     <tag k="cuisine" v="burger;pizza"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="La Pantalera"/>
+    <tag k="opening_hours" v="Mo-Sa 19:00-23:30; Su 12:00-15:00,19:00-23:00"/>
     <tag k="phone" v="+39 0171 682941"/>
   </node>
   <node id="7283446098" lat="44.3294908" lon="7.4881627">
@@ -286,6 +336,27 @@
     <tag k="phone" v="+39 370 3093939"/>
     <tag k="shop" v="frozen_food"/>
   </node>
+  <node id="7286479531" lat="44.3991770" lon="7.6784918">
+    <tag k="addr:city" v="Margarita"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="12040"/>
+    <tag k="addr:street" v="VIa Cuneo"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Alimentari."/>
+    <tag k="name" v="Ghiottomania"/>
+    <tag k="phone" v="+39 0171 792622"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7287719731" lat="44.5145092" lon="7.4732538">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Piazza Regina Margherita"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="info@otticainvista.com"/>
+    <tag k="name" v="Ottica in Vista"/>
+    <tag k="phone" v="+39 0171 943461"/>
+    <tag k="ref:vatin" v="IT03114430048"/>
+    <tag k="shop" v="optician"/>
+    <tag k="website" v="http://www.otticainvista.com/"/>
+  </node>
 
 </osm>
-
