@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-12T08:12:01Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-12T17:49:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
-    <tag k="description" v="Offre il servizio di consegna gratuita della spesa in Cuneo città e zone limitrofe. Tramite telefono o sito web."/>
+    <tag k="description" v="Offre il servizio di consegna gratuita della spesa in Cuneo città e zone limitrofe.  Inviare l'ordine il più possibile via e-mail completo di nome, cognome, indirizzo, telefono e modalità di pagamento preferita."/>
+    <tag k="email" v="info@lafattoria1946.com"/>
     <tag k="name" v="La Fattoria"/>
     <tag k="opening_hours" v="Mo 08:50-12:50,16:10-19:30; Tu,We,Fr 08:50-12:20,16:00-19:30; Th 08:20-12:50; Sa 08:20-12:50,15:50-19:30"/>
     <tag k="phone" v="+39 0171 85107"/>
@@ -46,6 +47,33 @@
     <tag k="name" v="L'Albero del Pane"/>
     <tag k="shop" v="bakery"/>
   </node>
+  <node id="5839763105" lat="44.3825605" lon="7.4683690">
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/alessiasottileparafarmacia/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="name" v="Parafarmacia Alessia Sottile"/>
+    <tag k="phone" v="+39 0171 500692"/>
+  </node>
+  <node id="5843603120" lat="44.3308624" lon="7.4877099">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Borgomarket"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="6034734222" lat="44.3895430" lon="7.5470124">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Per agevolare i clienti hanno attivato un servizio di prenotazione online per i prodotti di gastronomia: potete scaricare l'app dall'Apple Store e da Google Play oppure ordinare tramite il sito. Resta valida la telefonata diretta."/>
+    <tag k="email" v="gastronomia@drogheriagiraudo.it"/>
+    <tag k="name" v="Drogheria Giraudo"/>
+    <tag k="opening_hours" v="Mo 16:00-19:30; Tu-Sa 9:00-13:00,16:00-19:00"/>
+    <tag k="phone" v="+39 0171 692620"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="http://www.gastronomiagiraudo.it"/>
+  </node>
   <node id="6068082705" lat="44.3890578" lon="7.5403061">
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Corso Quattro Novembre"/>
@@ -58,6 +86,25 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.carrefour.it/?cat=spesa"/>
+  </node>
+  <node id="6069087797" lat="44.3349923" lon="7.4917451">
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Corso Giovanni e Spartaco Barale"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brewery" v="Birra Forst"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="changing_table:location" v="unisex_toilet"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita a Borgo San Dalmazzo"/>
+    <tag k="name" v="Italy Pizzeria"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-14:00,19:00-24:00"/>
+    <tag k="operator" v="Italy"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="oven" v="gas_fired"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="phone" v="+39 0171 261699"/>
+    <tag k="ref:vatin" v="IT03517840041"/>
   </node>
   <node id="6129227492" lat="44.3832705" lon="7.5392283">
     <tag k="addr:city" v="Cuneo"/>
@@ -123,6 +170,21 @@
     <tag k="name" v="Bruna"/>
     <tag k="shop" v="clothes"/>
   </node>
+  <node id="6174999048" lat="44.3993545" lon="7.5326852">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Mi &amp; Ti"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="6290787051" lat="44.3756062" lon="7.5331994">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Corso Francia"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="cuneo@fattoriebovingrana.com"/>
+    <tag k="name" v="Macelleria Fattorie Bovin Grana"/>
+    <tag k="phone" v="+39 0171 500447"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="website" v="http://www.fattoriebovingrana.com"/>
+  </node>
   <node id="6298798509" lat="44.3869182" lon="7.5445247">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
@@ -172,11 +234,22 @@
     <tag k="shop" v="convenience"/>
     <tag k="website" v="http://labufalinacuneo.altervista.org"/>
   </node>
+  <node id="6499353521" lat="44.3887067" lon="7.5430707">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Gli Aristogatti"/>
+    <tag k="shop" v="pet"/>
+  </node>
   <node id="6515989776" lat="44.3793590" lon="7.5310743">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza;kebab"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Crazy pizza"/>
+  </node>
+  <node id="6542694961" lat="44.3816563" lon="7.5391260">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="L'orto delle delizie"/>
+    <tag k="phone" v="+39 347 2621977"/>
+    <tag k="shop" v="greengrocer"/>
   </node>
   <node id="6547627100" lat="44.3808538" lon="7.5407151">
     <tag k="delivery" v="yes"/>
@@ -203,6 +276,12 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="I 5 sensi"/>
     <tag k="phone" v="+39 0171 325145"/>
+  </node>
+  <node id="6673724204" lat="44.3479457" lon="7.5078869">
+    <tag k="clothes" v="underwear"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Intimania"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="6696708899" lat="44.3818954" lon="7.5414661">
     <tag k="addr:housenumber" v="10a"/>
@@ -247,6 +326,14 @@
     <tag k="phone" v="+39 0171 346333"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6741749290" lat="44.3902972" lon="7.5623854">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Via Bisalta"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Azienda agricola &quot;Il sogno&quot;"/>
+    <tag k="phone" v="+39 0171 401763"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
   <node id="6814084330" lat="44.3919955" lon="7.5476990">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Piazza Foro Boario"/>
@@ -256,6 +343,12 @@
     <tag k="phone" v="+39 345 9925106"/>
     <tag k="ref:vatin" v="IT03766680049"/>
     <tag k="shop" v="deli"/>
+  </node>
+  <node id="6832293603" lat="44.4131859" lon="7.5505367">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Clorofilla"/>
+    <tag k="phone" v="+39 349 1360179"/>
+    <tag k="shop" v="florist"/>
   </node>
   <node id="6854314007" lat="44.3795136" lon="7.5297222">
     <tag k="addr:city" v="Cuneo"/>
@@ -284,6 +377,24 @@
     <tag k="name" v="La Pantalera"/>
     <tag k="opening_hours" v="Mo-Sa 19:00-23:30; Su 12:00-15:00,19:00-23:00"/>
     <tag k="phone" v="+39 0171 682941"/>
+  </node>
+  <node id="7062074241" lat="44.4189429" lon="7.4328942">
+    <tag k="addr:city" v="Caraglio"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="12023"/>
+    <tag k="addr:street" v="Via Cesare Battisti"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/alimentarerisparmioebonta/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Risparmio e Bontà di Tallone Patrizia"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+39 0171 619110"/>
+    <tag k="ref:vatin" v="IT02477260042"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="http://www.alimentarerisparmioebonta.it"/>
   </node>
   <node id="7283446098" lat="44.3294908" lon="7.4881627">
     <tag k="addr:city" v="Borgo San Dalmazzo"/>
@@ -358,5 +469,50 @@
     <tag k="shop" v="optician"/>
     <tag k="website" v="http://www.otticainvista.com/"/>
   </node>
+  <node id="7289025747" lat="44.6452352" lon="7.6569606">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Via Cravetta"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pelledoca/"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Pelledoca"/>
+    <tag k="phone" v="+39 339 440 7053"/>
+    <tag k="shop" v="wine"/>
+    <tag k="website" v="http://www.pelledoca.net/"/>
+  </node>
+  <node id="7289057272" lat="44.4413307" lon="7.5255352">
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Meinero Panetteria Pasticceria"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="7289113302" lat="44.4926586" lon="7.5451998">
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/labottegadelgustotarantasca/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="La Bottega del Gusto"/>
+    <tag k="phone" v="+39 328 471 8769"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7289155704" lat="44.3841393" lon="7.5406647">
+    <tag k="addr:housenumber" v="47a"/>
+    <tag k="addr:street" v="Via Venti Settembre"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Rigenera Cuneo di Marchetti Marco"/>
+    <tag k="phone" v="+39 338 5977575"/>
+    <tag k="shop" v="ink"/>
+  </node>
+  <node id="7289164947" lat="44.5115416" lon="7.4822769">
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="El Granatin"/>
+    <tag k="phone" v="+39 347 4546429"/>
+    <tag k="shop" v="convenience"/>
+  </node>
 
 </osm>
+
