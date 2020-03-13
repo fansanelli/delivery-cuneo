@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-12T17:49:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-13T17:43:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -23,11 +23,28 @@
     <tag k="opening_hours" v="Tu,Th-Su 12:00-14:25,18:00-02:10"/>
     <tag k="phone" v="+39 0171 602061"/>
   </node>
+  <node id="5397122021" lat="44.3857601" lon="7.5442727">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="info@albero.delpane.it"/>
+    <tag k="name" v="L'albero del pane"/>
+    <tag k="phone" v="+39 345 424 1416"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://albero.delpane.it"/>
+  </node>
   <node id="5402092336" lat="44.3775707" lon="7.5395501">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Medaglie d'Oro"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizzeria Medaglie d'Oro"/>
+    <tag k="opening_hours" v="Mo 18:15-23:00; We 12:00-14:00,18:15-23:00; Th-Su 18:15-23:00"/>
+    <tag k="phone" v="+39 345 4200669"/>
+    <tag k="website" v="https://m.facebook.com/Pizza-Medaglie-Doro-1437767796484999/"/>
   </node>
   <node id="5402092382" lat="44.3801459" lon="7.5380339">
     <tag k="addr:city" v="Cuneo"/>
@@ -44,8 +61,11 @@
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Via Savona"/>
     <tag k="delivery" v="yes"/>
+    <tag k="email" v="info@albero.delpane.it"/>
     <tag k="name" v="L'Albero del Pane"/>
+    <tag k="phone" v="+39 0171 348240"/>
     <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://albero.delpane.it"/>
   </node>
   <node id="5839763105" lat="44.3825605" lon="7.4683690">
     <tag k="addr:housenumber" v="37"/>
@@ -62,6 +82,18 @@
     <tag k="name" v="Borgomarket"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6018280867" lat="44.3938070" lon="7.5513196">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Via Santa Maria"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese;sushi"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Kombu"/>
+    <tag k="opening_hours" v="Mo 18:30-22:30; Tu-Sa 12:30-14:30,18:30-23:00; Su 18:30-23:00"/>
+    <tag k="phone" v="+39 0171 605615"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://shop.kombusushi.com"/>
+  </node>
   <node id="6034734222" lat="44.3895430" lon="7.5470124">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
@@ -69,7 +101,7 @@
     <tag k="description" v="Per agevolare i clienti hanno attivato un servizio di prenotazione online per i prodotti di gastronomia: potete scaricare l'app dall'Apple Store e da Google Play oppure ordinare tramite il sito. Resta valida la telefonata diretta."/>
     <tag k="email" v="gastronomia@drogheriagiraudo.it"/>
     <tag k="name" v="Drogheria Giraudo"/>
-    <tag k="opening_hours" v="Mo 16:00-19:30; Tu-Sa 9:00-13:00,16:00-19:00"/>
+    <tag k="opening_hours" v="Mo 16:00-19:30; Tu-Sa 09:00-13:00,16:00-19:00"/>
     <tag k="phone" v="+39 0171 692620"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="http://www.gastronomiagiraudo.it"/>
@@ -118,10 +150,17 @@
     <tag k="shop" v="bakery"/>
   </node>
   <node id="6130371486" lat="44.3926051" lon="7.5500258">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="2b"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Dronero"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Bove’s Macellai"/>
+    <tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
+    <tag k="phone" v="+39 0171 692624"/>
+    <tag k="website" v="http://www.boves1929.it"/>
   </node>
   <node id="6140017111" lat="44.3908068" lon="7.5473757">
     <tag k="addr:housenumber" v="3"/>
@@ -175,6 +214,23 @@
     <tag k="name" v="Mi &amp; Ti"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6201523711" lat="44.3910114" lon="7.5489401">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Vicolo Cattedrale"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/InfernottoYumPub/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/infernotto_yum_pub/"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Infernotto"/>
+    <tag k="opening_hours" v="Mo-Tu,Th-Sa 11:30-15:00,18:00-24:00; Su 11:00-14:00,18:00-24:00"/>
+    <tag k="operator" v="Infernotto S.A.S."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="oven" v="no"/>
+    <tag k="phone:mobile" v="+39 339 5865036"/>
+    <tag k="ref:vatin" v="IT03773800044"/>
+    <tag k="website" v="https://infernotto.pub"/>
+  </node>
   <node id="6290787051" lat="44.3756062" lon="7.5331994">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Corso Francia"/>
@@ -203,6 +259,11 @@
     <tag k="name" v="Arcobaleno di frutta"/>
     <tag k="phone" v="+39 392 5903163"/>
     <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="6418937919" lat="44.3923190" lon="7.5523919">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Magnolia"/>
+    <tag k="shop" v="perfumery"/>
   </node>
   <node id="6420509034" lat="44.3852092" lon="7.5399560">
     <tag k="addr:city" v="Cuneo"/>
@@ -287,6 +348,7 @@
     <tag k="addr:housenumber" v="10a"/>
     <tag k="addr:street" v="Via Antonio Stoppani"/>
     <tag k="delivery" v="yes"/>
+    <tag k="description" v="Le consegne a domicilio si effettuano tutti i giorni dalle h 15 alle h 16 e dopo le h 18:30; il giovedì dopo le h 11:30. Le ordinazioni devono pervenire entro le h 17:30. Costo: 2€ a consegna (in Cuneo), gratis oltre i 55€"/>
     <tag k="name" v="Supermercato Lingua"/>
     <tag k="opening_hours" v="Mo, Tu, Fr-Su 08:10-12:30, 15:30-19:30; We 08:10-12:30, 15:30-19:00; Th 08:10-12:30"/>
     <tag k="phone" v="+39 0171 67397"/>
@@ -396,6 +458,12 @@
     <tag k="shop" v="convenience"/>
     <tag k="website" v="http://www.alimentarerisparmioebonta.it"/>
   </node>
+  <node id="7074400566" lat="44.3939234" lon="7.5203746">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizza Italia"/>
+  </node>
   <node id="7283446098" lat="44.3294908" lon="7.4881627">
     <tag k="addr:city" v="Borgo San Dalmazzo"/>
     <tag k="addr:housenumber" v="91"/>
@@ -432,6 +500,7 @@
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna a domicilio su Cuneo e limitrofi."/>
     <tag k="name" v="Alimenti Naturali"/>
     <tag k="phone" v="+39 0171 500911"/>
     <tag k="shop" v="health_food"/>
@@ -465,6 +534,7 @@
     <tag k="email" v="info@otticainvista.com"/>
     <tag k="name" v="Ottica in Vista"/>
     <tag k="phone" v="+39 0171 943461"/>
+    <tag k="phone:mobile" v="+39 331 9612090"/>
     <tag k="ref:vatin" v="IT03114430048"/>
     <tag k="shop" v="optician"/>
     <tag k="website" v="http://www.otticainvista.com/"/>
@@ -482,18 +552,29 @@
     <tag k="website" v="http://www.pelledoca.net/"/>
   </node>
   <node id="7289057272" lat="44.4413307" lon="7.5255352">
+    <tag k="addr:city" v="Roata Rossi"/>
+    <tag k="addr:housenumber" v="144"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Antica di Busca"/>
     <tag k="delivery" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Meinero Panetteria Pasticceria"/>
+    <tag k="opening_hours" v="Mo-Sa 07:15-13:00,15:30-19:45"/>
+    <tag k="phone" v="+39 0171 689022"/>
     <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://www.facebook.com/Meinero-Panetteria-Pasticceria-201659636685892/"/>
   </node>
   <node id="7289113302" lat="44.4926586" lon="7.5451998">
+    <tag k="addr:city" v="Tarantasca"/>
     <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
     <tag k="contact:facebook" v="https://www.facebook.com/labottegadelgustotarantasca/"/>
     <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegnano a domicilio fino a Madonna dell'Olmo"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="La Bottega del Gusto"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-12:30,16:00-19:30; Su 08:00-12:30"/>
     <tag k="phone" v="+39 328 471 8769"/>
     <tag k="shop" v="convenience"/>
   </node>
@@ -511,6 +592,18 @@
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="El Granatin"/>
     <tag k="phone" v="+39 347 4546429"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7289371060" lat="44.3805075" lon="7.5360394">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Beppino Nasetta"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/CrispinoAndrea86/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita su Cuneo e limitrofi."/>
+    <tag k="name" v="La casa della frutta secca"/>
+    <tag k="phone" v="+39 392 6338727"/>
     <tag k="shop" v="convenience"/>
   </node>
 
