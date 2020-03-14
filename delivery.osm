@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-13T17:43:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-14T15:03:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -39,12 +39,12 @@
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Medaglie d'Oro"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Pizza-Medaglie-Doro-1437767796484999/"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizzeria Medaglie d'Oro"/>
     <tag k="opening_hours" v="Mo 18:15-23:00; We 12:00-14:00,18:15-23:00; Th-Su 18:15-23:00"/>
     <tag k="phone" v="+39 345 4200669"/>
-    <tag k="website" v="https://m.facebook.com/Pizza-Medaglie-Doro-1437767796484999/"/>
   </node>
   <node id="5402092382" lat="44.3801459" lon="7.5380339">
     <tag k="addr:city" v="Cuneo"/>
@@ -137,6 +137,15 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="phone" v="+39 0171 261699"/>
     <tag k="ref:vatin" v="IT03517840041"/>
+  </node>
+  <node id="6124666867" lat="44.3855735" lon="7.5435524">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Il fornaio"/>
+    <tag k="operator" v="Buccaresi Enrico"/>
+    <tag k="phone" v="+39 0171 692432"/>
+    <tag k="shop" v="bakery"/>
   </node>
   <node id="6129227492" lat="44.3832705" lon="7.5392283">
     <tag k="addr:city" v="Cuneo"/>
@@ -248,6 +257,15 @@
     <tag k="name" v="Pizza Flash"/>
     <tag k="phone" v="+39 0171 630775"/>
   </node>
+  <node id="6358397064" lat="44.3861275" lon="7.5389712">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Corso Giovanni Giolitti"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Il fornaio"/>
+    <tag k="operator" v="Buccaresi Enrico"/>
+    <tag k="phone" v="+39 0171 692432"/>
+    <tag k="shop" v="bakery"/>
+  </node>
   <node id="6358483961" lat="44.3857052" lon="7.5420549">
     <tag k="amenity" v="cafe"/>
     <tag k="delivery" v="yes"/>
@@ -263,6 +281,7 @@
   <node id="6418937919" lat="44.3923190" lon="7.5523919">
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Magnolia"/>
+    <tag k="phone" v="+39 0171 070182"/>
     <tag k="shop" v="perfumery"/>
   </node>
   <node id="6420509034" lat="44.3852092" lon="7.5399560">
@@ -311,6 +330,14 @@
     <tag k="name" v="L'orto delle delizie"/>
     <tag k="phone" v="+39 347 2621977"/>
     <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="6542713175" lat="44.3827452" lon="7.5371071">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Corso Galileo Ferraris"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Il fornaio di Galfrè"/>
+    <tag k="phone" v="+39 0171 603614"/>
+    <tag k="shop" v="bakery"/>
   </node>
   <node id="6547627100" lat="44.3808538" lon="7.5407151">
     <tag k="delivery" v="yes"/>
@@ -464,6 +491,16 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizza Italia"/>
   </node>
+  <node id="7080087031" lat="44.4233926" lon="7.5625967">
+    <tag k="addr:housenumber" v="3b"/>
+    <tag k="addr:street" v="Via Porta Rossa"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="name" v="Mario senza glutine vegan"/>
+    <tag k="phone" v="+39 0171 613464"/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <node id="7283446098" lat="44.3294908" lon="7.4881627">
     <tag k="addr:city" v="Borgo San Dalmazzo"/>
     <tag k="addr:housenumber" v="91"/>
@@ -556,13 +593,13 @@
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Antica di Busca"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Meinero-Panetteria-Pasticceria-201659636685892/"/>
     <tag k="delivery" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Meinero Panetteria Pasticceria"/>
     <tag k="opening_hours" v="Mo-Sa 07:15-13:00,15:30-19:45"/>
     <tag k="phone" v="+39 0171 689022"/>
     <tag k="shop" v="bakery"/>
-    <tag k="website" v="https://www.facebook.com/Meinero-Panetteria-Pasticceria-201659636685892/"/>
   </node>
   <node id="7289113302" lat="44.4926586" lon="7.5451998">
     <tag k="addr:city" v="Tarantasca"/>
@@ -606,6 +643,51 @@
     <tag k="phone" v="+39 392 6338727"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="7293198123" lat="44.3947601" lon="7.4959420">
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Ordini tramite whatsapp o telefonando. Consegna su Cuneo e limitrofi. Consegna GRATUITA. Ordine minimo circa 20€."/>
+    <tag k="name" v="Famù negozio"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="+39 351 8456442"/>
+    <tag k="shop" v="dairy"/>
+    <tag k="website" v="http://loyogurtfamu.it"/>
+  </node>
+  <node id="7293205170" lat="44.3799923" lon="7.5461677">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Viale degli Angeli"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Telefonate per sapere la proposta del giorno!"/>
+    <tag k="name" v="La Novella"/>
+    <tag k="phone" v="+39 339 7374519"/>
+  </node>
+  <node id="7294607767" lat="44.4224249" lon="7.5436470">
+    <tag k="addr:housenumber" v="139"/>
+    <tag k="addr:street" v="Via Valle Po"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Molino Squillario"/>
+    <tag k="operator" v="Molino Squillario di Squillario Andrea e C. snc"/>
+    <tag k="phone" v="+39 0171 411128"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="website" v="https://www.molinosquillario.it/"/>
+  </node>
+  <node id="7294614759" lat="44.3871091" lon="7.5451299">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="ordini solo via mail"/>
+    <tag k="email" v="cristina@assediumritualpastry.com"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Assedium Ritual Pastry"/>
+    <tag k="operator" v="Assedium Cuneo SRLS"/>
+    <tag k="phone" v="+39 351 8422776"/>
+    <tag k="ref:vatin" v="IT03838980047"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="website" v="https://assediumritualpastry.com/"/>
+  </node>
 
 </osm>
-
