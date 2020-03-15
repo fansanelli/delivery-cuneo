@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-15T07:52:01Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-15T08:22:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -727,7 +727,6 @@
   <node id="7170633530" lat="44.4184085" lon="7.4308842">
     <tag k="addr:housenumber" v="152"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="craft" v="tailor"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Il mondo di Laura"/>
     <tag k="opening_hours" v="Tu-Sa 09:00-12:30,15:30-19:30; Su 09:30-12:30"/>
@@ -739,6 +738,7 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+39 0171 619500"/>
     <tag k="phone:mobile" v="+39 347 6828743"/>
+    <tag k="shop" v="sewing"/>
   </node>
   <node id="7178916356" lat="44.4185819" lon="7.4326358">
     <tag k="addr:housenumber" v="7b"/>
@@ -1062,3 +1062,4 @@
   </node>
 
 </osm>
+
