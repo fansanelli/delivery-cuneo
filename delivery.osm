@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-15T08:22:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-15T13:24:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -1060,6 +1060,40 @@
     <tag k="phone" v="+39 0171 619332"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <way id="781539585">
+    <nd ref="7296747547"/>
+    <nd ref="7296747546"/>
+    <nd ref="7296747545"/>
+    <nd ref="7296747544"/>
+    <nd ref="7296747543"/>
+    <nd ref="7296747542"/>
+    <nd ref="7296747541"/>
+    <nd ref="7296747540"/>
+    <nd ref="7296747539"/>
+    <nd ref="7296747538"/>
+    <nd ref="7296747537"/>
+    <nd ref="7296747547"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Via Traversagna"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/mangiargenuino/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="landuse" v="farmland"/>
+    <tag k="name" v="Azienda Agricola Marchisio Pietro"/>
+    <tag k="opening_hours" v="Mo-Th 15:00-19:30; We 09:30-19:30; Sa 09:30-12:30,15:00-19:00"/>
+    <tag k="phone:mobile" v="+39 340 7977519"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="website" v="https://marchisiopietroboves.com/"/>
+  </way>
+  <node id="7296747537" lat="44.3435111" lon="7.5515127" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747538" lat="44.3413263" lon="7.5513518" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747539" lat="44.3418384" lon="7.5509602" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747540" lat="44.3423271" lon="7.5506008" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747541" lat="44.3427419" lon="7.5503701" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747542" lat="44.3433203" lon="7.5500549" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747543" lat="44.3433500" lon="7.5500751" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747544" lat="44.3434766" lon="7.5503916" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747545" lat="44.3435035" lon="7.5505632" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747546" lat="44.3435111" lon="7.5507107" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
+  <node id="7296747547" lat="44.3435169" lon="7.5511613" version="1" timestamp="2020-03-15T13:20:45Z" changeset="82217188" uid="9006927" user="francians"/>
 
 </osm>
-
