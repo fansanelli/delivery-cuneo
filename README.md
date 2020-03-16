@@ -5,9 +5,7 @@ dati ricavati con query overpass:
 (
   nwr["delivery"][delivery!=no]["name"!="La cantinetta"]["name"!="Tokyo Fusion Restaurant"](area.searchArea);
 );
-out body;
+out body center;
 >;
-out meta qt;
-
 
 ```
