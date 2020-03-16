@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-15T13:35:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-16T18:10:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -398,9 +398,11 @@
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Quintino Sella"/>
     <tag k="delivery" v="yes"/>
+    <tag k="email" v="ilverdurivendolo@gmail.com"/>
     <tag k="name" v="Il verdurivendolo"/>
     <tag k="opening_hours" v="Mo,Fr 16:00-19:00; Tu,Th 09:30-13:00,16:00-19:00; Sa 09:30-12:30"/>
-    <tag k="phone" v="+39 320 4682017"/>
+    <tag k="phone" v="+39 340 7771191"/>
+    <tag k="ref:vatin" v="IT03152790048"/>
     <tag k="shop" v="greengrocer"/>
     <tag k="website" v="http://www.ilverdurivendolo.it/home-page/"/>
   </node>
@@ -431,7 +433,9 @@
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza;kebab"/>
     <tag k="delivery" v="yes"/>
+    <tag k="delivery:fee" v="yes"/>
     <tag k="name" v="Crazy pizza"/>
+    <tag k="phone" v="+39 346 1212656"/>
   </node>
   <node id="6542694961" lat="44.3816563" lon="7.5391260">
     <tag k="delivery" v="yes"/>
@@ -483,7 +487,7 @@
     <tag k="addr:housenumber" v="10a"/>
     <tag k="addr:street" v="Via Antonio Stoppani"/>
     <tag k="delivery" v="yes"/>
-    <tag k="description" v="Le consegne a domicilio si effettuano tutti i giorni dalle h 15 alle h 16 e dopo le h 18:30; il giovedì dopo le h 11:30. Le ordinazioni devono pervenire entro le h 17:30. Costo: 2€ a consegna (in Cuneo), gratis oltre i 55€"/>
+    <tag k="description" v="Consegne a domicilio solo dopo aver fatto spesa presso il supermercato"/>
     <tag k="name" v="Supermercato Lingua"/>
     <tag k="opening_hours" v="Mo, Tu, Fr-Su 08:10-12:30, 15:30-19:30; We 08:10-12:30, 15:30-19:00; Th 08:10-12:30"/>
     <tag k="phone" v="+39 0171 67397"/>
@@ -500,6 +504,19 @@
     <tag k="opening_hours" v="Mo 15:30-19:30; Tu-Sa 09:00-12:30,15:30-19:30"/>
     <tag k="phone" v="+39 335 7067241"/>
     <tag k="shop" v="perfumery"/>
+  </node>
+  <node id="6696896931" lat="44.3757274" lon="7.5202864">
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:street" v="Via Cascina Colombaro"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="info@doggypop.com"/>
+    <tag k="name" v="Doggy pop"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-12:30,15:00-19:30"/>
+    <tag k="operator" v="S.S.I. srl"/>
+    <tag k="phone" v="+39 0171 601465"/>
+    <tag k="ref:vatin" v="IT02989150046"/>
+    <tag k="shop" v="pet"/>
+    <tag k="website" v="https://doggypop.com/"/>
   </node>
   <node id="6741665122" lat="44.3895004" lon="7.5614479">
     <tag k="addr:city" v="Borgo San Giuseppe"/>
@@ -743,7 +760,7 @@
   <node id="7178916356" lat="44.4185819" lon="7.4326358">
     <tag k="addr:housenumber" v="7b"/>
     <tag k="addr:street" v="Via Cesare Battisti"/>
-    <tag k="constact:instagram" v="https://instagram.com/milonepaneedolci/"/>
+    <tag k="contact:instagram" v="milonepaneedolci"/>
     <tag k="delivery" v="yes"/>
     <tag k="email" v="info@milonepanedolci.com"/>
     <tag k="name" v="Milone Pane &amp; Dolci"/>
@@ -1059,6 +1076,17 @@
     <tag k="name" v="La Bottega di Lerda Giorgio"/>
     <tag k="phone" v="+39 0171 619332"/>
     <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7299866175" lat="44.5027545" lon="7.4908324">
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:street" v="Via Laghi di Avigliana"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="arriva@terraviva.coop"/>
+    <tag k="name" v="TerraViva"/>
+    <tag k="phone" v="+39 0171 946724"/>
+    <tag k="phone:mobile" v="+39 346 5353150"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.terraviva.coop/"/>
   </node>
   <way id="781539585">
     <center lat="44.3424216" lon="7.5507838"/>
