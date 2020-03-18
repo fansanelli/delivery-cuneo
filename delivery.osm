@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-18T21:05:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-18T21:10:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -30,6 +30,29 @@
     <tag k="name" v="Farmacia Cornelio"/>
     <tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:00-19:30; Su 08:30-12:20"/>
     <tag k="phone" v="+39 0171 325202"/>
+  </node>
+  <node id="1893571637" lat="44.4938494" lon="7.5449612">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Market Alimentari Barbara Lombardo"/>
+    <tag k="phone" v="+39 339 4418950"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1893571638" lat="44.4939272" lon="7.5449649">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Fanizza"/>
+    <tag k="phone" v="+39 0171 931000"/>
   </node>
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -85,6 +108,7 @@
   <node id="3447242319" lat="44.4793641" lon="7.5054651">
     <tag k="addr:city" v="San Chiaffredo Tarantasca"/>
     <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
@@ -1491,6 +1515,16 @@
     <tag k="phone" v="+39 335 1212064"/>
     <tag k="shop" v="frozen_food"/>
   </node>
+  <node id="7306884272" lat="44.4942404" lon="7.5447555">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Alimentari Valter Olivero"/>
+    <tag k="phone" v="+39 331 1825562"/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <node id="7306931287" lat="44.5147793" lon="7.4737197">
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="140"/>
@@ -1500,6 +1534,16 @@
     <tag k="name" v="Stema"/>
     <tag k="phone" v="+39 0171 944467"/>
     <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="7306948224" lat="44.4988403" lon="7.5122927">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="157/a"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Tarantasca"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Azienda agricola di Ilaria Ichino - La Capanna"/>
+    <tag k="phone" v="+39 340 9988783"/>
+    <tag k="shop" v="dairy"/>
   </node>
   <node id="7306953000" lat="44.5176112" lon="7.4776463">
     <tag k="delivery" v="yes"/>
