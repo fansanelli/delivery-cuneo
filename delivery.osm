@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-18T18:26:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-18T21:05:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -83,13 +83,44 @@
     <tag k="phone" v="+39 0171 945255"/>
   </node>
   <node id="3447242319" lat="44.4793641" lon="7.5054651">
+    <tag k="addr:city" v="San Chiaffredo Tarantasca"/>
     <tag k="addr:housenumber" v="2a"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Parafarmacia Dott.ssa Molineris"/>
     <tag k="phone" v="+39 0171 937473"/>
+  </node>
+  <node id="3449288500" lat="44.4773969" lon="7.5068936">
+    <tag k="addr:city" v="San Chiaffredo Tarantasca"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Via Laghi di Avigliana"/>
+    <tag k="agrarian" v="feed;seed"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="El Granatin di Enzo Corrado"/>
+    <tag k="shop" v="agrarian"/>
+  </node>
+  <node id="3449288504" lat="44.4775260" lon="7.5068138">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Via Laghi di Avigliana"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Alimentari Tiziana Giuliano"/>
+    <tag k="phone" v="+39 339 3105042"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="3450446420" lat="44.4757521" lon="7.5079779">
+    <tag k="addr:city" v="San Chiaffredo Tarantasca"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Laghi di Avigliana"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian_pizza;italian"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Saloon City ristorante pizzeria di Lingua Alfio"/>
+    <tag k="phone" v="+39 331 7495727"/>
   </node>
   <node id="3474970217" lat="44.4192099" lon="7.4326748">
     <tag k="delivery" v="yes"/>
@@ -164,6 +195,39 @@
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Di Marco"/>
     <tag k="phone:mobile" v="+39 340 7600326"/>
+  </node>
+  <node id="4472819038" lat="44.5147184" lon="7.4729824">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizza &amp; Fantasia"/>
+    <tag k="phone" v="+39 0171 946013"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="4472819040" lat="44.5149929" lon="7.4745175">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Umberto Primo"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="email" v="farmaciaabratebusca@gmail.com"/>
+    <tag k="name" v="Farmacia Abrate"/>
+    <tag k="operator" v="Abrate Enrico"/>
+    <tag k="phone" v="+39 0171 943923"/>
+    <tag k="phone:mobile" v="+39 377 2318251"/>
+  </node>
+  <node id="4473107900" lat="44.5150902" lon="7.4748565">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="name" v="Farmacia Favro"/>
+    <tag k="phone" v="+39 0171 945290"/>
   </node>
   <node id="5397122021" lat="44.3857601" lon="7.5442727">
     <tag k="addr:housenumber" v="27"/>
@@ -1426,6 +1490,23 @@
     <tag k="name" v="Antoci F.lli SNC"/>
     <tag k="phone" v="+39 335 1212064"/>
     <tag k="shop" v="frozen_food"/>
+  </node>
+  <node id="7306931287" lat="44.5147793" lon="7.4737197">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Stema"/>
+    <tag k="phone" v="+39 0171 944467"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="7306953000" lat="44.5176112" lon="7.4776463">
+    <tag k="delivery" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Pasticceria Fagiolo"/>
+    <tag k="phone" v="+39 0171 945165"/>
+    <tag k="shop" v="pastry"/>
   </node>
   <way id="341906477">
     <center lat="44.4366133" lon="7.4446193"/>
