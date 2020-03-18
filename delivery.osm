@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-17T21:04:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-18T18:26:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -254,6 +254,18 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://shop.kombusushi.com"/>
   </node>
+  <node id="6033563131" lat="44.3801215" lon="7.5385062">
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab;pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita per ordini superiori a 9 Euro"/>
+    <tag k="name" v="Med Casa del kebap"/>
+    <tag k="opening_hours" v="12:00-23:59"/>
+    <tag k="oven" v="gas_fired"/>
+    <tag k="phone" v="+39 342 015 7593"/>
+  </node>
   <node id="6034734222" lat="44.3895430" lon="7.5470124">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
@@ -409,6 +421,15 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Bruna"/>
     <tag k="shop" v="clothes"/>
+  </node>
+  <node id="6173050037" lat="44.3852183" lon="7.5417427">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Corso Giovanni Giolitti"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="nettarecuneo@gmail.com"/>
+    <tag k="name" v="Il Nettare"/>
+    <tag k="phone" v="+39 334 7290501"/>
+    <tag k="shop" v="herbalist"/>
   </node>
   <node id="6174999048" lat="44.3993545" lon="7.5326852">
     <tag k="addr:housenumber" v="31"/>
@@ -642,7 +663,7 @@
     <tag k="addr:housenumber" v="10a"/>
     <tag k="addr:street" v="Via Antonio Stoppani"/>
     <tag k="delivery" v="yes"/>
-    <tag k="description" v="Consegne a domicilio solo dopo aver fatto spesa presso il supermercato"/>
+    <tag k="description" v="&quot;A CAUSA CRONAVIRUS LE CONSEGNE A DOMICILIO SI EFFETTUERANNO SOLO DOPO AVER FATTO LA SPESA PRESSO IL SUPERMERCATO, NON RIUSCIAMO A PRENDERE ORDINAZIONI TELEFONICHE O VIA MAIL. CI SCUSIAMO PER IL DISSERVIZIO. GRAZIE PER LA COLLABORAZIONE&quot;"/>
     <tag k="name" v="Supermercato Lingua"/>
     <tag k="opening_hours" v="Mo, Tu, Fr-Su 08:10-12:30, 15:30-19:30; We 08:10-12:30, 15:30-19:00; Th 08:10-12:30"/>
     <tag k="phone" v="+39 0171 67397"/>
@@ -893,6 +914,20 @@
     <tag k="name" v="Mario senza glutine vegan"/>
     <tag k="phone" v="+39 0171 613464"/>
     <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7140737586" lat="44.3840893" lon="7.5446266">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Pier Carlo Boggio"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegne gratuite su Cuneo, piccolo contributo per zone limitrofe."/>
+    <tag k="email" v="info@tantecosebuone.it"/>
+    <tag k="name" v="Tante cose buone"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-13:00; Mo,Tu,Th,Fr 15:30-19:30"/>
+    <tag k="phone" v="+39 371 3309804"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="website" v="https://www.tantecosebuone.it"/>
   </node>
   <node id="7168974431" lat="44.4170228" lon="7.4281178">
     <tag k="addr:housenumber" v="14"/>
@@ -1384,6 +1419,14 @@
     <tag k="phone" v="+39 0171 290969"/>
     <tag k="shop" v="butcher"/>
   </node>
+  <node id="7306642794" lat="44.3864289" lon="7.5100833">
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:street" v="Via Cuneo"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Antoci F.lli SNC"/>
+    <tag k="phone" v="+39 335 1212064"/>
+    <tag k="shop" v="frozen_food"/>
+  </node>
   <way id="341906477">
     <center lat="44.4366133" lon="7.4446193"/>
     <nd ref="3489695897"/>
@@ -1427,7 +1470,7 @@
     <tag k="name" v="Azienda Agricola Marchisio Pietro"/>
     <tag k="opening_hours" v="Mo-Th 15:00-19:30; We 09:30-19:30; Sa 09:30-12:30,15:00-19:00"/>
     <tag k="phone:mobile" v="+39 340 7977519"/>
-    <tag k="shop" v="greengrocer"/>
+    <tag k="shop" v="farm"/>
     <tag k="website" v="https://marchisiopietroboves.com/"/>
   </way>
 
