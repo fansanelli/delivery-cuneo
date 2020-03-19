@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-19T17:46:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-19T21:05:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -92,6 +92,16 @@
     <tag k="phone" v="+39 0171 85107"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="https://lafattoria1946.com/store/"/>
+  </node>
+  <node id="1970779039" lat="44.3808732" lon="7.5392157">
+    <tag k="addr:housenumber" v="61a"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="cuneo@prink.it"/>
+    <tag k="name" v="Prink"/>
+    <tag k="operator" v="Aleki SNC di Sala Alessio Gianelio &amp; C."/>
+    <tag k="phone" v="+39 349 6410294"/>
+    <tag k="shop" v="ink"/>
   </node>
   <node id="2412584621" lat="44.3940332" lon="7.5559091">
     <tag k="addr:housenumber" v="4"/>
@@ -248,16 +258,6 @@
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Di Marco"/>
     <tag k="phone:mobile" v="+39 340 7600326"/>
-  </node>
-  <node id="3882927921" lat="44.4926510" lon="7.5451677">
-    <tag k="addr:city" v="Tarantasca"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:postcode" v="12020"/>
-    <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="name" v="Alimentari La Bottega del Gusto di Valter Giraudo"/>
-    <tag k="phone" v="+39 328 4718769"/>
-    <tag k="shop" v="convenience"/>
   </node>
   <node id="4472819038" lat="44.5147184" lon="7.4729824">
     <tag k="amenity" v="restaurant"/>
@@ -729,7 +729,9 @@
     <tag k="cuisine" v="pizza;kebab"/>
     <tag k="delivery" v="yes"/>
     <tag k="delivery:fee" v="yes"/>
+    <tag k="email" v="pitali_matteo@yahoo.it"/>
     <tag k="name" v="Crazy pizza"/>
+    <tag k="operator" v="Pitali Matteo"/>
     <tag k="phone" v="+39 346 1212656"/>
   </node>
   <node id="6542694961" lat="44.3816563" lon="7.5391260">
@@ -782,6 +784,16 @@
     <tag k="email" v="parafarmacia.invernelli@gmail.com"/>
     <tag k="name" v="Parafarmacia Invernelli"/>
     <tag k="phone" v="+39 0171 492580"/>
+  </node>
+  <node id="6604580115" lat="44.3915630" lon="7.5489145">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Via Saluzzo"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="andrea.giolitti87@gmail.com"/>
+    <tag k="name" v="L'angolo del gusto"/>
+    <tag k="operator" v="Giolitti Andrea"/>
+    <tag k="phone" v="+39 0171 694822"/>
+    <tag k="shop" v="convenience"/>
   </node>
   <node id="6611933791" lat="44.3927068" lon="7.5498378">
     <tag k="amenity" v="restaurant"/>
@@ -880,6 +892,18 @@
     <tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:30-20:00"/>
     <tag k="phone:mobile" v="+39 348 5919192"/>
     <tag k="shop" v="garden_centre"/>
+  </node>
+  <node id="6797025856" lat="44.4125306" lon="7.5465168">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Via della Battaglia"/>
+    <tag k="brand" v="Punto Simply"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="margherita.cuneo@yahoo.it"/>
+    <tag k="name" v="Punto Simply"/>
+    <tag k="operator" v="Maccario di Tomatis Giovanna"/>
+    <tag k="phone" v="+39 0171 411571"/>
+    <tag k="phone:mobile" v="+39 349 7393799"/>
+    <tag k="shop" v="supermarket"/>
   </node>
   <node id="6814084330" lat="44.3919955" lon="7.5476990">
     <tag k="addr:housenumber" v="1"/>
@@ -1228,6 +1252,20 @@
     <tag k="opening_hours" v="Mo-Sa 07:15-13:00,15:30-19:45"/>
     <tag k="phone" v="+39 0171 689022"/>
     <tag k="shop" v="bakery"/>
+  </node>
+  <node id="7289113302" lat="44.4926586" lon="7.5451998">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/labottegadelgustotarantasca/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegnano a domicilio fino a Madonna dell'Olmo"/>
+    <tag k="name" v="La Bottega del Gusto"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-12:30,16:00-19:30; Su 08:00-12:30"/>
+    <tag k="operator" v="Valter Giraudo"/>
+    <tag k="phone" v="+39 328 471 8769"/>
+    <tag k="shop" v="convenience"/>
   </node>
   <node id="7289155704" lat="44.3841393" lon="7.5406647">
     <tag k="addr:housenumber" v="47a"/>
@@ -1636,6 +1674,16 @@
     <tag k="name" v="Tabaccheria Nilva Galfré"/>
     <tag k="phone" v="+39 339 4346606"/>
     <tag k="shop" v="tobacco"/>
+  </node>
+  <node id="7310315792" lat="44.3917897" lon="7.5453060">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Via Carlo Pascal"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna quotidiano La Stampa"/>
+    <tag k="email" v="stampain@nuvolariweb.com"/>
+    <tag k="name" v="Stampa In"/>
+    <tag k="office" v="delivery"/>
+    <tag k="phone" v="+39 0171 695766"/>
   </node>
   <way id="341906477">
     <center lat="44.4366133" lon="7.4446193"/>
