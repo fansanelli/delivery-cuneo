@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-18T21:10:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-19T17:46:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -31,15 +31,26 @@
     <tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:00-19:30; Su 08:30-12:20"/>
     <tag k="phone" v="+39 0171 325202"/>
   </node>
-  <node id="1893571637" lat="44.4938494" lon="7.5449612">
+  <node id="1833194099" lat="44.4913069" lon="7.5422389">
     <tag k="addr:city" v="Tarantasca"/>
-    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="12020"/>
-    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="addr:street" v="Via Circonvallazione"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian;fish;pizza"/>
     <tag k="delivery" v="yes"/>
-    <tag k="name" v="Market Alimentari Barbara Lombardo"/>
-    <tag k="phone" v="+39 339 4418950"/>
-    <tag k="shop" v="convenience"/>
+    <tag k="name" v="Il Pianeta 2000 Ristorante Pizzeria"/>
+    <tag k="phone" v="+39 0171 931858"/>
+  </node>
+  <node id="1893571565" lat="44.4952613" lon="7.5413183">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Luigi Pirandello"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Barbero Ferramenta di Fabrizio Barbero"/>
+    <tag k="phone" v="+39 0171 931541"/>
+    <tag k="shop" v="hardware"/>
   </node>
   <node id="1893571638" lat="44.4939272" lon="7.5449649">
     <tag k="addr:city" v="Tarantasca"/>
@@ -49,10 +60,28 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="yes"/>
-    <tag k="drive_through" v="yes"/>
-    <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmacia Fanizza"/>
     <tag k="phone" v="+39 0171 931000"/>
+  </node>
+  <node id="1893571640" lat="44.4941258" lon="7.5456762">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Centallo"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Alimentari Market di Barbara Lombardo"/>
+    <tag k="phone" v="+39 339 4418950"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="1893571641" lat="44.4942466" lon="7.5449612">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="L'Angolo del Pane Panetteria e Alimentari"/>
+    <tag k="phone" v="+39 339 6811887"/>
+    <tag k="shop" v="bakery"/>
   </node>
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -113,7 +142,6 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="no"/>
-    <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Parafarmacia Dott.ssa Molineris"/>
     <tag k="phone" v="+39 0171 937473"/>
   </node>
@@ -141,10 +169,11 @@
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian_pizza;italian"/>
+    <tag k="cuisine" v="italian;pizza"/>
     <tag k="delivery" v="yes"/>
-    <tag k="name" v="Saloon City ristorante pizzeria di Lingua Alfio"/>
-    <tag k="phone" v="+39 331 7495727"/>
+    <tag k="name" v="Saloon City"/>
+    <tag k="operator" v="Lingua Alfio"/>
+    <tag k="phone" v="+39 331 749 5727"/>
   </node>
   <node id="3474970217" lat="44.4192099" lon="7.4326748">
     <tag k="delivery" v="yes"/>
@@ -219,6 +248,16 @@
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Di Marco"/>
     <tag k="phone:mobile" v="+39 340 7600326"/>
+  </node>
+  <node id="3882927921" lat="44.4926510" lon="7.5451677">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Alimentari La Bottega del Gusto di Valter Giraudo"/>
+    <tag k="phone" v="+39 328 4718769"/>
+    <tag k="shop" v="convenience"/>
   </node>
   <node id="4472819038" lat="44.5147184" lon="7.4729824">
     <tag k="amenity" v="restaurant"/>
@@ -601,6 +640,25 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizza Flash"/>
     <tag k="phone" v="+39 0171 630775"/>
+  </node>
+  <node id="6305822228" lat="44.4940793" lon="7.5423110">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Luigi Pirandello"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Le delizie di Albi - Alimentari"/>
+    <tag k="phone" v="+39 342 1251277"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="6342617252" lat="44.3887965" lon="7.5502015">
+    <tag k="addr:housenumber" v="15bis"/>
+    <tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="medical_supply" v="orthopedic"/>
+    <tag k="name" v="Ortopedia I.T.O.S."/>
+    <tag k="shop" v="medical_supply"/>
+    <tag k="website" v="https://www.itoscuneo.com/"/>
   </node>
   <node id="6358397064" lat="44.3861275" lon="7.5389712">
     <tag k="addr:housenumber" v="25"/>
@@ -1171,20 +1229,6 @@
     <tag k="phone" v="+39 0171 689022"/>
     <tag k="shop" v="bakery"/>
   </node>
-  <node id="7289113302" lat="44.4926586" lon="7.5451998">
-    <tag k="addr:city" v="Tarantasca"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:postcode" v="12100"/>
-    <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/labottegadelgustotarantasca/"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="description" v="Consegnano a domicilio fino a Madonna dell'Olmo"/>
-    <tag k="fixme" v="position estimated"/>
-    <tag k="name" v="La Bottega del Gusto"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-12:30,16:00-19:30; Su 08:00-12:30"/>
-    <tag k="phone" v="+39 328 471 8769"/>
-    <tag k="shop" v="convenience"/>
-  </node>
   <node id="7289155704" lat="44.3841393" lon="7.5406647">
     <tag k="addr:housenumber" v="47a"/>
     <tag k="addr:street" v="Via Venti Settembre"/>
@@ -1537,12 +1581,12 @@
   </node>
   <node id="7306948224" lat="44.4988403" lon="7.5122927">
     <tag k="addr:city" v="Busca"/>
-    <tag k="addr:housenumber" v="157/a"/>
+    <tag k="addr:housenumber" v="157a"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Tarantasca"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Azienda agricola di Ilaria Ichino - La Capanna"/>
-    <tag k="phone" v="+39 340 9988783"/>
+    <tag k="phone" v="+39 340 998 8783"/>
     <tag k="shop" v="dairy"/>
   </node>
   <node id="7306953000" lat="44.5176112" lon="7.4776463">
@@ -1551,6 +1595,47 @@
     <tag k="name" v="Pasticceria Fagiolo"/>
     <tag k="phone" v="+39 0171 945165"/>
     <tag k="shop" v="pastry"/>
+  </node>
+  <node id="7307067518" lat="44.4894452" lon="7.5433662">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Bisalta"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Troticoltura Cristian Testa"/>
+    <tag k="phone" v="+39 346 7224627"/>
+    <tag k="shop" v="seafood"/>
+  </node>
+  <node id="7307077948" lat="44.4956691" lon="7.5418681">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Alessandro Volta"/>
+    <tag k="agrarian" v="feed;seed;pellet"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Daniele Francesco Granatin"/>
+    <tag k="phone" v="+39 0171 931941"/>
+    <tag k="shop" v="agrarian"/>
+  </node>
+  <node id="7307086513" lat="44.4892145" lon="7.5457809">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Chiara Antonucci Alimentari"/>
+    <tag k="phone" v="+39 333 8892320"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7307086791" lat="44.4938348" lon="7.5449743">
+    <tag k="addr:city" v="Tarantasca"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="12020"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Tabaccheria Nilva Galfré"/>
+    <tag k="phone" v="+39 339 4346606"/>
+    <tag k="shop" v="tobacco"/>
   </node>
   <way id="341906477">
     <center lat="44.4366133" lon="7.4446193"/>
