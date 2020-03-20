@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-19T21:05:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-20T19:33:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -101,7 +101,7 @@
     <tag k="name" v="Prink"/>
     <tag k="operator" v="Aleki SNC di Sala Alessio Gianelio &amp; C."/>
     <tag k="phone" v="+39 349 6410294"/>
-    <tag k="shop" v="ink"/>
+    <tag k="shop" v="printer_ink"/>
   </node>
   <node id="2412584621" lat="44.3940332" lon="7.5559091">
     <tag k="addr:housenumber" v="4"/>
@@ -133,16 +133,24 @@
     <tag k="opening_hours" v="Tu,Th-Su 12:00-14:25,18:00-02:10"/>
     <tag k="phone" v="+39 0171 602061"/>
   </node>
+  <node id="3110884075" lat="44.6476509" lon="7.6554485">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="La &quot;baraca del gelato&quot;"/>
+    <tag k="phone" v="+39 379 1910431"/>
+  </node>
   <node id="3441538565" lat="44.5157371" lon="7.4783675">
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Corso Giovanni XXIII"/>
+    <tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia San Lorenzo"/>
     <tag k="phone" v="+39 0171 945255"/>
+    <tag k="ref:msal" v="1091"/>
   </node>
   <node id="3447242319" lat="44.4793641" lon="7.5054651">
     <tag k="addr:city" v="San Chiaffredo Tarantasca"/>
@@ -280,17 +288,19 @@
     <tag k="operator" v="Abrate Enrico"/>
     <tag k="phone" v="+39 0171 943923"/>
     <tag k="phone:mobile" v="+39 377 2318251"/>
+    <tag k="ref:msal" v="1079"/>
   </node>
   <node id="4473107900" lat="44.5150902" lon="7.4748565">
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="106"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Favro"/>
     <tag k="phone" v="+39 0171 945290"/>
+    <tag k="ref:msal" v="1082"/>
   </node>
   <node id="5397122021" lat="44.3857601" lon="7.5442727">
     <tag k="addr:housenumber" v="27"/>
@@ -303,6 +313,19 @@
     <tag k="ref:vatin" v="IT03242590044"/>
     <tag k="shop" v="bakery"/>
     <tag k="website" v="https://albero.delpane.it"/>
+  </node>
+  <node id="5397122034" lat="44.3881856" lon="7.5488399">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna per colombe pasquali, uova di cioccolato, pasticceria e gelato, vini. Servizio di prenotazione dalle 10 alle 17"/>
+    <tag k="name" v="Bar Gelateria Rondò"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-20:00; Su 07:00-12:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 0171 693900"/>
+    <tag k="phone:mobile" v="+39 335 5890688"/>
   </node>
   <node id="5402092336" lat="44.3775707" lon="7.5395501">
     <tag k="addr:city" v="Cuneo"/>
@@ -404,6 +427,24 @@
     <tag k="phone" v="+39 0171 692620"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="http://www.gastronomiagiraudo.it"/>
+  </node>
+  <node id="6038593234" lat="44.3869137" lon="7.5449442">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Sillano"/>
+    <tag k="phone" v="+39 0171 64450"/>
+  </node>
+  <node id="6058231448" lat="44.3898260" lon="7.5491263">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+    <tag k="contact:email" v="mondadori.cuneostore@gmail.com"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Scrivi una mail indicando i titoli desiderati e l'indirizzo per la spedizione.  PAGAMENTI: - SATISPAY sul numero di cellulare 331.6869763 -CARTA DOCENTE; -APP18; BONIFICO ord, IBAN: IT90H0845010201000000007502 - Banca Alpi Marittime - Ag. Cuneo 2"/>
+    <tag k="name" v="Mondadori Bookstore"/>
+    <tag k="shop" v="books"/>
   </node>
   <node id="6068082705" lat="44.3890578" lon="7.5403061">
     <tag k="addr:housenumber" v="19"/>
@@ -705,7 +746,7 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Eco store"/>
     <tag k="phone" v="+39 392 4050480"/>
-    <tag k="shop" v="ink"/>
+    <tag k="shop" v="printer_ink"/>
   </node>
   <node id="6466198055" lat="44.3826094" lon="7.5415535">
     <tag k="addr:city" v="Cuneo"/>
@@ -921,6 +962,17 @@
     <tag k="phone" v="+39 349 1360179"/>
     <tag k="shop" v="florist"/>
   </node>
+  <node id="6835198168" lat="44.3975004" lon="7.4801447">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Valle Grana"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Caffetteria Pasticceria Musso"/>
+    <tag k="operator" v="Pasticceria Musso di Musso Francesco"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 0171 300448"/>
+    <tag k="ref:vatin" v="IT03463350045"/>
+    <tag k="shop" v="pastry"/>
+  </node>
   <node id="6854314007" lat="44.3795136" lon="7.5297222">
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="21"/>
@@ -942,6 +994,13 @@
     <tag k="operator" v="Ortopedia Pegaso Snc"/>
     <tag k="phone" v="+39 0171 480640"/>
     <tag k="shop" v="medical_supply"/>
+  </node>
+  <node id="6855588409" lat="44.3659629" lon="7.5233632">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Franchino"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39  0171 491345"/>
+    <tag k="shop" v="pastry"/>
   </node>
   <node id="6872671494" lat="44.3874961" lon="7.5408009">
     <tag k="delivery" v="yes"/>
@@ -1274,7 +1333,7 @@
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Rigenera Cuneo di Marchetti Marco"/>
     <tag k="phone" v="+39 338 5977575"/>
-    <tag k="shop" v="ink"/>
+    <tag k="shop" v="printer_ink"/>
   </node>
   <node id="7289164947" lat="44.5115416" lon="7.4822769">
     <tag k="delivery" v="yes"/>
@@ -1348,7 +1407,7 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Control C"/>
     <tag k="phone:mobile" v="+39 328 4882278"/>
-    <tag k="shop" v="ink"/>
+    <tag k="shop" v="printer_ink"/>
   </node>
   <node id="7295079936" lat="44.4179601" lon="7.4290334">
     <tag k="delivery" v="yes"/>
@@ -1537,7 +1596,7 @@
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="103"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="contact:facebook" v="https://www.facebook.com/panetteriaantichisaporibusca"/>
     <tag k="delivery" v="yes"/>
     <tag k="fixme" v="position estimated"/>
@@ -1550,7 +1609,7 @@
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="no"/>
@@ -1562,7 +1621,7 @@
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="delivery" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Salumeria Cantaluppi"/>
@@ -1573,7 +1632,7 @@
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Corso Giovanni XXIII"/>
+    <tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
@@ -1611,7 +1670,7 @@
     <tag k="addr:city" v="Busca"/>
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Via Umberto I"/>
+    <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Stema"/>
     <tag k="phone" v="+39 0171 944467"/>
@@ -1684,6 +1743,106 @@
     <tag k="name" v="Stampa In"/>
     <tag k="office" v="delivery"/>
     <tag k="phone" v="+39 0171 695766"/>
+  </node>
+  <node id="7312118779" lat="44.5006175" lon="7.5855308">
+    <tag k="addr:city" v="Centallo"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="12044"/>
+    <tag k="addr:street" v="Piazza Vittorio Emanuele II"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Dolci tentazioni"/>
+    <tag k="opening_hours" v="Th-Tu 07:00-13:00,14:30-20:00"/>
+    <tag k="phone" v="+39 0171 214357"/>
+    <tag k="shop" v="pastry"/>
+  </node>
+  <node id="7312243220" lat="44.3784200" lon="7.5733047">
+    <tag k="addr:city" v="Spinetta"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Piazza Conti Gondolo della Riva"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna a domicilio su Spinetta e limitrofi."/>
+    <tag k="name" v="C'era una volta"/>
+    <tag k="opening_hours" v="Fr,Sa 18:00-22:30; Su 18:00-22:00"/>
+    <tag k="phone" v="+39 0171 403584"/>
+  </node>
+  <node id="7312771210" lat="44.6454210" lon="7.6568095">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Alveare di Savigliano"/>
+    <tag k="shop" v="deli"/>
+    <tag k="website" v="https://alvearechedicesi.it/it-IT/assemblies/10271"/>
+  </node>
+  <node id="7312771211" lat="44.6510750" lon="7.6568384">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Panetteria Lamberti"/>
+    <tag k="phone" v="+39 0172 711423"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7312771212" lat="44.6462826" lon="7.6551962">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Da Beate"/>
+    <tag k="phone" v="+39 334 7272388"/>
+    <tag k="shop" v="deli"/>
+  </node>
+  <node id="7312771213" lat="44.6470574" lon="7.6489761">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Tuttanatura Di Borio Claudio"/>
+    <tag k="phone" v="+39 0172 715015 +39 335 6752177"/>
+    <tag k="shop" v="garden_centre"/>
+  </node>
+  <node id="7312771214" lat="44.6473140" lon="7.6534769">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Latteria Agricola Fusero"/>
+    <tag k="phone" v="+39 0172 370327 +39 349 7225123"/>
+    <tag k="shop" v="dairy"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7312852480" lat="44.6475134" lon="7.6550849">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Aroma Savigliano"/>
+    <tag k="phone" v="+39 0172 373097"/>
+    <tag k="shop" v="coffee"/>
+    <tag k="website" v="http://www.aromavending.it/home/"/>
+  </node>
+  <node id="7312852481" lat="44.6426071" lon="7.6500785">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Villa Borgoglio"/>
+    <tag k="phone" v="+39 0172 2446640"/>
+  </node>
+  <node id="7312852482" lat="44.6526006" lon="7.6536258">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio di generi di prima necessità per COVID-19"/>
+    <tag k="name" v="Pizzeria Da Turel"/>
+    <tag k="phone" v="+39 0172 201746"/>
+  </node>
+  <node id="7312852483" lat="44.6457263" lon="7.6530759">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Bar Manuel"/>
+    <tag k="phone" v="+39 333 7956455"/>
+  </node>
+  <node id="7312852484" lat="44.6467091" lon="7.6539342">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+    <tag k="name" v="Ostu Bistrot"/>
+    <tag k="phone" v="+39 340 0553238"/>
+    <tag k="website" v="https://ostubistrot.it/"/>
   </node>
   <way id="341906477">
     <center lat="44.4366133" lon="7.4446193"/>
