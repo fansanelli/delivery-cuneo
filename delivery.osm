@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-20T19:33:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-21T17:50:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -836,6 +836,21 @@
     <tag k="phone" v="+39 0171 694822"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6611844291" lat="44.3928486" lon="7.5529822">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Via Armando Diaz"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/PerUnaBirra/"/>
+    <tag k="contact:mobile" v="+39 338 1111318"/>
+    <tag k="contact:phone" v="+39 0171 552131"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="yammano@tiscali.it"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="Per una birra"/>
+    <tag k="opening_hours" v="Tu-Sa 16:30-22:00"/>
+    <tag k="operator" v="Signori Davide"/>
+    <tag k="shop" v="brewing_supplies"/>
+  </node>
   <node id="6611933791" lat="44.3927068" lon="7.5498378">
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:mobile" v="+39 391 3004405"/>
@@ -1049,6 +1064,17 @@
     <tag k="phone" v="+39 0171 619409"/>
     <tag k="phone:mobile" v="+39 345 9223238"/>
     <tag k="shop" v="tobacco"/>
+  </node>
+  <node id="7014343877" lat="44.6469064" lon="7.6566679">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Piazza Cesare Battisti"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="fax" v="+39 0172 726 924"/>
+    <tag k="name" v="Pizzeria Bucefalo"/>
+    <tag k="phone" v="+39 0172 726924 +39 329 8267502"/>
   </node>
   <node id="7015863355" lat="44.4184000" lon="7.4302023">
     <tag k="addr:city" v="Caraglio"/>
@@ -1843,6 +1869,115 @@
     <tag k="name" v="Ostu Bistrot"/>
     <tag k="phone" v="+39 340 0553238"/>
     <tag k="website" v="https://ostubistrot.it/"/>
+  </node>
+  <node id="7314616325" lat="44.6492108" lon="7.6546544">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Oasi del gelato"/>
+    <tag k="phone" v="+39 329 3445072"/>
+  </node>
+  <node id="7314616326" lat="44.6449663" lon="7.6558708">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Dal Fruttaiolo"/>
+    <tag k="phone" v="+39 0172 21384"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="7315542851" lat="44.6509434" lon="7.6554523">
+    <tag k="amenity" v="cafe"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Bar Kursal"/>
+    <tag k="phone" v="+39 0172 31744"/>
+  </node>
+  <node id="7315542852" lat="44.6504139" lon="7.6534018">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Tutto a domicilio"/>
+    <tag k="office" v="delivery"/>
+    <tag k="phone" v="+39 3711559108"/>
+    <tag k="website" v="http://www.tuttoadomiciliocn.it/home/savigliano-2/"/>
+  </node>
+  <node id="7315542853" lat="44.6472138" lon="7.6566339">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Antica Osteria dell'Orsa"/>
+    <tag k="phone" v="+39 0172 711763"/>
+  </node>
+  <node id="7315542854" lat="44.6459754" lon="7.6479703">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Equinord"/>
+    <tag k="phone" v="+39 348 7759619"/>
+    <tag k="shop" v="sports"/>
+    <tag k="sport" v="equestrian"/>
+    <tag k="website" v="http://www.equinord.it/"/>
+  </node>
+  <node id="7315542855" lat="44.6469295" lon="7.6505747">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Ci.erre ferramenta"/>
+    <tag k="phone" v="+39 347 8830433 +39 348 2448481"/>
+    <tag k="shop" v="hardware"/>
+    <tag k="website" v="http://www.cierreferramenta.com/"/>
+  </node>
+  <node id="7315542856" lat="44.6482624" lon="7.6578878">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Prink"/>
+    <tag k="phone" v="+39 0172 371525 +39 340 1981138"/>
+    <tag k="shop" v="printer_ink"/>
+    <tag k="website" v="https://www.prink.it/savigliano-1052"/>
+  </node>
+  <node id="7315542857" lat="44.6467334" lon="7.6566070">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Crema &amp; Cioccolato"/>
+    <tag k="phone" v="+39 340 920652 +39 380 3296543"/>
+  </node>
+  <node id="7315542858" lat="44.6470211" lon="7.6558761">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Il Capriccio pizza al taglio"/>
+    <tag k="phone" v="+39 0172 712883"/>
+    <tag k="takeaway" v="only"/>
+  </node>
+  <node id="7315542859" lat="44.6468713" lon="7.6571676">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="30 e lode"/>
+    <tag k="phone" v="+39 0172 373364"/>
+    <tag k="website" v="http://pizza30elode.it/"/>
+  </node>
+  <node id="7315612691" lat="44.6490376" lon="7.6559264">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Pane e Vizi"/>
+    <tag k="phone" v="+39 0172 713523"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="7315612692" lat="44.6488940" lon="7.6560853">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="La Bottega alimentare"/>
+    <tag k="phone" v="+39 0172 7712671 +39 339 3260071"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="7315612693" lat="44.6457745" lon="7.6563697">
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="name" v="Bottega equosolidale Tam Tam"/>
+    <tag k="phone" v="+39 333 8154530"/>
+    <tag k="shop" v="general"/>
+    <tag k="website" v="https://tamtamsavigliano.wixsite.com/tamtam"/>
   </node>
   <way id="341906477">
     <center lat="44.4366133" lon="7.4446193"/>
