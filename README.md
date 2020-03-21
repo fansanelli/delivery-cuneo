@@ -9,3 +9,11 @@ out body center;
 >;
 
 ```
+
+per attivare le icone:
+
+```
+https://raw.githubusercontent.com/fansanelli/delivery-cuneo/master/markers/{amenity}{office}{shop}.png
+```
+
+TUTTI I DIRITTI SULLE ICONE SONO DI PROPRIETA' DI ICON FINDER (https://www.iconfinder.com/)
