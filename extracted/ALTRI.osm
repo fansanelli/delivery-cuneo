@@ -211,7 +211,7 @@
 	</node>
 	<node id="7312852480" lat="44.6475134" lon="7.6550849">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Aroma Savigliano"/>
 		<tag k="phone" v="+39 0172 373097"/>
 		<tag k="shop" v="coffee"/>

@@ -5,10 +5,11 @@ I dati sono ricavati con query overpass:
 ```
 ( area[name=Cuneo]; )->.searchArea;
 (
-  nwr["delivery"][delivery!=no]["name"!="La cantinetta"]["name"!="Tokyo Fusion Restaurant"](area.searchArea);
+  node["delivery"][delivery!=no]["name"!="La cantinetta"]["name"!="Tokyo Fusion Restaurant"](area.searchArea);
+  way["delivery"][delivery!=no]["name"!="La cantinetta"]["name"!="Tokyo Fusion Restaurant"](area.searchArea);>;
+
 );
-out body center;
->;
+out body;
 
 ```
 
@@ -20,7 +21,7 @@ delivery.osm
 
 - Categorie
 
-Installare python 3 e osmfilter
+Installare python 3, osmfilter e osmconvert
 ```
 $ python categories.py
 ```

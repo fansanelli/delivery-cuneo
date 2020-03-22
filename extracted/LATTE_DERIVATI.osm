@@ -3,7 +3,7 @@
 	<node id="3110884075" lat="44.6476509" lon="7.6554485">
 		<tag k="amenity" v="ice_cream"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="La &#34;baraca del gelato&#34;"/>
 		<tag k="phone" v="+39 379 1910431"/>
 	</node>
@@ -37,7 +37,7 @@
 	</node>
 	<node id="7312771214" lat="44.647314" lon="7.6534769">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Latteria Agricola Fusero"/>
 		<tag k="phone" v="+39 0172 370327 +39 349 7225123"/>
 		<tag k="shop" v="dairy"/>
@@ -46,7 +46,7 @@
 	<node id="7312852483" lat="44.6457263" lon="7.6530759">
 		<tag k="amenity" v="ice_cream"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Bar Manuel"/>
 		<tag k="phone" v="+39 333 7956455"/>
 	</node>
@@ -64,15 +64,7 @@
 		<tag k="name" v="Crema &#38; Cioccolato"/>
 		<tag k="phone" v="+39 340 920652 +39 380 3296543"/>
 	</node>
-	<way id="341906477">
-		<nd ref="3489695897"/>
-		<nd ref="3489695698"/>
-		<nd ref="3489695717"/>
-		<nd ref="3489695718"/>
-		<nd ref="3489695746"/>
-		<nd ref="3489695906"/>
-		<nd ref="3489695914"/>
-		<nd ref="3489695897"/>
+	<node id="1000000341906477" lat="44.4366133" lon="7.4446192">
 		<tag k="addr:housenumber" v="79"/>
 		<tag k="addr:place" v="Paschera San Defendente"/>
 		<tag k="delivery" v="yes"/>
@@ -83,5 +75,5 @@
 		<tag k="ref:vatin" v="IT02890860048"/>
 		<tag k="shop" v="dairy"/>
 		<tag k="website" v="https://www.caseificiomoris.it/"/>
-	</way>
+	</node>
 </osm>

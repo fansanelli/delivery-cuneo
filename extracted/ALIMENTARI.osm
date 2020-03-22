@@ -382,17 +382,10 @@
 	</node>
 	<node id="7312771210" lat="44.645421" lon="7.6568095">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Alveare di Savigliano"/>
 		<tag k="shop" v="deli"/>
 		<tag k="website" v="https://alvearechedicesi.it/it-IT/assemblies/10271"/>
-	</node>
-	<node id="7312771212" lat="44.6462826" lon="7.6551962">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
-		<tag k="name" v="Da Beate"/>
-		<tag k="phone" v="+39 334 7272388"/>
-		<tag k="shop" v="deli"/>
 	</node>
 	<node id="7315612692" lat="44.648894" lon="7.6560853">
 		<tag k="delivery" v="yes"/>

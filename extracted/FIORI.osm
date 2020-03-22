@@ -38,7 +38,7 @@
 	</node>
 	<node id="7312771213" lat="44.6470574" lon="7.6489761">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Tuttanatura Di Borio Claudio"/>
 		<tag k="phone" v="+39 0172 715015 +39 335 6752177"/>
 		<tag k="shop" v="garden_centre"/>

@@ -142,7 +142,7 @@
 	</node>
 	<node id="7312771211" lat="44.651075" lon="7.6568384">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Panetteria Lamberti"/>
 		<tag k="phone" v="+39 0172 711423"/>
 		<tag k="shop" v="bakery"/>

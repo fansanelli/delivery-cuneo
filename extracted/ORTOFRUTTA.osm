@@ -72,19 +72,14 @@
 		<tag k="phone" v="+39 0172 21384"/>
 		<tag k="shop" v="greengrocer"/>
 	</node>
-	<way id="781539585">
-		<nd ref="7296747547"/>
-		<nd ref="7296747546"/>
-		<nd ref="7296747545"/>
-		<nd ref="7296747544"/>
-		<nd ref="7296747543"/>
-		<nd ref="7296747542"/>
-		<nd ref="7296747541"/>
-		<nd ref="7296747540"/>
-		<nd ref="7296747539"/>
-		<nd ref="7296747538"/>
-		<nd ref="7296747537"/>
-		<nd ref="7296747547"/>
+	<node id="7318113634" lat="44.640597" lon="7.6572134">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Otrofrutta F.lli Michelazzo"/>
+		<tag k="phone" v="+39 338 1229686"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<node id="1000000781539585" lat="44.3424216" lon="7.5507837">
 		<tag k="addr:housenumber" v="15"/>
 		<tag k="addr:street" v="Via Traversagna"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/mangiargenuino/"/>
@@ -95,5 +90,5 @@
 		<tag k="phone:mobile" v="+39 340 7977519"/>
 		<tag k="shop" v="farm"/>
 		<tag k="website" v="https://marchisiopietroboves.com/"/>
-	</way>
+	</node>
 </osm>

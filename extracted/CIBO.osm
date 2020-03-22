@@ -332,6 +332,13 @@
 		<tag k="opening_hours" v="Fr,Sa 18:00-22:30; Su 18:00-22:00"/>
 		<tag k="phone" v="+39 0171 403584"/>
 	</node>
+	<node id="7312771212" lat="44.6462826" lon="7.6551962">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Da Beate"/>
+		<tag k="phone" v="+39 334 7272388"/>
+	</node>
 	<node id="7312852481" lat="44.6426071" lon="7.6500785">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="delivery" v="yes"/>
@@ -351,7 +358,7 @@
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="regional"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
 		<tag k="name" v="Ostu Bistrot"/>
 		<tag k="phone" v="+39 340 0553238"/>
 		<tag k="website" v="https://ostubistrot.it/"/>

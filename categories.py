@@ -22,6 +22,7 @@
 from shutil import which
 import sys
 import subprocess
+import os
 
 
 CATEGORIES_MAP = {
@@ -46,10 +47,17 @@ def main():
         print('osmfilter not found')
         sys.exit(0)
 
+    if which('osmconvert') is None:
+        print('osmconvert not found')
+        sys.exit(0)
+
+    # calcola il centroide delle way
+    subprocess.run(['osmconvert', './delivery.osm', '--all-to-nodes', '-o=./tmp_delivery.osm'])
+
     for key, value in CATEGORIES_MAP.items():
         f = open('extracted/' + key + '.osm', 'w')
         keep = ' or '.join(value)
-        subprocess.run(['osmfilter', './delivery.osm', '--keep=' + keep], stdout=f)
+        subprocess.run(['osmfilter', './tmp_delivery.osm', '--keep=' + keep], stdout=f)
         f.close()
 
     drop = ' or '.join(CATEGORIES_MAP['ABBIGLIAMENTO']
@@ -66,7 +74,10 @@ def main():
         + CATEGORIES_MAP['PANETTERIE']
         + CATEGORIES_MAP['SALUTE'])
     f = open('extracted/ALTRI.osm', 'w')
-    subprocess.run(['osmfilter', './delivery.osm', '--drop=' + drop], stdout=f)
+    # keep=* rimuove i nodi vuoti
+    subprocess.run(['osmfilter', './tmp_delivery.osm', '--keep=*', '--drop=' + drop], stdout=f)
+
+    os.remove("./tmp_delivery.osm")
 
 
 if __name__ == "__main__":
