@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="3110884075" lat="44.6476509" lon="7.6554485">
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="name" v="La &#34;baraca del gelato&#34;"/>
+		<tag k="phone" v="+39 379 1910431"/>
+	</node>
+	<node id="7293198123" lat="44.3947601" lon="7.495942">
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Ordini tramite whatsapp o telefonando. Consegna su Cuneo e limitrofi. Consegna GRATUITA. Ordine minimo circa 20€."/>
+		<tag k="name" v="Famù negozio"/>
+		<tag k="payment:bancomat" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="phone" v="+39 351 8456442"/>
+		<tag k="shop" v="dairy"/>
+		<tag k="website" v="http://loyogurtfamu.it"/>
+	</node>
+	<node id="7296221053" lat="44.4171848" lon="7.4272642">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="La Poiana"/>
+		<tag k="phone" v="+39 0171 619862"/>
+		<tag k="shop" v="cheese"/>
+		<tag k="website" v="https://www.cooperativalapoiana.it"/>
+	</node>
+	<node id="7306948224" lat="44.4988403" lon="7.5122927">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="157a"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Tarantasca"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Azienda agricola di Ilaria Ichino - La Capanna"/>
+		<tag k="phone" v="+39 340 998 8783"/>
+		<tag k="shop" v="dairy"/>
+	</node>
+	<node id="7312771214" lat="44.647314" lon="7.6534769">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="name" v="Latteria Agricola Fusero"/>
+		<tag k="phone" v="+39 0172 370327 +39 349 7225123"/>
+		<tag k="shop" v="dairy"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="7312852483" lat="44.6457263" lon="7.6530759">
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="name" v="Bar Manuel"/>
+		<tag k="phone" v="+39 333 7956455"/>
+	</node>
+	<node id="7314616325" lat="44.6492108" lon="7.6546544">
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Oasi del gelato"/>
+		<tag k="phone" v="+39 329 3445072"/>
+	</node>
+	<node id="7315542857" lat="44.6467334" lon="7.656607">
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Crema &#38; Cioccolato"/>
+		<tag k="phone" v="+39 340 920652 +39 380 3296543"/>
+	</node>
+	<way id="341906477">
+		<nd ref="3489695897"/>
+		<nd ref="3489695698"/>
+		<nd ref="3489695717"/>
+		<nd ref="3489695718"/>
+		<nd ref="3489695746"/>
+		<nd ref="3489695906"/>
+		<nd ref="3489695914"/>
+		<nd ref="3489695897"/>
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:place" v="Paschera San Defendente"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="direzionecommercialemoris@gmail.com"/>
+		<tag k="landuse" v="farmyard"/>
+		<tag k="name" v="Caseificio Moris"/>
+		<tag k="phone" v="+39 349 3449540"/>
+		<tag k="ref:vatin" v="IT02890860048"/>
+		<tag k="shop" v="dairy"/>
+		<tag k="website" v="https://www.caseificiomoris.it/"/>
+	</way>
+</osm>

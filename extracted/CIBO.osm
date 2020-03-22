@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1833194099" lat="44.4913069" lon="7.5422389">
+		<tag k="addr:city" v="Tarantasca"/>
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:postcode" v="12020"/>
+		<tag k="addr:street" v="Via Circonvallazione"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian;fish;pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Il Pianeta 2000 Ristorante Pizzeria"/>
+		<tag k="phone" v="+39 0171 931858"/>
+	</node>
+	<node id="2412584621" lat="44.3940332" lon="7.5559091">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Piazzale Vecchia Stazione"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="authorization" v="37"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/BirroviaCuneo/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="La Birrovia è un mondo di sapori, odori, sensazioni, cultura, svago, convivialità, arrivi e partenze. Fai capolino ed unisciti al viaggio!"/>
+		<tag k="email" v="michelet1971@icloud.com"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="microbrewery" v="yes"/>
+		<tag k="name" v="Birrovia Vecchia Stazione"/>
+		<tag k="opening_hours" v="We, Th 17:00-01:00; Fr 17:00-02:00; Sa 18:00-03:00; Su 18:00-01:00"/>
+		<tag k="operator" v="Buffet Stazione Cuneo Gesso"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone:mobile" v="+39 340 8085227"/>
+		<tag k="ref:vatin" v="IT03603880042"/>
+		<tag k="tobacco" v="yes"/>
+	</node>
+	<node id="2639877631" lat="44.3860349" lon="7.5439369">
+		<tag k="addr:housenumber" v="40"/>
+		<tag k="addr:street" v="Corso Dante Alighieri"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizzeria Vesuvio"/>
+		<tag k="opening_hours" v="Tu,Th-Su 12:00-14:25,18:00-02:10"/>
+		<tag k="phone" v="+39 0171 602061"/>
+	</node>
+	<node id="3450446420" lat="44.4757521" lon="7.5079779">
+		<tag k="addr:city" v="San Chiaffredo Tarantasca"/>
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:postcode" v="12020"/>
+		<tag k="addr:street" v="Via Laghi di Avigliana"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian;pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Saloon City"/>
+		<tag k="operator" v="Lingua Alfio"/>
+		<tag k="phone" v="+39 331 749 5727"/>
+	</node>
+	<node id="3474970249" lat="44.4194222" lon="7.4325171">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:street" v="Piazza Martiri della Libertà"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/www.ristorantepizzeriatavernaparadiso.it/"/>
+		<tag k="cuisine" v="pizza;italian"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="info@tavernaparadiso.it"/>
+		<tag k="name" v="Pizzeria Taverna Paradiso"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+39 0171 817393"/>
+		<tag k="phone:mobile" v="+39 329 4236709"/>
+		<tag k="website" v="https://www.ristorantepizzeriatavernaparadiso.it/"/>
+	</node>
+	<node id="4472819038" lat="44.5147184" lon="7.4729824">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizza &#38; Fantasia"/>
+		<tag k="phone" v="+39 0171 946013"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
+	<node id="5402092336" lat="44.3775707" lon="7.5395501">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Medaglie d&#39;Oro"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Pizza-Medaglie-Doro-1437767796484999/"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizzeria Medaglie d&#39;Oro"/>
+		<tag k="opening_hours" v="Mo 18:15-23:00; We 12:00-14:00,18:15-23:00; Th-Su 18:15-23:00"/>
+		<tag k="phone" v="+39 345 4200669"/>
+	</node>
+	<node id="6018280867" lat="44.393807" lon="7.5513196">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Santa Maria"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="japanese;sushi"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Kombu"/>
+		<tag k="opening_hours" v="Mo 18:30-22:30; Tu-Sa 12:30-14:30,18:30-23:00; Su 18:30-23:00"/>
+		<tag k="phone" v="+39 0171 605615"/>
+		<tag k="takeaway" v="yes"/>
+		<tag k="website" v="https://shop.kombusushi.com"/>
+	</node>
+	<node id="6033563131" lat="44.3801215" lon="7.5385062">
+		<tag k="addr:housenumber" v="71"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="kebab;pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna gratuita per ordini superiori a 9 Euro"/>
+		<tag k="name" v="Med Casa del kebap"/>
+		<tag k="opening_hours" v="12:00-23:59"/>
+		<tag k="oven" v="gas_fired"/>
+		<tag k="phone" v="+39 342 015 7593"/>
+	</node>
+	<node id="6069087797" lat="44.3349923" lon="7.4917451">
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:street" v="Corso Giovanni e Spartaco Barale"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="brewery" v="Birra Forst"/>
+		<tag k="changing_table" v="yes"/>
+		<tag k="changing_table:location" v="unisex_toilet"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna gratuita a Borgo San Dalmazzo"/>
+		<tag k="name" v="Italy Pizzeria"/>
+		<tag k="opening_hours" v="Mo-Su 12:00-14:00,19:00-24:00"/>
+		<tag k="operator" v="Italy"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="oven" v="gas_fired"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="phone" v="+39 0171 261699"/>
+		<tag k="ref:vatin" v="IT03517840041"/>
+	</node>
+	<node id="6130371486" lat="44.3926051" lon="7.5500258">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="2b"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Dronero"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="burger"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Bove’s Macellai"/>
+		<tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
+		<tag k="phone" v="+39 0171 692624"/>
+		<tag k="website" v="http://www.boves1929.it"/>
+	</node>
+	<node id="6140017111" lat="44.3908068" lon="7.5473757">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:street" v="Via Carlo Pascal"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="barbecue"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="elnadalessandro@gmail.com"/>
+		<tag k="name" v="Macelleria D&#39;Ale"/>
+		<tag k="opening_hours" v="Mo-Sa 09:30-14:30; Mo-Th 16:30-20:00; Fr 16:30-22:30; Sa 16:30-23:00"/>
+		<tag k="opening_hours:kitchen" v="Mo-Sa 12:00-14:30; Fr 19:00-22:30; Sa 19:00-23:00"/>
+		<tag k="operator" v="Macelleria - Gastronomia D&#39;Ale di Arborino Alessandro &#38; C. S.N.C."/>
+		<tag k="phone" v="+39 0171 65759"/>
+		<tag k="ref:vatin" v="IT03246830040"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="6201523711" lat="44.3910114" lon="7.5489401">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Vicolo Cattedrale"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/InfernottoYumPub/"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/infernotto_yum_pub/"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Infernotto"/>
+		<tag k="opening_hours" v="Mo-Tu,Th-Sa 11:30-15:00,18:00-24:00; Su 11:00-14:00,18:00-24:00"/>
+		<tag k="operator" v="Infernotto S.A.S."/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="oven" v="no"/>
+		<tag k="phone:mobile" v="+39 339 5865036"/>
+		<tag k="ref:vatin" v="IT03773800044"/>
+		<tag k="website" v="https://infernotto.pub"/>
+	</node>
+	<node id="6298798509" lat="44.3869182" lon="7.5445247">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizza Flash"/>
+		<tag k="phone" v="+39 0171 630775"/>
+	</node>
+	<node id="6515989776" lat="44.379359" lon="7.5310743">
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="pizza;kebab"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:fee" v="yes"/>
+		<tag k="email" v="pitali_matteo@yahoo.it"/>
+		<tag k="name" v="Crazy pizza"/>
+		<tag k="operator" v="Pitali Matteo"/>
+		<tag k="phone" v="+39 346 1212656"/>
+	</node>
+	<node id="6547627107" lat="44.3809534" lon="7.540513">
+		<tag k="addr:housenumber" v="7c"/>
+		<tag k="addr:street" v="Corso Vittorio Emanuele Secondo"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="pizza;hamburger"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Yuppidù Pizza"/>
+		<tag k="opening_hours" v="Mo-Su 18:30-23:15"/>
+		<tag k="phone" v="+39 0171 631827"/>
+		<tag k="website" v="http://yuppidupizza-cuneo.it/"/>
+	</node>
+	<node id="6611844291" lat="44.3928486" lon="7.5529822">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Armando Diaz"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/PerUnaBirra/"/>
+		<tag k="contact:mobile" v="+39 338 1111318"/>
+		<tag k="contact:phone" v="+39 0171 552131"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="yammano@tiscali.it"/>
+		<tag k="microbrewery" v="yes"/>
+		<tag k="name" v="Per una birra"/>
+		<tag k="opening_hours" v="Tu-Sa 16:30-22:00"/>
+		<tag k="operator" v="Signori Davide"/>
+		<tag k="shop" v="brewing_supplies"/>
+	</node>
+	<node id="6611933791" lat="44.3927068" lon="7.5498378">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 391 3004405"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="I 5 sensi"/>
+		<tag k="phone" v="+39 0171 325145"/>
+	</node>
+	<node id="6971479405" lat="44.418943" lon="7.4319017">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="203"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="burger;kebab;pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Europizza 2"/>
+		<tag k="opening_hours" v="Tu-Su 11:30-14:30,17:00-23:30"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+39 0171 619410"/>
+	</node>
+	<node id="7014343877" lat="44.6469064" lon="7.6566679">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:street" v="Piazza Cesare Battisti"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="fax" v="+39 0172 726 924"/>
+		<tag k="name" v="Pizzeria Bucefalo"/>
+		<tag k="phone" v="+39 0172 726924 +39 329 8267502"/>
+	</node>
+	<node id="7041920027" lat="44.4324071" lon="7.5068911">
+		<tag k="addr:housenumber" v="230"/>
+		<tag k="addr:street" v="Via della Battaglia"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="burger;pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="La Pantalera"/>
+		<tag k="opening_hours" v="Mo-Sa 19:00-23:30; Su 12:00-15:00,19:00-23:00"/>
+		<tag k="phone" v="+39 0171 682941"/>
+	</node>
+	<node id="7074400566" lat="44.3939234" lon="7.5203746">
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizza Italia"/>
+	</node>
+	<node id="7283446098" lat="44.3294908" lon="7.4881627">
+		<tag k="addr:city" v="Borgo San Dalmazzo"/>
+		<tag k="addr:housenumber" v="91"/>
+		<tag k="addr:postcode" v="12011"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizza al taglio Re Antò"/>
+		<tag k="opening_hours" v="Tu-Fr 11:30-14:30,18:00-23:00; Su 17:30-23:00"/>
+		<tag k="phone" v="+39 333 3333639"/>
+	</node>
+	<node id="7293205170" lat="44.3799923" lon="7.5461677">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="33"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Viale degli Angeli"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Telefonate per sapere la proposta del giorno!"/>
+		<tag k="name" v="La Novella"/>
+		<tag k="phone" v="+39 339 7374519"/>
+	</node>
+	<node id="7304098757" lat="44.5249901" lon="7.4800572">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="69"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Corso Giuseppe Romita"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Sherwood Pub"/>
+		<tag k="phone" v="+39 0171 943170"/>
+		<tag k="phone:mobile" v="+39 338 2795261"/>
+	</node>
+	<node id="7304241312" lat="44.5157987" lon="7.477992">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Di Pasta...In Pizza"/>
+		<tag k="phone:mobile" v="+39 334 7634722"/>
+	</node>
+	<node id="7312243220" lat="44.37842" lon="7.5733047">
+		<tag k="addr:city" v="Spinetta"/>
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Piazza Conti Gondolo della Riva"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna a domicilio su Spinetta e limitrofi."/>
+		<tag k="name" v="C&#39;era una volta"/>
+		<tag k="opening_hours" v="Fr,Sa 18:00-22:30; Su 18:00-22:00"/>
+		<tag k="phone" v="+39 0171 403584"/>
+	</node>
+	<node id="7312852481" lat="44.6426071" lon="7.6500785">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Villa Borgoglio"/>
+		<tag k="phone" v="+39 0172 2446640"/>
+	</node>
+	<node id="7312852482" lat="44.6526006" lon="7.6536258">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio di generi di prima necessità per COVID-19"/>
+		<tag k="name" v="Pizzeria Da Turel"/>
+		<tag k="phone" v="+39 0172 201746"/>
+	</node>
+	<node id="7312852484" lat="44.6467091" lon="7.6539342">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="name" v="Ostu Bistrot"/>
+		<tag k="phone" v="+39 340 0553238"/>
+		<tag k="website" v="https://ostubistrot.it/"/>
+	</node>
+	<node id="7315542853" lat="44.6472138" lon="7.6566339">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Antica Osteria dell&#39;Orsa"/>
+		<tag k="phone" v="+39 0172 711763"/>
+	</node>
+	<node id="7315542858" lat="44.6470211" lon="7.6558761">
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Il Capriccio pizza al taglio"/>
+		<tag k="phone" v="+39 0172 712883"/>
+		<tag k="takeaway" v="only"/>
+	</node>
+	<node id="7315542859" lat="44.6468713" lon="7.6571676">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="30 e lode"/>
+		<tag k="phone" v="+39 0172 373364"/>
+		<tag k="website" v="http://pizza30elode.it/"/>
+	</node>
+</osm>

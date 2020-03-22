@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1893571565" lat="44.4952613" lon="7.5413183">
+		<tag k="addr:city" v="Tarantasca"/>
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="12020"/>
+		<tag k="addr:street" v="Via Luigi Pirandello"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Barbero Ferramenta di Fabrizio Barbero"/>
+		<tag k="phone" v="+39 0171 931541"/>
+		<tag k="shop" v="hardware"/>
+	</node>
+	<node id="3449288500" lat="44.4773969" lon="7.5068936">
+		<tag k="addr:city" v="San Chiaffredo Tarantasca"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:street" v="Via Laghi di Avigliana"/>
+		<tag k="agrarian" v="feed;seed"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="El Granatin di Enzo Corrado"/>
+		<tag k="shop" v="agrarian"/>
+	</node>
+	<node id="5839870389" lat="44.4186901" lon="7.4331295">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Edicola Mandile Simona"/>
+		<tag k="phone:mobile" v="+39 339 2531361"/>
+		<tag k="shop" v="tobacco"/>
+	</node>
+	<node id="6058231448" lat="44.389826" lon="7.5491263">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+		<tag k="contact:email" v="mondadori.cuneostore@gmail.com"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Scrivi una mail indicando i titoli desiderati e l&#39;indirizzo per la spedizione.  PAGAMENTI: - SATISPAY sul numero di cellulare 331.6869763 -CARTA DOCENTE; -APP18; BONIFICO ord, IBAN: IT90H0845010201000000007502 - Banca Alpi Marittime - Ag. Cuneo 2"/>
+		<tag k="name" v="Mondadori Bookstore"/>
+		<tag k="shop" v="books"/>
+	</node>
+	<node id="6418937919" lat="44.392319" lon="7.5523919">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Magnolia"/>
+		<tag k="phone" v="+39 0171 070182"/>
+		<tag k="shop" v="perfumery"/>
+	</node>
+	<node id="6635193476" lat="44.3926462" lon="7.5510912">
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="dadybooks@libero.it"/>
+		<tag k="name" v="Gulliver&#39;s"/>
+		<tag k="phone" v="+39 329 4199539"/>
+		<tag k="shop" v="books"/>
+	</node>
+	<node id="6696715650" lat="44.382188" lon="7.5408831">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Antonio Stoppani"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Bioprofumeria - Bio e Vegan"/>
+		<tag k="opening_hours" v="Mo 15:30-19:30; Tu-Sa 09:00-12:30,15:30-19:30"/>
+		<tag k="phone" v="+39 335 7067241"/>
+		<tag k="shop" v="perfumery"/>
+	</node>
+	<node id="6854314007" lat="44.3795136" lon="7.5297222">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Corso Alcide De Gasperi"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Nutrimind"/>
+		<tag k="opening_hours" v="Mo 14:00-19:00; Tu-Sa 10:00-19:00"/>
+		<tag k="phone" v="+39 320 6017904"/>
+		<tag k="shop" v="nutrition_supplements"/>
+	</node>
+	<node id="6872671494" lat="44.3874961" lon="7.5408009">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Bottega Ludica"/>
+		<tag k="opening_hours" v="Tu 08:30-13:00; Mo-Sa 15:30-20:00; Sa 10:00-13:00"/>
+		<tag k="phone" v="+39 347 9646610"/>
+		<tag k="shop" v="toys"/>
+	</node>
+	<node id="6895003185" lat="44.4169038" lon="7.4261698">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/libreria.passpartout/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="passpartout.caraglio@libero.it"/>
+		<tag k="name" v="Libreria Passpartout"/>
+		<tag k="opening_hours" v="Mo-Sa 09:30-12:30,16:00-19:30; Su 09:30-19:30"/>
+		<tag k="phone:mobile" v="+39 320 1848224"/>
+		<tag k="shop" v="books"/>
+	</node>
+	<node id="7009189985" lat="44.4180132" lon="7.4301378">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="153"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Tabaccheria Mo.Ni.Ca."/>
+		<tag k="opening_hours" v="Mo-Sa 07:30-12:30,14:00-19:30"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="phone" v="+39 0171 619409"/>
+		<tag k="phone:mobile" v="+39 345 9223238"/>
+		<tag k="shop" v="tobacco"/>
+	</node>
+	<node id="7170633530" lat="44.4184085" lon="7.4308842">
+		<tag k="addr:housenumber" v="152"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Il mondo di Laura"/>
+		<tag k="opening_hours" v="Tu-Sa 09:00-12:30,15:30-19:30; Su 09:30-12:30"/>
+		<tag k="operator" v="Laura Di Garelli"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+39 0171 619500"/>
+		<tag k="phone:mobile" v="+39 347 6828743"/>
+		<tag k="shop" v="sewing"/>
+	</node>
+	<node id="7287719731" lat="44.5145092" lon="7.4732538">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Piazza Regina Margherita"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="info@otticainvista.com"/>
+		<tag k="name" v="Ottica in Vista"/>
+		<tag k="phone" v="+39 0171 943461"/>
+		<tag k="phone:mobile" v="+39 331 9612090"/>
+		<tag k="ref:vatin" v="IT03114430048"/>
+		<tag k="shop" v="optician"/>
+		<tag k="website" v="http://www.otticainvista.com/"/>
+	</node>
+	<node id="7295079936" lat="44.4179601" lon="7.4290334">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Casalinghi Ex Parola"/>
+		<tag k="phone:mobile" v="+39 339 3104858"/>
+		<tag k="shop" v="houseware"/>
+	</node>
+	<node id="7295160828" lat="44.4170837" lon="7.4273602">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Ferramenta Armando"/>
+		<tag k="phone:mobile" v="+39 347 6011705"/>
+		<tag k="shop" v="hardware"/>
+	</node>
+	<node id="7296203101" lat="44.4172274" lon="7.4277439">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="La Piramide"/>
+		<tag k="phone:mobile" v="+39 393 1829005"/>
+		<tag k="shop" v="houseware"/>
+	</node>
+	<node id="7296207271" lat="44.4178987" lon="7.4295655">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Gioielleria Aretia"/>
+		<tag k="phone" v="+39 327 0029130"/>
+		<tag k="shop" v="jewelry"/>
+	</node>
+	<node id="7296208692" lat="44.4168948" lon="7.4283386">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Piemme"/>
+		<tag k="phone" v="+39 347 8150625"/>
+		<tag k="shop" v="curtain"/>
+	</node>
+	<node id="7303941776" lat="44.5109979" lon="7.5936019">
+		<tag k="addr:housenumber" v="321"/>
+		<tag k="addr:place" v="Regione Madonna dei Prati"/>
+		<tag k="agrarian" v="feed;seed"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="vendite.irma@pavengroup.com"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Paven Srl"/>
+		<tag k="phone" v="+39 0171 211700"/>
+		<tag k="ref:vatin" v="IT02414610044"/>
+		<tag k="shop" v="agrarian"/>
+		<tag k="website" v="http://www.pavengroup.com/"/>
+	</node>
+	<node id="7307077948" lat="44.4956691" lon="7.5418681">
+		<tag k="addr:city" v="Tarantasca"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="12020"/>
+		<tag k="addr:street" v="Via Alessandro Volta"/>
+		<tag k="agrarian" v="feed;seed;pellet"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Daniele Francesco Granatin"/>
+		<tag k="phone" v="+39 0171 931941"/>
+		<tag k="shop" v="agrarian"/>
+	</node>
+	<node id="7307086791" lat="44.4938348" lon="7.5449743">
+		<tag k="addr:city" v="Tarantasca"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="12020"/>
+		<tag k="addr:street" v="Via Vittorio Veneto"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Tabaccheria Nilva Galfré"/>
+		<tag k="phone" v="+39 339 4346606"/>
+		<tag k="shop" v="tobacco"/>
+	</node>
+	<node id="7310315792" lat="44.3917897" lon="7.545306">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Via Carlo Pascal"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna quotidiano La Stampa"/>
+		<tag k="email" v="stampain@nuvolariweb.com"/>
+		<tag k="name" v="Stampa In"/>
+		<tag k="office" v="delivery"/>
+		<tag k="phone" v="+39 0171 695766"/>
+	</node>
+	<node id="7312852480" lat="44.6475134" lon="7.6550849">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="name" v="Aroma Savigliano"/>
+		<tag k="phone" v="+39 0172 373097"/>
+		<tag k="shop" v="coffee"/>
+		<tag k="website" v="http://www.aromavending.it/home/"/>
+	</node>
+	<node id="7315542852" lat="44.6504139" lon="7.6534018">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Tutto a domicilio"/>
+		<tag k="office" v="delivery"/>
+		<tag k="phone" v="+39 3711559108"/>
+		<tag k="website" v="http://www.tuttoadomiciliocn.it/home/savigliano-2/"/>
+	</node>
+	<node id="7315542854" lat="44.6459754" lon="7.6479703">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Equinord"/>
+		<tag k="phone" v="+39 348 7759619"/>
+		<tag k="shop" v="sports"/>
+		<tag k="sport" v="equestrian"/>
+		<tag k="website" v="http://www.equinord.it/"/>
+	</node>
+	<node id="7315542855" lat="44.6469295" lon="7.6505747">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Ci.erre ferramenta"/>
+		<tag k="phone" v="+39 347 8830433 +39 348 2448481"/>
+		<tag k="shop" v="hardware"/>
+		<tag k="website" v="http://www.cierreferramenta.com/"/>
+	</node>
+</osm>

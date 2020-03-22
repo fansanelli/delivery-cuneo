@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="3496506663" lat="44.4171192" lon="7.4270728">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Macelleria Serra"/>
+		<tag k="phone" v="+39 0171 619105"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="6140017111" lat="44.3908068" lon="7.5473757">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:street" v="Via Carlo Pascal"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="barbecue"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="elnadalessandro@gmail.com"/>
+		<tag k="name" v="Macelleria D&#39;Ale"/>
+		<tag k="opening_hours" v="Mo-Sa 09:30-14:30; Mo-Th 16:30-20:00; Fr 16:30-22:30; Sa 16:30-23:00"/>
+		<tag k="opening_hours:kitchen" v="Mo-Sa 12:00-14:30; Fr 19:00-22:30; Sa 19:00-23:00"/>
+		<tag k="operator" v="Macelleria - Gastronomia D&#39;Ale di Arborino Alessandro &#38; C. S.N.C."/>
+		<tag k="phone" v="+39 0171 65759"/>
+		<tag k="ref:vatin" v="IT03246830040"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="6269281646" lat="44.3924514" lon="7.5508951">
+		<tag k="addr:housenumber" v="29b"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="butcher" v="poultry"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="robertagiraudo92@virgilio.it"/>
+		<tag k="name" v="Polleria Baudino"/>
+		<tag k="operator" v="Giraudo Sergio"/>
+		<tag k="phone" v="+39 0171 693568"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="6290787051" lat="44.3756062" lon="7.5331994">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:street" v="Corso Francia"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="cuneo@fattoriebovingrana.com"/>
+		<tag k="name" v="Macelleria Fattorie Bovin Grana"/>
+		<tag k="phone" v="+39 0171 500447"/>
+		<tag k="shop" v="butcher"/>
+		<tag k="website" v="http://www.fattoriebovingrana.com"/>
+	</node>
+	<node id="6741665122" lat="44.3895004" lon="7.5614479">
+		<tag k="addr:city" v="Borgo San Giuseppe"/>
+		<tag k="addr:housenumber" v="14f"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Bisalta"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Agrimacelleria, Macelleria Ghibaudo"/>
+		<tag k="opening_hours" v="Tu-Sa 08:15-13:00,16:00-19:30"/>
+		<tag k="phone" v="+39 0171 401266"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7023698875" lat="44.3991963" lon="7.5716051">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Tetto dell&#39;Ola"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="brignonemarco@gmail.com"/>
+		<tag k="name" v="Macelleria Fratelli Brignone"/>
+		<tag k="operator" v="Macelleria Fratelli Brignone Snc"/>
+		<tag k="phone" v="+39 0171 401376"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7283477362" lat="44.3604051" lon="7.4750752">
+		<tag k="addr:city" v="Vignolo"/>
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="12010"/>
+		<tag k="addr:street" v="Piazza Grande"/>
+		<tag k="contact:mobile" v="+39 348 6921079"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna a domicilio gratuita su Vignolo e dintorni. Disponibili al telefono e tramite WhatsApp"/>
+		<tag k="name" v="Bottega della carne"/>
+		<tag k="opening_hours" v="Mo-Sa 07:00-18:30"/>
+		<tag k="phone" v="+39 0171 48273"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7296212842" lat="44.4171357" lon="7.4275519">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Macelleria Marco"/>
+		<tag k="phone:mobile" v="+39 342 5313751"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7296228776" lat="44.4174972" lon="7.4278252">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="L&#39;antico portico"/>
+		<tag k="phone" v="+39 0171 619048"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7303891062" lat="44.3839361" lon="7.5426307">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:street" v="Piazza Europa"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="mimi.martini62@gmail.com"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Martini Maria Silvia"/>
+		<tag k="phone" v="+39 0171 070630"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7304221087" lat="44.5149313" lon="7.4742745">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="120"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Umberto Primo"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Salumeria Cantaluppi"/>
+		<tag k="phone" v="+39 0171 325928"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+	<node id="7304248609" lat="44.5159584" lon="7.4772517">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Luigi Cadorna"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Macelleria da Marco"/>
+		<tag k="operator" v="Marco Ballario"/>
+		<tag k="phone" v="+39 0171 290969"/>
+		<tag k="shop" v="butcher"/>
+	</node>
+</osm>

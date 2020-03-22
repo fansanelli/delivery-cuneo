@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="5397122034" lat="44.3881856" lon="7.5488399">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna per colombe pasquali, uova di cioccolato, pasticceria e gelato, vini. Servizio di prenotazione dalle 10 alle 17"/>
+		<tag k="name" v="Bar Gelateria Rondò"/>
+		<tag k="opening_hours" v="Mo-Sa 06:00-20:00; Su 07:00-12:30"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+39 0171 693900"/>
+		<tag k="phone:mobile" v="+39 335 5890688"/>
+	</node>
+	<node id="6038593234" lat="44.3869137" lon="7.5449442">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Sillano"/>
+		<tag k="phone" v="+39 0171 64450"/>
+	</node>
+	<node id="6170776614" lat="44.3840423" lon="7.5411894">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Piazza Europa"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="brewery" v="Beck&#39;s;Leffe"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Cuba"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+39 0171 693968"/>
+	</node>
+	<node id="6358483961" lat="44.3857052" lon="7.5420549">
+		<tag k="amenity" v="cafe"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="La coccinella"/>
+		<tag k="phone" v="+39 339 2429445"/>
+	</node>
+	<node id="7168981053" lat="44.4175219" lon="7.4279591">
+		<tag k="addr:housenumber" v="82"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/vinerialunallegra/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Vineria Lunallegra offre una vasta scelta di vini del territorio, una selezione da tutta Italia ed internazionale. Prodotti tipici, aperitivi e degustazioni."/>
+		<tag k="name" v="Vineria Lunallegra"/>
+		<tag k="opening_hours" v="Tu-Th 09:00-12:30,16:00-19:30; Fr,Sa 09:00-12:30,16:00-21:00; Su 09:00-13:00"/>
+		<tag k="phone" v="+39 0171 619876"/>
+		<tag k="shop" v="wine"/>
+		<tag k="website" v="https://www.vinerialunallegra.com/"/>
+	</node>
+	<node id="7289025747" lat="44.6452352" lon="7.6569606">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:street" v="Via Cravetta"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/pelledoca/"/>
+		<tag k="cuisine" v="burger"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Pelledoca"/>
+		<tag k="phone" v="+39 339 440 7053"/>
+		<tag k="shop" v="wine"/>
+		<tag k="website" v="http://www.pelledoca.net/"/>
+	</node>
+	<node id="7315542851" lat="44.6509434" lon="7.6554523">
+		<tag k="amenity" v="cafe"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Bar Kursal"/>
+		<tag k="phone" v="+39 0172 31744"/>
+	</node>
+</osm>

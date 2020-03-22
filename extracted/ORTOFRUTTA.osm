@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="6360785558" lat="44.3807256" lon="7.540191">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Arcobaleno di frutta"/>
+		<tag k="phone" v="+39 392 5903163"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<node id="6420509034" lat="44.3852092" lon="7.539956">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Quintino Sella"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="ilverdurivendolo@gmail.com"/>
+		<tag k="name" v="Il verdurivendolo"/>
+		<tag k="opening_hours" v="Mo,Fr 16:00-19:00; Tu,Th 09:30-13:00,16:00-19:00; Sa 09:30-12:30"/>
+		<tag k="phone" v="+39 340 7771191"/>
+		<tag k="ref:vatin" v="IT03152790048"/>
+		<tag k="shop" v="greengrocer"/>
+		<tag k="website" v="http://www.ilverdurivendolo.it/home-page/"/>
+	</node>
+	<node id="6542694961" lat="44.3816563" lon="7.539126">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="L&#39;orto delle delizie"/>
+		<tag k="phone" v="+39 347 2621977"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<node id="6741749290" lat="44.3902972" lon="7.5623854">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Via Bisalta"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Azienda agricola &#34;Il sogno&#34;"/>
+		<tag k="phone" v="+39 0171 401763"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<node id="7140737586" lat="44.3840893" lon="7.5446266">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Pier Carlo Boggio"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegne gratuite su Cuneo, piccolo contributo per zone limitrofe."/>
+		<tag k="email" v="info@tantecosebuone.it"/>
+		<tag k="name" v="Tante cose buone"/>
+		<tag k="opening_hours" v="Mo-Sa 08:00-13:00; Mo,Tu,Th,Fr 15:30-19:30"/>
+		<tag k="phone" v="+39 371 3309804"/>
+		<tag k="shop" v="greengrocer"/>
+		<tag k="website" v="https://www.tantecosebuone.it"/>
+	</node>
+	<node id="7296225201" lat="44.4179335" lon="7.4297775">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Morra"/>
+		<tag k="phone" v="+39 0171 610359"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<node id="7306931287" lat="44.5147793" lon="7.4737197">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="140"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Umberto Primo"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Stema"/>
+		<tag k="phone" v="+39 0171 944467"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<node id="7314616326" lat="44.6449663" lon="7.6558708">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="name" v="Dal Fruttaiolo"/>
+		<tag k="phone" v="+39 0172 21384"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
+	<way id="781539585">
+		<nd ref="7296747547"/>
+		<nd ref="7296747546"/>
+		<nd ref="7296747545"/>
+		<nd ref="7296747544"/>
+		<nd ref="7296747543"/>
+		<nd ref="7296747542"/>
+		<nd ref="7296747541"/>
+		<nd ref="7296747540"/>
+		<nd ref="7296747539"/>
+		<nd ref="7296747538"/>
+		<nd ref="7296747537"/>
+		<nd ref="7296747547"/>
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:street" v="Via Traversagna"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/mangiargenuino/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="landuse" v="farmland"/>
+		<tag k="name" v="Azienda Agricola Marchisio Pietro"/>
+		<tag k="opening_hours" v="Mo-Th 15:00-19:30; We 09:30-19:30; Sa 09:30-12:30,15:00-19:00"/>
+		<tag k="phone:mobile" v="+39 340 7977519"/>
+		<tag k="shop" v="farm"/>
+		<tag k="website" v="https://marchisiopietroboves.com/"/>
+	</way>
+</osm>

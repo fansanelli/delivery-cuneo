@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="3495657915" lat="44.4186333" lon="7.431226">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="166"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/PasticceriaPaganessiCaraglio/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="pasticceria.paganessi@gmail.com"/>
+		<tag k="name" v="Pasticceria Paganessi"/>
+		<tag k="opening_hours" v="Tu 07:15-12:30,14:30-20:00; We 07:30-12:30,12:30-20:00; Th 07:30-12:30,14:30-20:00; Fr 07:30-12:30,14:30-20:00; Sa 07:30-13:00,15:30-20:00; Su 07:30-13:00"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+39 0171 618569"/>
+		<tag k="phone:mobile" v="+39 339 6243453"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="6129227495" lat="44.3833612" lon="7.5393558">
+		<tag k="addr:housenumber" v="52"/>
+		<tag k="addr:street" v="Via Venti Settembre"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="contabilita@dalmassosnc.it"/>
+		<tag k="name" v="Dalmasso"/>
+		<tag k="operator" v="Dalmasso Snc"/>
+		<tag k="phone" v="+39 0171 698336"/>
+		<tag k="shop" v="confectionery"/>
+		<tag k="website" v="http://www.dalmassosnc.it/"/>
+	</node>
+	<node id="6160271234" lat="44.3945345" lon="7.502262">
+		<tag k="addr:housenumber" v="76"/>
+		<tag k="addr:street" v="Via Nazionale"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="direzione@bramardicioccolato.it"/>
+		<tag k="name" v="Bramardi"/>
+		<tag k="operator" v="Beccaria Franco"/>
+		<tag k="phone" v="+39 0171 85252"/>
+		<tag k="shop" v="pastry"/>
+		<tag k="website" v="https://www.bramardicioccolato.it/"/>
+	</node>
+	<node id="6835198168" lat="44.3975004" lon="7.4801447">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Via Valle Grana"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Caffetteria Pasticceria Musso"/>
+		<tag k="operator" v="Pasticceria Musso di Musso Francesco"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+39 0171 300448"/>
+		<tag k="ref:vatin" v="IT03463350045"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="6855588409" lat="44.3659629" lon="7.5233632">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Franchino"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="phone" v="+39  0171 491345"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="7294614759" lat="44.3871091" lon="7.5451299">
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="ordini solo via mail"/>
+		<tag k="email" v="cristina@assediumritualpastry.com"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Assedium Ritual Pastry"/>
+		<tag k="operator" v="Assedium Cuneo SRLS"/>
+		<tag k="phone" v="+39 351 8422776"/>
+		<tag k="ref:vatin" v="IT03838980047"/>
+		<tag k="shop" v="pastry"/>
+		<tag k="website" v="https://assediumritualpastry.com/"/>
+	</node>
+	<node id="7303895009" lat="44.377757" lon="7.54243">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Via Francesco Bruno Di Tornaforte"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Santamaria"/>
+		<tag k="operator" v="Santamaria di Tomatis Pietro &#38; C. S.A.S."/>
+		<tag k="phone" v="+39 366 4517899"/>
+		<tag k="ref:vatin" v="IT03711650048"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="7306953000" lat="44.5176112" lon="7.4776463">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Pasticceria Fagiolo"/>
+		<tag k="phone" v="+39 0171 945165"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="7312118779" lat="44.5006175" lon="7.5855308">
+		<tag k="addr:city" v="Centallo"/>
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="12044"/>
+		<tag k="addr:street" v="Piazza Vittorio Emanuele II"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Dolci tentazioni"/>
+		<tag k="opening_hours" v="Th-Tu 07:00-13:00,14:30-20:00"/>
+		<tag k="phone" v="+39 0171 214357"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+</osm>

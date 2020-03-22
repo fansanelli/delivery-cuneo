@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="3481137901" lat="44.4178934" lon="7.4335779">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="47"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Cesare Battisti"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Fiori di Pesco"/>
+		<tag k="operator" v="Cinzia Ghibaudo"/>
+		<tag k="phone" v="+39 0171 610300"/>
+		<tag k="phone:mobile" v="+39 339 7227895"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="6760296292" lat="44.4155173" lon="7.4292087">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Bernezzo"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Tuttanatura Fiori e Piante"/>
+		<tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:30-20:00"/>
+		<tag k="phone:mobile" v="+39 348 5919192"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+	<node id="6832293603" lat="44.4131859" lon="7.5505367">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Clorofilla"/>
+		<tag k="phone" v="+39 349 1360179"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="7296234972" lat="44.4171342" lon="7.4266143">
+		<tag k="delivery" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Debora Fiori"/>
+		<tag k="phone:mobile" v="+39 346 5127411"/>
+		<tag k="shop" v="florist"/>
+	</node>
+	<node id="7312771213" lat="44.6470574" lon="7.6489761">
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:description:it" v="Attivazione servizio a domicilio per COVID-19"/>
+		<tag k="name" v="Tuttanatura Di Borio Claudio"/>
+		<tag k="phone" v="+39 0172 715015 +39 335 6752177"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+</osm>
