@@ -10,7 +10,10 @@
 		<tag k="dispensing" v="yes"/>
 		<tag k="name" v="Farmacia Cornelio"/>
 		<tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:00-19:30; Su 08:30-12:20"/>
+		<tag k="operator" v="Cornelio S.N.C."/>
 		<tag k="phone" v="+39 0171 325202"/>
+		<tag k="ref:msal" v="1087"/>
+		<tag k="ref:vatin" v="IT01126410040"/>
 	</node>
 	<node id="1893571638" lat="44.4939272" lon="7.5449649">
 		<tag k="addr:city" v="Tarantasca"/>
@@ -21,7 +24,10 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="dispensing" v="yes"/>
 		<tag k="name" v="Farmacia Fanizza"/>
+		<tag k="operator" v="Fanizza"/>
 		<tag k="phone" v="+39 0171 931000"/>
+		<tag k="ref:msal" v="1069"/>
+		<tag k="ref:vatin" v="IT02034570040"/>
 	</node>
 	<node id="3441538565" lat="44.5157371" lon="7.4783675">
 		<tag k="addr:city" v="Busca"/>
@@ -44,7 +50,10 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="dispensing" v="no"/>
 		<tag k="name" v="Parafarmacia Dott.ssa Molineris"/>
+		<tag k="operator" v="Parafarmacia Molineris Dott.ssa Sonia"/>
 		<tag k="phone" v="+39 0171 937473"/>
+		<tag k="ref:msal" v="006395"/>
+		<tag k="ref:vatin" v="IT03330800040"/>
 	</node>
 	<node id="3499281092" lat="44.418042" lon="7.430316">
 		<tag k="addr:city" v="Caraglio"/>
@@ -55,7 +64,10 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="dispensing" v="yes"/>
 		<tag k="name" v="Farmacia Di Marco"/>
+		<tag k="operator" v="Farmacia di Di Marco Rosella e C. S.A.S."/>
 		<tag k="phone:mobile" v="+39 340 7600326"/>
+		<tag k="ref:msal" v="1086"/>
+		<tag k="ref:vatin" v="IT02346710045"/>
 	</node>
 	<node id="4472819040" lat="44.5149929" lon="7.4745175">
 		<tag k="addr:city" v="Busca"/>
@@ -102,7 +114,10 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="dispensing" v="no"/>
 		<tag k="name" v="Parafarmacia Alessia Sottile"/>
+		<tag k="operator" v="Parafarmacia Sottile"/>
 		<tag k="phone" v="+39 0171 500692"/>
+		<tag k="ref:msal" v="014370"/>
+		<tag k="ref:vatin" v="IT03525710046"/>
 	</node>
 	<node id="6173050037" lat="44.3852183" lon="7.5417427">
 		<tag k="addr:housenumber" v="10"/>
@@ -150,7 +165,10 @@
 		<tag k="dispensing" v="no"/>
 		<tag k="email" v="parafarmacia.invernelli@gmail.com"/>
 		<tag k="name" v="Parafarmacia Invernelli"/>
+		<tag k="operator" v="Parafarmacia Dottor Invernelli Davide"/>
 		<tag k="phone" v="+39 0171 492580"/>
+		<tag k="ref:msal" v="011293"/>
+		<tag k="ref:vatin" v="IT03517880047"/>
 	</node>
 	<node id="6854839164" lat="44.3754078" lon="7.5330409">
 		<tag k="addr:housenumber" v="14a"/>
@@ -180,6 +198,9 @@
 		<tag k="dispensing" v="no"/>
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Parafarmacia del Consiglio"/>
+		<tag k="operator" v="Parafarmacia del Consiglio di Pasquale Dott. Dario"/>
 		<tag k="phone" v="+39 0171 944787"/>
+		<tag k="ref:msal" v="006155"/>
+		<tag k="ref:vatin" v="IT03303720043"/>
 	</node>
 </osm>

@@ -10,6 +10,13 @@
 		<tag k="phone" v="+39 339 6811887"/>
 		<tag k="shop" v="bakery"/>
 	</node>
+	<node id="1932859601" lat="44.3656243" lon="7.5230803">
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
+		<tag k="name" v="Galfre"/>
+		<tag k="phone" v="+39 0171 491758"/>
+		<tag k="shop" v="bakery"/>
+	</node>
 	<node id="5397122021" lat="44.3857601" lon="7.5442727">
 		<tag k="addr:housenumber" v="27"/>
 		<tag k="addr:street" v="Corso Nizza"/>

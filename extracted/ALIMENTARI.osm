@@ -36,6 +36,17 @@
 		<tag k="phone" v="+39 333 2611175"/>
 		<tag k="shop" v="convenience"/>
 	</node>
+	<node id="4721228431" lat="44.4235662" lon="7.5431484">
+		<tag k="addr:city" v="Madonna dell&#39;Olmo"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Valle Po"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Cidas"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-12:30,15:00-19:00"/>
+		<tag k="phone" v="+39 0171 411109"/>
+		<tag k="shop" v="supermarket"/>
+	</node>
 	<node id="5402092382" lat="44.3801459" lon="7.5380339">
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="80"/>

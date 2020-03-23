@@ -18,6 +18,13 @@
 		<tag k="shop" v="pet"/>
 		<tag k="website" v="https://doggypop.com/"/>
 	</node>
+	<node id="6854806232" lat="44.373301" lon="7.5336947">
+		<tag k="contact:facebook" v="https://www.facebook.com/dogservice.petstore/"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Dogservice agricentro"/>
+		<tag k="phone" v="+39 0171 493366"/>
+		<tag k="shop" v="pet"/>
+	</node>
 	<node id="7284193496" lat="44.3931501" lon="7.5471118">
 		<tag k="contact:facebook" v="https://www.facebook.com/acquarioandpiccolianimali/"/>
 		<tag k="delivery" v="yes"/>

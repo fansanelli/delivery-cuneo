@@ -92,6 +92,13 @@
 		<tag k="opening_hours" v="Mo 18:15-23:00; We 12:00-14:00,18:15-23:00; Th-Su 18:15-23:00"/>
 		<tag k="phone" v="+39 345 4200669"/>
 	</node>
+	<node id="5402092414" lat="44.3664395" lon="7.5237964">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizzeria del Conte"/>
+		<tag k="phone" v="+39 0171 344303"/>
+	</node>
 	<node id="6018280867" lat="44.393807" lon="7.5513196">
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Santa Maria"/>
