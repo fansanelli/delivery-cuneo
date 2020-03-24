@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-24T07:43:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-24T19:42:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -643,6 +643,16 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 0171 693968"/>
   </node>
+  <node id="6173030841" lat="44.3837392" lon="7.5408969">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Piazza Europa"/>
+    <tag k="contact:email" v="ladispensaeuropa@libero.it"/>
+    <tag k="contact:mobile" v="+39 347 6626913"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="La Dispensa"/>
+    <tag k="operator" v="La Dispensa di Alessandra e Eleonora Gay S.A.S."/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <node id="6173030845" lat="44.3838343" lon="7.5409787">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Piazza Europa"/>
@@ -727,6 +737,16 @@
     <tag k="phone" v="+39 0171 681412"/>
     <tag k="shop" v="medical_supply"/>
   </node>
+  <node id="6269298461" lat="44.3923761" lon="7.5504474">
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="pastafrescagrosso@gmail.com"/>
+    <tag k="name" v="Grosso Pasta Fresca"/>
+    <tag k="operator" v="Grosso Massimo"/>
+    <tag k="phone" v="+39 0171 603722"/>
+    <tag k="shop" v="pasta"/>
+  </node>
   <node id="6290787051" lat="44.3756062" lon="7.5331994">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Corso Francia"/>
@@ -785,9 +805,12 @@
     <tag k="shop" v="greengrocer"/>
   </node>
   <node id="6418937919" lat="44.3923190" lon="7.5523919">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Via Mondovì"/>
+    <tag k="contact:mobile" v="+39 347 7313496"/>
+    <tag k="contact:phone" v="+39 0171 070182"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Magnolia"/>
-    <tag k="phone" v="+39 0171 070182"/>
     <tag k="shop" v="perfumery"/>
   </node>
   <node id="6420509034" lat="44.3852092" lon="7.5399560">
@@ -878,6 +901,15 @@
     <tag k="phone" v="+39 346 6764181"/>
     <tag k="shop" v="bakery"/>
   </node>
+  <node id="6578445381" lat="44.3935395" lon="7.5491870">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Via Santa Croce"/>
+    <tag k="contact:email" v="ninfeocuneo@gmail.com"/>
+    <tag k="contact:mobile" v="+39 391 7655455"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Il ninfeo"/>
+    <tag k="shop" v="beauty"/>
+  </node>
   <node id="6579153660" lat="44.3664074" lon="7.5237475">
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Corso Francia"/>
@@ -917,11 +949,14 @@
     <tag k="shop" v="brewing_supplies"/>
   </node>
   <node id="6611933791" lat="44.3927068" lon="7.5498378">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Via Dronero"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:mobile" v="+39 391 3004405"/>
+    <tag k="contact:phone" v="+39 0171 325145"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="I 5 sensi"/>
-    <tag k="phone" v="+39 0171 325145"/>
+    <tag k="operator" v="Franco Carlevero Diego"/>
   </node>
   <node id="6635193476" lat="44.3926462" lon="7.5510912">
     <tag k="addr:housenumber" v="27"/>
@@ -2162,13 +2197,13 @@
   </node>
   <node id="7323724927" lat="44.5146659" lon="7.4752449">
     <tag k="addr:city" v="Busca"/>
-    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Strada regione braida"/>
+    <tag k="addr:street" v="Via Martiri della Libertà"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Aimar Elettrodomestici"/>
     <tag k="phone" v="+39 0171 945201"/>
-    <tag k="phone_1" v="+39 335 6817081"/>
+    <tag k="phone:mobile" v="+39 335 6817081"/>
     <tag k="shop" v="electronics"/>
   </node>
   <way id="341906477">

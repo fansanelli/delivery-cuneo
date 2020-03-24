@@ -27,7 +27,7 @@ import os
 
 CATEGORIES_MAP = {
     'ABBIGLIAMENTO': [ 'shop=clothes', 'shop=shoes' ],
-    'ALIMENTARI': [ 'shop=convenience', 'shop=deli', 'shop=frozen_food', 'shop=general', 'shop=health_food', 'shop=seafood', 'shop=supermarket' ],
+    'ALIMENTARI': [ 'shop=convenience', 'shop=deli', 'shop=frozen_food', 'shop=general', 'shop=health_food', 'shop=pasta', 'shop=seafood', 'shop=supermarket' ],
     'ANIMALI': [ 'shop=pet' ],
     'BAR': [ 'amenity=cafe', 'amenity=bar', 'shop=wine' ],
     'CIBO': [ 'amenity=fast_food', 'amenity=pub', 'amenity=restaurant' ],

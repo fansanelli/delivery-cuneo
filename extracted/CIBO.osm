@@ -231,11 +231,14 @@
 		<tag k="shop" v="brewing_supplies"/>
 	</node>
 	<node id="6611933791" lat="44.3927068" lon="7.5498378">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Dronero"/>
 		<tag k="amenity" v="restaurant"/>
 		<tag k="contact:mobile" v="+39 391 3004405"/>
+		<tag k="contact:phone" v="+39 0171 325145"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="I 5 sensi"/>
-		<tag k="phone" v="+39 0171 325145"/>
+		<tag k="operator" v="Franco Carlevero Diego"/>
 	</node>
 	<node id="6971479405" lat="44.418943" lon="7.4319017">
 		<tag k="addr:city" v="Caraglio"/>

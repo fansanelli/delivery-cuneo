@@ -110,6 +110,16 @@
 		<tag k="shop" v="frozen_food"/>
 		<tag k="website" v="https://www.nordgel.it/"/>
 	</node>
+	<node id="6173030841" lat="44.3837392" lon="7.5408969">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:street" v="Piazza Europa"/>
+		<tag k="contact:email" v="ladispensaeuropa@libero.it"/>
+		<tag k="contact:mobile" v="+39 347 6626913"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="La Dispensa"/>
+		<tag k="operator" v="La Dispensa di Alessandra e Eleonora Gay S.A.S."/>
+		<tag k="shop" v="convenience"/>
+	</node>
 	<node id="6174999048" lat="44.3993545" lon="7.5326852">
 		<tag k="addr:housenumber" v="31"/>
 		<tag k="addr:street" v="Via del Passatore"/>
@@ -117,6 +127,16 @@
 		<tag k="name" v="Mi &#38; Ti"/>
 		<tag k="phone" v="+39 0171 1988038"/>
 		<tag k="shop" v="convenience"/>
+	</node>
+	<node id="6269298461" lat="44.3923761" lon="7.5504474">
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="pastafrescagrosso@gmail.com"/>
+		<tag k="name" v="Grosso Pasta Fresca"/>
+		<tag k="operator" v="Grosso Massimo"/>
+		<tag k="phone" v="+39 0171 603722"/>
+		<tag k="shop" v="pasta"/>
 	</node>
 	<node id="6305822228" lat="44.4940793" lon="7.542311">
 		<tag k="addr:city" v="Tarantasca"/>
