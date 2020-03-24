@@ -58,4 +58,15 @@
 		<tag k="shop" v="printer_ink"/>
 		<tag k="website" v="https://www.prink.it/savigliano-1052"/>
 	</node>
+	<node id="7323724927" lat="44.5146659" lon="7.4752449">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Strada regione braida"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Aimar Elettrodomestici"/>
+		<tag k="phone" v="+39 0171 945201"/>
+		<tag k="phone_1" v="+39 335 6817081"/>
+		<tag k="shop" v="electronics"/>
+	</node>
 </osm>

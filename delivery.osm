@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-23T16:37:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-24T07:43:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -328,6 +328,12 @@
     <tag k="phone" v="+39 0171 945290"/>
     <tag k="ref:msal" v="1082"/>
   </node>
+  <node id="4635088458" lat="44.5430464" lon="7.4842147"/>
+  <node id="4635088459" lat="44.5427768" lon="7.4843328"/>
+  <node id="4635088460" lat="44.5424843" lon="7.4843730"/>
+  <node id="4635088461" lat="44.5424251" lon="7.4839358"/>
+  <node id="4635088462" lat="44.5424538" lon="7.4835898"/>
+  <node id="4635088463" lat="44.5428762" lon="7.4834423"/>
   <node id="4721228431" lat="44.4235662" lon="7.5431484">
     <tag k="addr:city" v="Madonna dell'Olmo"/>
     <tag k="addr:housenumber" v="13"/>
@@ -577,6 +583,15 @@
     <tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
     <tag k="phone" v="+39 0171 692624"/>
     <tag k="website" v="http://www.boves1929.it"/>
+  </node>
+  <node id="6140017109" lat="44.3908694" lon="7.5472588">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Via Carlo Pascal"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Ortomercato"/>
+    <tag k="phone" v="+39 0171 602230"/>
+    <tag k="phone:mobile" v="+39 334 8998460"/>
+    <tag k="shop" v="greengrocer"/>
   </node>
   <node id="6140017111" lat="44.3908068" lon="7.5473757">
     <tag k="addr:housenumber" v="3"/>
@@ -2057,6 +2072,105 @@
     <tag k="phone" v="+39 338 1229686"/>
     <tag k="shop" v="greengrocer"/>
   </node>
+  <node id="7323511938" lat="44.5151770" lon="7.4736345">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Massimo D'Azeglio"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="BUSCAJE Ristorante Pizzeria"/>
+    <tag k="phone" v="+39 334 1196311"/>
+  </node>
+  <node id="7323607848" lat="44.5154616" lon="7.4744720">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Roberto d'Azeglio"/>
+    <tag k="contact:mobile" v="+39 340 7288196"/>
+    <tag k="contact:phone" v="+39 0171 943888"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="L'Erbolario - Erboristeria da Mary"/>
+    <tag k="shop" v="herbalist"/>
+  </node>
+  <node id="7323613773" lat="44.5405794" lon="7.4792321">
+    <tag k="addr:city" v="Ceretto"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Strada San Martino"/>
+    <tag k="craft" v="winery"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Vini tipici locali e succhi di frutta"/>
+    <tag k="name" v="Vini Tomatis Dario e figli"/>
+    <tag k="phone" v="+39 339 5489745"/>
+    <tag k="shop" v="wine"/>
+  </node>
+  <node id="7323628061" lat="44.5026278" lon="7.4961280">
+    <tag k="addr:city" v="San Barnaba"/>
+    <tag k="addr:housenumber" v="8b"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Tarantasca"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Alimentari Tabacchi Rosso Elda"/>
+    <tag k="phone" v="+39 0171 945389"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="tobacco" v="yes"/>
+  </node>
+  <node id="7323651043" lat="44.5132557" lon="7.4722200">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Strada Rossana"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizzeria 2 Mondi"/>
+    <tag k="phone" v="+39 0171 943909"/>
+  </node>
+  <node id="7323657412" lat="44.5022698" lon="7.4909451">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="136"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Laghi di Avigliana"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Cioccolateria Fagiolo - Peirano"/>
+    <tag k="phone" v="+39 338 4196505;+39 338 9054745"/>
+    <tag k="shop" v="pastry"/>
+  </node>
+  <node id="7323698009" lat="44.5153903" lon="7.4744335">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Cesare Battisti"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Lavanderia Giletta Nadia"/>
+    <tag k="phone" v="+39 347 3232134"/>
+    <tag k="shop" v="dry_cleaning"/>
+  </node>
+  <node id="7323723321" lat="44.4984355" lon="7.4921619">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Laghi di Avigliana"/>
+    <tag k="contact:mobile" v="+39 335 5826732"/>
+    <tag k="contact:phone" v="+39 0171 946080"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="E.Z.A. DeLaval"/>
+    <tag k="shop" v="pet"/>
+    <tag k="website" v="https://www.ezasas.it/"/>
+  </node>
+  <node id="7323724927" lat="44.5146659" lon="7.4752449">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Strada regione braida"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Aimar Elettrodomestici"/>
+    <tag k="phone" v="+39 0171 945201"/>
+    <tag k="phone_1" v="+39 335 6817081"/>
+    <tag k="shop" v="electronics"/>
+  </node>
   <way id="341906477">
     <nd ref="3489695897"/>
     <nd ref="3489695698"/>
@@ -2077,6 +2191,25 @@
     <tag k="shop" v="dairy"/>
     <tag k="website" v="https://www.caseificiomoris.it/"/>
   </way>
+  <way id="469106889">
+    <nd ref="4635088463"/>
+    <nd ref="4635088462"/>
+    <nd ref="4635088461"/>
+    <nd ref="4635088460"/>
+    <nd ref="4635088459"/>
+    <nd ref="4635088458"/>
+    <nd ref="4635088463"/>
+    <tag k="addr:city" v="Ceretto"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Via Antica di Costigliole"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Vini tipici locali, succhi di mela, frutta e verdura di stagione."/>
+    <tag k="landuse" v="farmyard"/>
+    <tag k="name" v="Azienda agricola Fornero Andrea"/>
+    <tag k="phone" v="+39 324 6126325"/>
+    <tag k="shop" v="farm"/>
+  </way>
   <way id="781539585">
     <nd ref="7296747547"/>
     <nd ref="7296747546"/>
@@ -2094,7 +2227,7 @@
     <tag k="addr:street" v="Via Traversagna"/>
     <tag k="contact:facebook" v="https://www.facebook.com/mangiargenuino/"/>
     <tag k="delivery" v="yes"/>
-    <tag k="landuse" v="farmland"/>
+    <tag k="landuse" v="farmyard"/>
     <tag k="name" v="Azienda Agricola Marchisio Pietro"/>
     <tag k="opening_hours" v="Mo-Th 15:00-19:30; We 09:30-19:30; Sa 09:30-12:30,15:00-19:00"/>
     <tag k="phone:mobile" v="+39 340 7977519"/>

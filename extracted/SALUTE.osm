@@ -203,4 +203,15 @@
 		<tag k="ref:msal" v="006155"/>
 		<tag k="ref:vatin" v="IT03303720043"/>
 	</node>
+	<node id="7323607848" lat="44.5154616" lon="7.474472">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Roberto d&#39;Azeglio"/>
+		<tag k="contact:mobile" v="+39 340 7288196"/>
+		<tag k="contact:phone" v="+39 0171 943888"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="L&#39;Erbolario - Erboristeria da Mary"/>
+		<tag k="shop" v="herbalist"/>
+	</node>
 </osm>

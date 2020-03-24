@@ -396,4 +396,26 @@
 		<tag k="phone" v="+39 0172 373364"/>
 		<tag k="website" v="http://pizza30elode.it/"/>
 	</node>
+	<node id="7323511938" lat="44.515177" lon="7.4736345">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Massimo D&#39;Azeglio"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="BUSCAJE Ristorante Pizzeria"/>
+		<tag k="phone" v="+39 334 1196311"/>
+	</node>
+	<node id="7323651043" lat="44.5132557" lon="7.47222">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Strada Rossana"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizzeria 2 Mondi"/>
+		<tag k="phone" v="+39 0171 943909"/>
+	</node>
 </osm>

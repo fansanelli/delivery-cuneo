@@ -242,4 +242,14 @@
 		<tag k="shop" v="hardware"/>
 		<tag k="website" v="http://www.cierreferramenta.com/"/>
 	</node>
+	<node id="7323698009" lat="44.5153903" lon="7.4744335">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Cesare Battisti"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Lavanderia Giletta Nadia"/>
+		<tag k="phone" v="+39 347 3232134"/>
+		<tag k="shop" v="dry_cleaning"/>
+	</node>
 </osm>

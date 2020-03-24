@@ -32,4 +32,16 @@
 		<tag k="phone" v="+39 328 322 4280"/>
 		<tag k="shop" v="pet"/>
 	</node>
+	<node id="7323723321" lat="44.4984355" lon="7.4921619">
+		<tag k="addr:city" v="Busca"/>
+		<tag k="addr:housenumber" v="123"/>
+		<tag k="addr:postcode" v="12022"/>
+		<tag k="addr:street" v="Via Laghi di Avigliana"/>
+		<tag k="contact:mobile" v="+39 335 5826732"/>
+		<tag k="contact:phone" v="+39 0171 946080"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="E.Z.A. DeLaval"/>
+		<tag k="shop" v="pet"/>
+		<tag k="website" v="https://www.ezasas.it/"/>
+	</node>
 </osm>
