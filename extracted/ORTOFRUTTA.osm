@@ -29,6 +29,13 @@
 		<tag k="shop" v="greengrocer"/>
 		<tag k="website" v="http://www.ilverdurivendolo.it/home-page/"/>
 	</node>
+	<node id="6515136405" lat="44.3941244" lon="7.547521">
+		<tag k="delivery" v="yes"/>
+		<tag k="email" v="ortofruttapignatta@gmail.com"/>
+		<tag k="name" v="Pignatta Bruno"/>
+		<tag k="phone" v="+39 0171 695624"/>
+		<tag k="shop" v="greengrocer"/>
+	</node>
 	<node id="6542694961" lat="44.3816563" lon="7.539126">
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="L&#39;orto delle delizie"/>

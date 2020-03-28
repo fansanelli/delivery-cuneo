@@ -42,6 +42,16 @@
 		<tag k="shop" v="pastry"/>
 		<tag k="website" v="https://www.bramardicioccolato.it/"/>
 	</node>
+	<node id="6604821032" lat="44.3941705" lon="7.5514424">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:street" v="Piazza Vincenzo Virginio"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/prisma_cuneo/"/>
+		<tag k="contact:mobile" v="+39 377 3145630"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Ordini entro le h 12:00 del giorno prima. Consegna in 48h entro le 18:00 in Cuneo."/>
+		<tag k="name" v="Prisma"/>
+		<tag k="shop" v="pastry"/>
+	</node>
 	<node id="6835198168" lat="44.3975004" lon="7.4801447">
 		<tag k="addr:housenumber" v="2"/>
 		<tag k="addr:street" v="Via Valle Grana"/>

@@ -36,12 +36,13 @@
 		<tag k="phone" v="+39 333 2611175"/>
 		<tag k="shop" v="convenience"/>
 	</node>
-	<node id="4721228431" lat="44.4235662" lon="7.5431484">
+	<node id="4721228431" lat="44.4233187" lon="7.5428578">
 		<tag k="addr:city" v="Madonna dell&#39;Olmo"/>
-		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:housenumber" v="139ter"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Valle Po"/>
 		<tag k="delivery" v="yes"/>
+		<tag k="email" v="cidas_cuneo@virgilio.it"/>
 		<tag k="name" v="Cidas"/>
 		<tag k="opening_hours" v="Mo-Fr 09:00-12:30,15:00-19:00"/>
 		<tag k="phone" v="+39 0171 411109"/>
@@ -298,7 +299,7 @@
 		<tag k="addr:city" v="Margarita"/>
 		<tag k="addr:housenumber" v="17"/>
 		<tag k="addr:postcode" v="12040"/>
-		<tag k="addr:street" v="VIa Cuneo"/>
+		<tag k="addr:street" v="Via Cuneo"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="description" v="Alimentari."/>
 		<tag k="name" v="Ghiottomania"/>

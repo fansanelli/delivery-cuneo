@@ -188,6 +188,20 @@
 		<tag k="phone" v="+39 366 1981316"/>
 		<tag k="shop" v="herbalist"/>
 	</node>
+	<node id="7303941776" lat="44.5109979" lon="7.5936019">
+		<tag k="addr:housenumber" v="321"/>
+		<tag k="addr:place" v="Regione Madonna dei Prati"/>
+		<tag k="amenity" v="pharmacy"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="dispensing" v="no"/>
+		<tag k="email" v="vendite.irma@pavengroup.com"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Paven S.R.L."/>
+		<tag k="phone" v="+39 0171 211700"/>
+		<tag k="ref:msal" v="008568"/>
+		<tag k="ref:vatin" v="IT02414610044"/>
+		<tag k="website" v="http://www.pavengroup.com/"/>
+	</node>
 	<node id="7304200571" lat="44.515202" lon="7.4751851">
 		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="90"/>

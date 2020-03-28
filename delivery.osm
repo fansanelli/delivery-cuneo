@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-24T19:42:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-28T17:21:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -334,12 +334,13 @@
   <node id="4635088461" lat="44.5424251" lon="7.4839358"/>
   <node id="4635088462" lat="44.5424538" lon="7.4835898"/>
   <node id="4635088463" lat="44.5428762" lon="7.4834423"/>
-  <node id="4721228431" lat="44.4235662" lon="7.5431484">
+  <node id="4721228431" lat="44.4233187" lon="7.5428578">
     <tag k="addr:city" v="Madonna dell'Olmo"/>
-    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:housenumber" v="139ter"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Valle Po"/>
     <tag k="delivery" v="yes"/>
+    <tag k="email" v="cidas_cuneo@virgilio.it"/>
     <tag k="name" v="Cidas"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-12:30,15:00-19:00"/>
     <tag k="phone" v="+39 0171 411109"/>
@@ -706,6 +707,20 @@
     <tag k="ref:vatin" v="IT03773800044"/>
     <tag k="website" v="https://infernotto.pub"/>
   </node>
+  <node id="6239738308" lat="44.3920679" lon="7.5505218">
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="contact:email" v="info@mammaorsacuneo.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/MammaOrsaCuneo/"/>
+    <tag k="contact:phone" v="+39 0171 693490"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita dai 19,90€, nel raggio di 30 km da Cuneo. Cuneo in giornata; Fuori Cuneo entro 48 ore."/>
+    <tag k="name" v="Mamma orsa"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="shop" v="baby_goods"/>
+  </node>
   <node id="6269281646" lat="44.3924514" lon="7.5508951">
     <tag k="addr:housenumber" v="29b"/>
     <tag k="addr:street" v="Via Roma"/>
@@ -850,6 +865,13 @@
     <tag k="name" v="Gli Aristogatti"/>
     <tag k="shop" v="pet"/>
   </node>
+  <node id="6515136405" lat="44.3941244" lon="7.5475210">
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="ortofruttapignatta@gmail.com"/>
+    <tag k="name" v="Pignatta Bruno"/>
+    <tag k="phone" v="+39 0171 695624"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
   <node id="6515989776" lat="44.3793590" lon="7.5310743">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza;kebab"/>
@@ -932,6 +954,16 @@
     <tag k="operator" v="Giolitti Andrea"/>
     <tag k="phone" v="+39 0171 694822"/>
     <tag k="shop" v="convenience"/>
+  </node>
+  <node id="6604821032" lat="44.3941705" lon="7.5514424">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Piazza Vincenzo Virginio"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/prisma_cuneo/"/>
+    <tag k="contact:mobile" v="+39 377 3145630"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Ordini entro le h 12:00 del giorno prima. Consegna in 48h entro le 18:00 in Cuneo."/>
+    <tag k="name" v="Prisma"/>
+    <tag k="shop" v="pastry"/>
   </node>
   <node id="6611844291" lat="44.3928486" lon="7.5529822">
     <tag k="addr:housenumber" v="6"/>
@@ -1401,7 +1433,7 @@
     <tag k="addr:city" v="Margarita"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:postcode" v="12040"/>
-    <tag k="addr:street" v="VIa Cuneo"/>
+    <tag k="addr:street" v="Via Cuneo"/>
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Alimentari."/>
     <tag k="name" v="Ghiottomania"/>
@@ -1681,10 +1713,11 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Piazza Europa"/>
     <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita il giorno dopo all'ordinazione, dalle h 13:00 alle h 15:30, su Cuneo, Borgo san Giuseppe, San Rocco Castagnaretta"/>
     <tag k="email" v="mimi.martini62@gmail.com"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Martini Maria Silvia"/>
-    <tag k="phone" v="+39 0171 070630"/>
+    <tag k="phone" v="+39 0171 070630;+39 348 0085225"/>
     <tag k="shop" v="butcher"/>
   </node>
   <node id="7303895009" lat="44.3777570" lon="7.5424300">
@@ -1701,14 +1734,15 @@
   <node id="7303941776" lat="44.5109979" lon="7.5936019">
     <tag k="addr:housenumber" v="321"/>
     <tag k="addr:place" v="Regione Madonna dei Prati"/>
-    <tag k="agrarian" v="feed;seed"/>
+    <tag k="amenity" v="pharmacy"/>
     <tag k="delivery" v="yes"/>
+    <tag k="dispensing" v="no"/>
     <tag k="email" v="vendite.irma@pavengroup.com"/>
     <tag k="fixme" v="position estimated"/>
-    <tag k="name" v="Paven Srl"/>
+    <tag k="name" v="Paven S.R.L."/>
     <tag k="phone" v="+39 0171 211700"/>
+    <tag k="ref:msal" v="008568"/>
     <tag k="ref:vatin" v="IT02414610044"/>
-    <tag k="shop" v="agrarian"/>
     <tag k="website" v="http://www.pavengroup.com/"/>
   </node>
   <node id="7303960737" lat="44.3994661" lon="7.5553243">
@@ -2205,6 +2239,22 @@
     <tag k="phone" v="+39 0171 945201"/>
     <tag k="phone:mobile" v="+39 335 6817081"/>
     <tag k="shop" v="electronics"/>
+  </node>
+  <node id="7340702212" lat="44.3727716" lon="7.6219819">
+    <tag k="addr:city" v="Beinette"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="12081"/>
+    <tag k="addr:street" v="Via Cuneo"/>
+    <tag k="contact:mobile" v="+39 366 2044877"/>
+    <tag k="contact:phone" v="+39 0171 384084"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita da 19,99€, su Beinette per un raggio di 30 km. Consegna in 72 h."/>
+    <tag k="name" v="Magazzino Mary JouèClub"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="shop" v="toys"/>
+    <tag k="website" v="http://www.magazzinomary.it/"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

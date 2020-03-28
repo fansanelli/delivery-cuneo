@@ -34,6 +34,20 @@
 		<tag k="name" v="Mondadori Bookstore"/>
 		<tag k="shop" v="books"/>
 	</node>
+	<node id="6239738308" lat="44.3920679" lon="7.5505218">
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="info@mammaorsacuneo.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/MammaOrsaCuneo/"/>
+		<tag k="contact:phone" v="+39 0171 693490"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna gratuita dai 19,90€, nel raggio di 30 km da Cuneo. Cuneo in giornata; Fuori Cuneo entro 48 ore."/>
+		<tag k="name" v="Mamma orsa"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:wire_transfer" v="yes"/>
+		<tag k="shop" v="baby_goods"/>
+	</node>
 	<node id="6418937919" lat="44.392319" lon="7.5523919">
 		<tag k="addr:housenumber" v="13"/>
 		<tag k="addr:street" v="Via Mondovì"/>
@@ -177,19 +191,6 @@
 		<tag k="phone" v="+39 347 8150625"/>
 		<tag k="shop" v="curtain"/>
 	</node>
-	<node id="7303941776" lat="44.5109979" lon="7.5936019">
-		<tag k="addr:housenumber" v="321"/>
-		<tag k="addr:place" v="Regione Madonna dei Prati"/>
-		<tag k="agrarian" v="feed;seed"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="email" v="vendite.irma@pavengroup.com"/>
-		<tag k="fixme" v="position estimated"/>
-		<tag k="name" v="Paven Srl"/>
-		<tag k="phone" v="+39 0171 211700"/>
-		<tag k="ref:vatin" v="IT02414610044"/>
-		<tag k="shop" v="agrarian"/>
-		<tag k="website" v="http://www.pavengroup.com/"/>
-	</node>
 	<node id="7307077948" lat="44.4956691" lon="7.5418681">
 		<tag k="addr:city" v="Tarantasca"/>
 		<tag k="addr:housenumber" v="3"/>
@@ -263,5 +264,21 @@
 		<tag k="name" v="Lavanderia Giletta Nadia"/>
 		<tag k="phone" v="+39 347 3232134"/>
 		<tag k="shop" v="dry_cleaning"/>
+	</node>
+	<node id="7340702212" lat="44.3727716" lon="7.6219819">
+		<tag k="addr:city" v="Beinette"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="12081"/>
+		<tag k="addr:street" v="Via Cuneo"/>
+		<tag k="contact:mobile" v="+39 366 2044877"/>
+		<tag k="contact:phone" v="+39 0171 384084"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna gratuita da 19,99€, su Beinette per un raggio di 30 km. Consegna in 72 h."/>
+		<tag k="name" v="Magazzino Mary JouèClub"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="shop" v="toys"/>
+		<tag k="website" v="http://www.magazzinomary.it/"/>
 	</node>
 </osm>
