@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="2634945051" lat="44.3873442" lon="7.5453672">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="contact:mobile" v="+39 333 4988405"/>
+		<tag k="contact:phone" v="+39 0171 602014"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Il Corso"/>
+		<tag k="operator" v="Bar Corso s.n.c. di Basso Marco Giuseppe &#38; C."/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="ref:vatin" v="IT02293100042"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
 	<node id="5397122034" lat="44.3881856" lon="7.5488399">
 		<tag k="addr:housenumber" v="5"/>
 		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
@@ -65,8 +79,7 @@
 	</node>
 	<node id="7315542851" lat="44.6509434" lon="7.6554523">
 		<tag k="amenity" v="cafe"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bar Kursal"/>
 		<tag k="phone" v="+39 0172 31744"/>
 	</node>

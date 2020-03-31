@@ -10,6 +10,18 @@
 		<tag k="phone" v="+39 0171 931541"/>
 		<tag k="shop" v="hardware"/>
 	</node>
+	<node id="2412584584" lat="44.3839017" lon="7.542549">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:street" v="Piazza Europa"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00 "/>
+		<tag k="name" v="L&#39;Ippogrifo"/>
+		<tag k="payment:paypal" v="yes"/>
+		<tag k="payment:satyspay" v="yes"/>
+		<tag k="payment:wire_transfer" v="yes"/>
+		<tag k="phone" v="+39 0171 67331"/>
+		<tag k="shop" v="books"/>
+	</node>
 	<node id="3449288500" lat="44.4773969" lon="7.5068936">
 		<tag k="addr:city" v="San Chiaffredo Tarantasca"/>
 		<tag k="addr:housenumber" v="18"/>
@@ -33,6 +45,18 @@
 		<tag k="description" v="Scrivi una mail indicando i titoli desiderati e l&#39;indirizzo per la spedizione.  PAGAMENTI: - SATISPAY sul numero di cellulare 331.6869763 -CARTA DOCENTE; -APP18; BONIFICO ord, IBAN: IT90H0845010201000000007502 - Banca Alpi Marittime - Ag. Cuneo 2"/>
 		<tag k="name" v="Mondadori Bookstore"/>
 		<tag k="shop" v="books"/>
+	</node>
+	<node id="6187982140" lat="44.3917432" lon="7.5497818">
+		<tag k="addr:housenumber" v="56"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegna su Cuneo e frazioni."/>
+		<tag k="email" v="calcagno.cn@gmail.com"/>
+		<tag k="name" v="Calcagno"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="phone" v="+39 0171 692576"/>
+		<tag k="shop" v="stationery"/>
 	</node>
 	<node id="6239738308" lat="44.3920679" lon="7.5505218">
 		<tag k="addr:housenumber" v="35"/>
@@ -223,8 +247,7 @@
 		<tag k="phone" v="+39 0171 695766"/>
 	</node>
 	<node id="7312852480" lat="44.6475134" lon="7.6550849">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Aroma Savigliano"/>
 		<tag k="phone" v="+39 0172 373097"/>
 		<tag k="shop" v="coffee"/>
@@ -232,15 +255,14 @@
 	</node>
 	<node id="7315542852" lat="44.6504139" lon="7.6534018">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Tutto a domicilio"/>
 		<tag k="office" v="delivery"/>
 		<tag k="phone" v="+39 3711559108"/>
 		<tag k="website" v="http://www.tuttoadomiciliocn.it/home/savigliano-2/"/>
 	</node>
 	<node id="7315542854" lat="44.6459754" lon="7.6479703">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Equinord"/>
 		<tag k="phone" v="+39 348 7759619"/>
 		<tag k="shop" v="sports"/>
@@ -248,10 +270,10 @@
 		<tag k="website" v="http://www.equinord.it/"/>
 	</node>
 	<node id="7315542855" lat="44.6469295" lon="7.6505747">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="contact:mobile" v="+39 348 2448481"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Ci.erre ferramenta"/>
-		<tag k="phone" v="+39 347 8830433 +39 348 2448481"/>
+		<tag k="phone" v="+39 347 8830433"/>
 		<tag k="shop" v="hardware"/>
 		<tag k="website" v="http://www.cierreferramenta.com/"/>
 	</node>

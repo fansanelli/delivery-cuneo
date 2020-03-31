@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-28T17:21:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-03-31T19:39:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -116,6 +116,18 @@
     <tag k="phone" v="+39 349 6410294"/>
     <tag k="shop" v="printer_ink"/>
   </node>
+  <node id="2412584584" lat="44.3839017" lon="7.5425490">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Piazza Europa"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00 "/>
+    <tag k="name" v="L'Ippogrifo"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:satyspay" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="phone" v="+39 0171 67331"/>
+    <tag k="shop" v="books"/>
+  </node>
   <node id="2412584621" lat="44.3940332" lon="7.5559091">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Piazzale Vecchia Stazione"/>
@@ -136,6 +148,20 @@
     <tag k="ref:vatin" v="IT03603880042"/>
     <tag k="tobacco" v="yes"/>
   </node>
+  <node id="2634945051" lat="44.3873442" lon="7.5453672">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:mobile" v="+39 333 4988405"/>
+    <tag k="contact:phone" v="+39 0171 602014"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Il Corso"/>
+    <tag k="operator" v="Bar Corso s.n.c. di Basso Marco Giuseppe &amp; C."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT02293100042"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2639877631" lat="44.3860349" lon="7.5439369">
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Corso Dante Alighieri"/>
@@ -148,8 +174,7 @@
   </node>
   <node id="3110884075" lat="44.6476509" lon="7.6554485">
     <tag k="amenity" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La &quot;baraca del gelato&quot;"/>
     <tag k="phone" v="+39 379 1910431"/>
   </node>
@@ -446,6 +471,14 @@
     <tag k="name" v="Borgomarket"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="5967741748" lat="44.3800648" lon="7.5259808">
+    <tag k="addr:street" v="Via Cascina Colombaro"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Sapore di Mare"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="shop" v="seafood"/>
+    <tag k="website" v="https://www.saporedimare.it"/>
+  </node>
   <node id="6018280867" lat="44.3938070" lon="7.5513196">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Via Santa Maria"/>
@@ -580,7 +613,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
     <tag k="delivery" v="yes"/>
-    <tag k="name" v="Bove’s Macellai"/>
+    <tag k="name" v="Bove's Macellai"/>
     <tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
     <tag k="phone" v="+39 0171 692624"/>
     <tag k="website" v="http://www.boves1929.it"/>
@@ -680,6 +713,18 @@
     <tag k="phone" v="+39 0171 1988038"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6187982140" lat="44.3917432" lon="7.5497818">
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna su Cuneo e frazioni."/>
+    <tag k="email" v="calcagno.cn@gmail.com"/>
+    <tag k="name" v="Calcagno"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="phone" v="+39 0171 692576"/>
+    <tag k="shop" v="stationery"/>
+  </node>
   <node id="6187982144" lat="44.3917158" lon="7.5497555">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Via Roma"/>
@@ -706,6 +751,17 @@
     <tag k="phone:mobile" v="+39 339 5865036"/>
     <tag k="ref:vatin" v="IT03773800044"/>
     <tag k="website" v="https://infernotto.pub"/>
+  </node>
+  <node id="6237748355" lat="44.3851815" lon="7.5423504">
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="info@chantillycuneo.it"/>
+    <tag k="name" v="Chantilly"/>
+    <tag k="phone" v="+39 392 174 5923"/>
+    <tag k="ref:vatin" v="IT03690900042"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="website" v="https://www.chantillycuneo.it/"/>
   </node>
   <node id="6239738308" lat="44.3920679" lon="7.5505218">
     <tag k="addr:housenumber" v="35"/>
@@ -788,6 +844,11 @@
     <tag k="name" v="Le delizie di Albi - Alimentari"/>
     <tag k="phone" v="+39 342 1251277"/>
     <tag k="shop" v="convenience"/>
+  </node>
+  <node id="6327487199" lat="44.3881553" lon="7.5450616">
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pescheria Costa Azzurra"/>
+    <tag k="shop" v="seafood"/>
   </node>
   <node id="6342617252" lat="44.3887965" lon="7.5502015">
     <tag k="addr:housenumber" v="15bis"/>
@@ -931,6 +992,13 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Il ninfeo"/>
     <tag k="shop" v="beauty"/>
+  </node>
+  <node id="6578479217" lat="44.3939953" lon="7.5508912">
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna gratuita."/>
+    <tag k="name" v="Sandra Calzature"/>
+    <tag k="phone" v="+39 0171 695565;+39 3409774923"/>
+    <tag k="shop" v="shoes"/>
   </node>
   <node id="6579153660" lat="44.3664074" lon="7.5237475">
     <tag k="addr:housenumber" v="102"/>
@@ -1208,12 +1276,12 @@
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Piazza Cesare Battisti"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+39 329 8267502"/>
+    <tag k="contact:phone" v="+39 0172 726924"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fax" v="+39 0172 726 924"/>
     <tag k="name" v="Pizzeria Bucefalo"/>
-    <tag k="phone" v="+39 0172 726924 +39 329 8267502"/>
   </node>
   <node id="7015863355" lat="44.4184000" lon="7.4302023">
     <tag k="addr:city" v="Caraglio"/>
@@ -1951,44 +2019,41 @@
   </node>
   <node id="7312771210" lat="44.6454210" lon="7.6568095">
     <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alveare di Savigliano"/>
-    <tag k="shop" v="deli"/>
+    <tag k="shop" v="convenience"/>
     <tag k="website" v="https://alvearechedicesi.it/it-IT/assemblies/10271"/>
   </node>
   <node id="7312771211" lat="44.6510750" lon="7.6568384">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Panetteria Lamberti"/>
     <tag k="phone" v="+39 0172 711423"/>
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7312771212" lat="44.6462826" lon="7.6551962">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Da Beate"/>
     <tag k="phone" v="+39 334 7272388"/>
+    <tag k="shop" v="deli"/>
   </node>
   <node id="7312771213" lat="44.6470574" lon="7.6489761">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="contact:mobile" v="+39 335 6752177"/>
+    <tag k="contact:phone" v="+39 0172 715015"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tuttanatura Di Borio Claudio"/>
-    <tag k="phone" v="+39 0172 715015 +39 335 6752177"/>
     <tag k="shop" v="garden_centre"/>
   </node>
   <node id="7312771214" lat="44.6473140" lon="7.6534769">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="contact:mobile" v="+39 349 7225123"/>
+    <tag k="contact:phone" v="+39 0172 370327"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Latteria Agricola Fusero"/>
-    <tag k="phone" v="+39 0172 370327 +39 349 7225123"/>
     <tag k="shop" v="dairy"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7312852480" lat="44.6475134" lon="7.6550849">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Aroma Savigliano"/>
     <tag k="phone" v="+39 0172 373097"/>
     <tag k="shop" v="coffee"/>
@@ -1996,8 +2061,7 @@
   </node>
   <node id="7312852481" lat="44.6426071" lon="7.6500785">
     <tag k="amenity" v="restaurant"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Villa Borgoglio"/>
     <tag k="phone" v="+39 0172 2446640"/>
   </node>
@@ -2011,44 +2075,39 @@
   </node>
   <node id="7312852483" lat="44.6457263" lon="7.6530759">
     <tag k="amenity" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bar Manuel"/>
     <tag k="phone" v="+39 333 7956455"/>
   </node>
   <node id="7312852484" lat="44.6467091" lon="7.6539342">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="regional"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Ostu Bistrot"/>
     <tag k="phone" v="+39 340 0553238"/>
     <tag k="website" v="https://ostubistrot.it/"/>
   </node>
   <node id="7314616325" lat="44.6492108" lon="7.6546544">
     <tag k="amenity" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Oasi del gelato"/>
     <tag k="phone" v="+39 329 3445072"/>
   </node>
   <node id="7314616326" lat="44.6449663" lon="7.6558708">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Dal Fruttaiolo"/>
     <tag k="phone" v="+39 0172 21384"/>
     <tag k="shop" v="greengrocer"/>
   </node>
   <node id="7315542851" lat="44.6509434" lon="7.6554523">
     <tag k="amenity" v="cafe"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bar Kursal"/>
     <tag k="phone" v="+39 0172 31744"/>
   </node>
   <node id="7315542852" lat="44.6504139" lon="7.6534018">
     <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tutto a domicilio"/>
     <tag k="office" v="delivery"/>
     <tag k="phone" v="+39 3711559108"/>
@@ -2057,14 +2116,12 @@
   <node id="7315542853" lat="44.6472138" lon="7.6566339">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="regional"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Antica Osteria dell'Orsa"/>
     <tag k="phone" v="+39 0172 711763"/>
   </node>
   <node id="7315542854" lat="44.6459754" lon="7.6479703">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Equinord"/>
     <tag k="phone" v="+39 348 7759619"/>
     <tag k="shop" v="sports"/>
@@ -2072,33 +2129,31 @@
     <tag k="website" v="http://www.equinord.it/"/>
   </node>
   <node id="7315542855" lat="44.6469295" lon="7.6505747">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="contact:mobile" v="+39 348 2448481"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Ci.erre ferramenta"/>
-    <tag k="phone" v="+39 347 8830433 +39 348 2448481"/>
+    <tag k="phone" v="+39 347 8830433"/>
     <tag k="shop" v="hardware"/>
     <tag k="website" v="http://www.cierreferramenta.com/"/>
   </node>
   <node id="7315542856" lat="44.6482624" lon="7.6578878">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="contact:mobile" v="+39 340 1981138"/>
+    <tag k="contact:phone" v="+39 0172 371525"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Prink"/>
-    <tag k="phone" v="+39 0172 371525 +39 340 1981138"/>
     <tag k="shop" v="printer_ink"/>
     <tag k="website" v="https://www.prink.it/savigliano-1052"/>
   </node>
   <node id="7315542857" lat="44.6467334" lon="7.6566070">
     <tag k="amenity" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Crema &amp; Cioccolato"/>
     <tag k="phone" v="+39 340 920652 +39 380 3296543"/>
   </node>
   <node id="7315542858" lat="44.6470211" lon="7.6558761">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il Capriccio pizza al taglio"/>
     <tag k="phone" v="+39 0172 712883"/>
     <tag k="takeaway" v="only"/>
@@ -2107,36 +2162,33 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="30 e lode"/>
     <tag k="phone" v="+39 0172 373364"/>
     <tag k="website" v="http://pizza30elode.it/"/>
   </node>
   <node id="7315612691" lat="44.6490376" lon="7.6559264">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pane e Vizi"/>
     <tag k="phone" v="+39 0172 713523"/>
     <tag k="shop" v="bakery"/>
   </node>
   <node id="7315612692" lat="44.6488940" lon="7.6560853">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="contact:mobile" v="+39 339 3260071"/>
+    <tag k="contact:phone" v="+39 0172 7712671"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La Bottega alimentare"/>
-    <tag k="phone" v="+39 0172 7712671 +39 339 3260071"/>
     <tag k="shop" v="convenience"/>
   </node>
   <node id="7315612693" lat="44.6457745" lon="7.6563697">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bottega equosolidale Tam Tam"/>
     <tag k="phone" v="+39 333 8154530"/>
     <tag k="shop" v="general"/>
     <tag k="website" v="https://tamtamsavigliano.wixsite.com/tamtam"/>
   </node>
   <node id="7318113634" lat="44.6405970" lon="7.6572134">
-    <tag k="delivery" v="yes"/>
-    <tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Otrofrutta F.lli Michelazzo"/>
     <tag k="phone" v="+39 338 1229686"/>
     <tag k="shop" v="greengrocer"/>
@@ -2255,6 +2307,26 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="shop" v="toys"/>
     <tag k="website" v="http://www.magazzinomary.it/"/>
+  </node>
+  <node id="7341307253" lat="44.6513374" lon="7.6559405">
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Le Armonie del Gusto"/>
+    <tag k="phone" v="+39 339 7789379"/>
+    <tag k="shop" v="deli"/>
+    <tag k="website" v="https://www.facebook.com/pg/Le-armonie-del-gusto-di-elvira-1932771050195337/"/>
+  </node>
+  <node id="7351764200" lat="44.5157965" lon="7.4779729">
+    <tag k="addr:city" v="Busca"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="12022"/>
+    <tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Le-torte-di-Mary-Jo-è-un-guinness-world-record-531683173642634/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="email" v="info@letortedimaryjo.it"/>
+    <tag k="name" v="Le torte di Mary Jo"/>
+    <tag k="phone" v="+39 334 7634722"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="website" v="http://www.letortedimaryjo.it"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

@@ -51,10 +51,10 @@
 		<tag k="shop" v="electronics"/>
 	</node>
 	<node id="7315542856" lat="44.6482624" lon="7.6578878">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="contact:mobile" v="+39 340 1981138"/>
+		<tag k="contact:phone" v="+39 0172 371525"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Prink"/>
-		<tag k="phone" v="+39 0172 371525 +39 340 1981138"/>
 		<tag k="shop" v="printer_ink"/>
 		<tag k="website" v="https://www.prink.it/savigliano-1052"/>
 	</node>

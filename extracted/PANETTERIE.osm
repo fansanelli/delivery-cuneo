@@ -148,16 +148,14 @@
 		<tag k="shop" v="bakery"/>
 	</node>
 	<node id="7312771211" lat="44.651075" lon="7.6568384">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Panetteria Lamberti"/>
 		<tag k="phone" v="+39 0172 711423"/>
 		<tag k="shop" v="bakery"/>
 		<tag k="wheelchair" v="yes"/>
 	</node>
 	<node id="7315612691" lat="44.6490376" lon="7.6559264">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Pane e Vizi"/>
 		<tag k="phone" v="+39 0172 713523"/>
 		<tag k="shop" v="bakery"/>

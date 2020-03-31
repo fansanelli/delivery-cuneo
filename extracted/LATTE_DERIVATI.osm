@@ -2,8 +2,7 @@
 <osm version="0.6" generator="osmfilter 1.4.4">
 	<node id="3110884075" lat="44.6476509" lon="7.6554485">
 		<tag k="amenity" v="ice_cream"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="La &#34;baraca del gelato&#34;"/>
 		<tag k="phone" v="+39 379 1910431"/>
 	</node>
@@ -36,31 +35,28 @@
 		<tag k="shop" v="dairy"/>
 	</node>
 	<node id="7312771214" lat="44.647314" lon="7.6534769">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="contact:mobile" v="+39 349 7225123"/>
+		<tag k="contact:phone" v="+39 0172 370327"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Latteria Agricola Fusero"/>
-		<tag k="phone" v="+39 0172 370327 +39 349 7225123"/>
 		<tag k="shop" v="dairy"/>
 		<tag k="wheelchair" v="yes"/>
 	</node>
 	<node id="7312852483" lat="44.6457263" lon="7.6530759">
 		<tag k="amenity" v="ice_cream"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bar Manuel"/>
 		<tag k="phone" v="+39 333 7956455"/>
 	</node>
 	<node id="7314616325" lat="44.6492108" lon="7.6546544">
 		<tag k="amenity" v="ice_cream"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Oasi del gelato"/>
 		<tag k="phone" v="+39 329 3445072"/>
 	</node>
 	<node id="7315542857" lat="44.6467334" lon="7.656607">
 		<tag k="amenity" v="ice_cream"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Crema &#38; Cioccolato"/>
 		<tag k="phone" v="+39 340 920652 +39 380 3296543"/>
 	</node>

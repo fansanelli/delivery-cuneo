@@ -64,6 +64,14 @@
 		<tag k="name" v="Borgomarket"/>
 		<tag k="shop" v="convenience"/>
 	</node>
+	<node id="5967741748" lat="44.3800648" lon="7.5259808">
+		<tag k="addr:street" v="Via Cascina Colombaro"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Sapore di Mare"/>
+		<tag k="nohousenumber" v="yes"/>
+		<tag k="shop" v="seafood"/>
+		<tag k="website" v="https://www.saporedimare.it"/>
+	</node>
 	<node id="6034734222" lat="44.389543" lon="7.5470124">
 		<tag k="addr:housenumber" v="12"/>
 		<tag k="addr:street" v="Piazza Tancredi Galimberti"/>
@@ -148,6 +156,11 @@
 		<tag k="name" v="Le delizie di Albi - Alimentari"/>
 		<tag k="phone" v="+39 342 1251277"/>
 		<tag k="shop" v="convenience"/>
+	</node>
+	<node id="6327487199" lat="44.3881553" lon="7.5450616">
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pescheria Costa Azzurra"/>
+		<tag k="shop" v="seafood"/>
 	</node>
 	<node id="6466198055" lat="44.3826094" lon="7.5415535">
 		<tag k="addr:city" v="Cuneo"/>
@@ -414,21 +427,26 @@
 	</node>
 	<node id="7312771210" lat="44.645421" lon="7.6568095">
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Alveare di Savigliano"/>
-		<tag k="shop" v="deli"/>
+		<tag k="shop" v="convenience"/>
 		<tag k="website" v="https://alvearechedicesi.it/it-IT/assemblies/10271"/>
 	</node>
+	<node id="7312771212" lat="44.6462826" lon="7.6551962">
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Da Beate"/>
+		<tag k="phone" v="+39 334 7272388"/>
+		<tag k="shop" v="deli"/>
+	</node>
 	<node id="7315612692" lat="44.648894" lon="7.6560853">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="contact:mobile" v="+39 339 3260071"/>
+		<tag k="contact:phone" v="+39 0172 7712671"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="La Bottega alimentare"/>
-		<tag k="phone" v="+39 0172 7712671 +39 339 3260071"/>
 		<tag k="shop" v="convenience"/>
 	</node>
 	<node id="7315612693" lat="44.6457745" lon="7.6563697">
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bottega equosolidale Tam Tam"/>
 		<tag k="phone" v="+39 333 8154530"/>
 		<tag k="shop" v="general"/>
@@ -444,5 +462,12 @@
 		<tag k="phone" v="+39 0171 945389"/>
 		<tag k="shop" v="convenience"/>
 		<tag k="tobacco" v="yes"/>
+	</node>
+	<node id="7341307253" lat="44.6513374" lon="7.6559405">
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Le Armonie del Gusto"/>
+		<tag k="phone" v="+39 339 7789379"/>
+		<tag k="shop" v="deli"/>
+		<tag k="website" v="https://www.facebook.com/pg/Le-armonie-del-gusto-di-elvira-1932771050195337/"/>
 	</node>
 </osm>

@@ -150,7 +150,7 @@
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="burger"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="name" v="Bove’s Macellai"/>
+		<tag k="name" v="Bove&#39;s Macellai"/>
 		<tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
 		<tag k="phone" v="+39 0171 692624"/>
 		<tag k="website" v="http://www.boves1929.it"/>
@@ -260,12 +260,12 @@
 		<tag k="addr:housenumber" v="9"/>
 		<tag k="addr:street" v="Piazza Cesare Battisti"/>
 		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 329 8267502"/>
+		<tag k="contact:phone" v="+39 0172 726924"/>
 		<tag k="cuisine" v="pizza"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fax" v="+39 0172 726 924"/>
 		<tag k="name" v="Pizzeria Bucefalo"/>
-		<tag k="phone" v="+39 0172 726924 +39 329 8267502"/>
 	</node>
 	<node id="7041920027" lat="44.4324071" lon="7.5068911">
 		<tag k="addr:housenumber" v="230"/>
@@ -342,17 +342,9 @@
 		<tag k="opening_hours" v="Fr,Sa 18:00-22:30; Su 18:00-22:00"/>
 		<tag k="phone" v="+39 0171 403584"/>
 	</node>
-	<node id="7312771212" lat="44.6462826" lon="7.6551962">
-		<tag k="amenity" v="restaurant"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
-		<tag k="name" v="Da Beate"/>
-		<tag k="phone" v="+39 334 7272388"/>
-	</node>
 	<node id="7312852481" lat="44.6426071" lon="7.6500785">
 		<tag k="amenity" v="restaurant"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Villa Borgoglio"/>
 		<tag k="phone" v="+39 0172 2446640"/>
 	</node>
@@ -367,8 +359,7 @@
 	<node id="7312852484" lat="44.6467091" lon="7.6539342">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="regional"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Ostu Bistrot"/>
 		<tag k="phone" v="+39 340 0553238"/>
 		<tag k="website" v="https://ostubistrot.it/"/>
@@ -376,16 +367,14 @@
 	<node id="7315542853" lat="44.6472138" lon="7.6566339">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="regional"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Antica Osteria dell&#39;Orsa"/>
 		<tag k="phone" v="+39 0172 711763"/>
 	</node>
 	<node id="7315542858" lat="44.6470211" lon="7.6558761">
 		<tag k="amenity" v="fast_food"/>
 		<tag k="cuisine" v="pizza"/>
-		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il Capriccio pizza al taglio"/>
 		<tag k="phone" v="+39 0172 712883"/>
 		<tag k="takeaway" v="only"/>
@@ -394,7 +383,7 @@
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="delivery:description:it" v="Attivazione servizio a domicilio COVID-19"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="30 e lode"/>
 		<tag k="phone" v="+39 0172 373364"/>
 		<tag k="website" v="http://pizza30elode.it/"/>
