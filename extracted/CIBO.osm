@@ -11,6 +11,18 @@
 		<tag k="name" v="Il Pianeta 2000 Ristorante Pizzeria"/>
 		<tag k="phone" v="+39 0171 931858"/>
 	</node>
+	<node id="1922721382" lat="44.3913904" lon="7.548436">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Via Seminario"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="diet:gluten_free" v="yes"/>
+		<tag k="name" v="Capri"/>
+		<tag k="opening_hours" v="Mo-Tu,Th-Su 12:00-14:10,19:00-24:00"/>
+		<tag k="phone" v="+39 0171 681904"/>
+		<tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
+	</node>
 	<node id="2412584621" lat="44.3940332" lon="7.5559091">
 		<tag k="addr:housenumber" v="4"/>
 		<tag k="addr:street" v="Piazzale Vecchia Stazione"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-03-31T19:39:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-02T15:30:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -89,6 +89,18 @@
     <tag k="phone" v="+39 339 6811887"/>
     <tag k="shop" v="bakery"/>
   </node>
+  <node id="1922721382" lat="44.3913904" lon="7.5484360">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Seminario"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="name" v="Capri"/>
+    <tag k="opening_hours" v="Mo-Tu,Th-Su 12:00-14:10,19:00-24:00"/>
+    <tag k="phone" v="+39 0171 681904"/>
+    <tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
+  </node>
   <node id="1932859601" lat="44.3656243" lon="7.5230803">
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
@@ -120,10 +132,10 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Piazza Europa"/>
     <tag k="delivery" v="yes"/>
-    <tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00 "/>
+    <tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00"/>
     <tag k="name" v="L'Ippogrifo"/>
     <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:satyspay" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
     <tag k="payment:wire_transfer" v="yes"/>
     <tag k="phone" v="+39 0171 67331"/>
     <tag k="shop" v="books"/>
@@ -859,6 +871,13 @@
     <tag k="shop" v="medical_supply"/>
     <tag k="website" v="https://www.itoscuneo.com/"/>
   </node>
+  <node id="6342641186" lat="44.3904384" lon="7.5500289">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Piazza Boves"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="La cantinetta"/>
+    <tag k="shop" v="wine"/>
+  </node>
   <node id="6358397064" lat="44.3861275" lon="7.5389712">
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Corso Giovanni Giolitti"/>
@@ -994,10 +1013,11 @@
     <tag k="shop" v="beauty"/>
   </node>
   <node id="6578479217" lat="44.3939953" lon="7.5508912">
+    <tag k="contact:mobile" v="+39 340 9774923"/>
+    <tag k="contact:phone" v="+39 0171 695565"/>
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Consegna gratuita."/>
     <tag k="name" v="Sandra Calzature"/>
-    <tag k="phone" v="+39 0171 695565;+39 3409774923"/>
     <tag k="shop" v="shoes"/>
   </node>
   <node id="6579153660" lat="44.3664074" lon="7.5237475">

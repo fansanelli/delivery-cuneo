@@ -47,6 +47,13 @@
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="phone" v="+39 0171 693968"/>
 	</node>
+	<node id="6342641186" lat="44.3904384" lon="7.5500289">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Piazza Boves"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="La cantinetta"/>
+		<tag k="shop" v="wine"/>
+	</node>
 	<node id="6358483961" lat="44.3857052" lon="7.5420549">
 		<tag k="amenity" v="cafe"/>
 		<tag k="delivery" v="yes"/>

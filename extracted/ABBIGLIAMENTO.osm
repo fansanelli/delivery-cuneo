@@ -36,10 +36,11 @@
 		<tag k="shop" v="clothes"/>
 	</node>
 	<node id="6578479217" lat="44.3939953" lon="7.5508912">
+		<tag k="contact:mobile" v="+39 340 9774923"/>
+		<tag k="contact:phone" v="+39 0171 695565"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="description" v="Consegna gratuita."/>
 		<tag k="name" v="Sandra Calzature"/>
-		<tag k="phone" v="+39 0171 695565;+39 3409774923"/>
 		<tag k="shop" v="shoes"/>
 	</node>
 	<node id="6673724204" lat="44.3479457" lon="7.5078869">

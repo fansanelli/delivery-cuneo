@@ -14,10 +14,10 @@
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:street" v="Piazza Europa"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00 "/>
+		<tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00"/>
 		<tag k="name" v="L&#39;Ippogrifo"/>
 		<tag k="payment:paypal" v="yes"/>
-		<tag k="payment:satyspay" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
 		<tag k="payment:wire_transfer" v="yes"/>
 		<tag k="phone" v="+39 0171 67331"/>
 		<tag k="shop" v="books"/>
