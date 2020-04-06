@@ -10,6 +10,15 @@
 		<tag k="phone" v="+39 339 4418950"/>
 		<tag k="shop" v="convenience"/>
 	</node>
+	<node id="1922721432" lat="44.38931" lon="7.5464862">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Corso Marcello Soleri"/>
+		<tag k="contact:phone" v="+39 0171 692466"/>
+		<tag k="contact:website" v="http://www.pastificioboetti.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pastificio Boetti"/>
+		<tag k="shop" v="pasta"/>
+	</node>
 	<node id="1965797379" lat="44.3957483" lon="7.4913901">
 		<tag k="delivery" v="yes"/>
 		<tag k="description" v="Offre il servizio di consegna gratuita della spesa in Cuneo città e zone limitrofe.  Inviare l&#39;ordine il più possibile via e-mail completo di nome, cognome, indirizzo, telefono e modalità di pagamento preferita."/>
@@ -19,6 +28,15 @@
 		<tag k="phone" v="+39 0171 85107"/>
 		<tag k="shop" v="convenience"/>
 		<tag k="website" v="https://lafattoria1946.com/store/"/>
+	</node>
+	<node id="1970779041" lat="44.3826145" lon="7.5410627">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="contact:phone" v="+39 0171 66616"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Il cucchiaio d&#39;argento"/>
+		<tag k="operator" v="Il Cucchiaio D&#39;argento di Caglieri Angela e Aschero Enzo Snc"/>
+		<tag k="shop" v="convenience"/>
 	</node>
 	<node id="3449288504" lat="44.477526" lon="7.5068138">
 		<tag k="addr:city" v="Tarantasca"/>
@@ -173,6 +191,16 @@
 		<tag k="phone" v="+39 320 4682017"/>
 		<tag k="shop" v="convenience"/>
 		<tag k="website" v="http://labufalinacuneo.altervista.org"/>
+	</node>
+	<node id="6542713181" lat="44.3827064" lon="7.5372139">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:street" v="Corso Galileo Ferraris"/>
+		<tag k="contact:email" v="bottegachecevo@tiscali.it"/>
+		<tag k="contact:mobile" v="+39 320 1798709"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fair_trade" v="only"/>
+		<tag k="name" v="Checevò"/>
+		<tag k="shop" v="convenience"/>
 	</node>
 	<node id="6547627100" lat="44.3808538" lon="7.5407151">
 		<tag k="delivery" v="yes"/>

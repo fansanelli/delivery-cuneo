@@ -58,6 +58,16 @@
 		<tag k="phone" v="+39 0171 692576"/>
 		<tag k="shop" v="stationery"/>
 	</node>
+	<node id="6220848366" lat="44.3912151" lon="7.5497127">
+		<tag k="addr:housenumber" v="43"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="info@panicuneo.it"/>
+		<tag k="contact:mobile" v="+39 329 1480432"/>
+		<tag k="contact:phone" v="+39 0171 690946"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pani"/>
+		<tag k="shop" v="stationery"/>
+	</node>
 	<node id="6239738308" lat="44.3920679" lon="7.5505218">
 		<tag k="addr:housenumber" v="35"/>
 		<tag k="addr:street" v="Via Roma"/>
@@ -71,6 +81,15 @@
 		<tag k="payment:satispay" v="yes"/>
 		<tag k="payment:wire_transfer" v="yes"/>
 		<tag k="shop" v="baby_goods"/>
+	</node>
+	<node id="6328512680" lat="44.3929528" lon="7.5469005">
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:street" v="Via Caraglio"/>
+		<tag k="contact:email" v="faro.copisteria@gmail.com"/>
+		<tag k="contact:mobile" v="+39 346 3571576"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Faro Copisteria"/>
+		<tag k="shop" v="copyshop"/>
 	</node>
 	<node id="6418937919" lat="44.392319" lon="7.5523919">
 		<tag k="addr:housenumber" v="13"/>
@@ -302,5 +321,28 @@
 		<tag k="payment:satispay" v="yes"/>
 		<tag k="shop" v="toys"/>
 		<tag k="website" v="http://www.magazzinomary.it/"/>
+	</node>
+	<node id="7373358703" lat="44.391843" lon="7.5498543">
+		<tag k="addr:housenumber" v="52"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="info@alferoarredamento.it"/>
+		<tag k="contact:mobile" v="+39 335 605563"/>
+		<tag k="contact:phone" v="+39 0171 692589"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Alfero Arredamento Interni di Anna Maria Alfero"/>
+		<tag k="shop" v="furniture"/>
+	</node>
+	<node id="7373391658" lat="44.3915161" lon="7.5689128">
+		<tag k="addr:housenumber" v="47"/>
+		<tag k="addr:street" v="Via Savona"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Green-Grow-Lampade-di-Sale-Himalaya-1289693057753432/"/>
+		<tag k="contact:mobile" v="+39 348 7039967"/>
+		<tag k="contact:phone" v="+39 0171 401648"/>
+		<tag k="contact:website" v="https://www.greenandgrow.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Green &#38; Grow"/>
+		<tag k="shop" v="chemist"/>
 	</node>
 </osm>

@@ -35,6 +35,16 @@
 		<tag k="phone" v="+39 0171 1723046"/>
 		<tag k="shop" v="clothes"/>
 	</node>
+	<node id="6418919225" lat="44.3923483" lon="7.5515475">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Mondovì"/>
+		<tag k="contact:email" v="valentinafreda@libero.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/BANTIENVALE/"/>
+		<tag k="contact:mobile" v="+39 349 311841"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Ban Tien"/>
+		<tag k="shop" v="clothes"/>
+	</node>
 	<node id="6578479217" lat="44.3939953" lon="7.5508912">
 		<tag k="contact:mobile" v="+39 340 9774923"/>
 		<tag k="contact:phone" v="+39 0171 695565"/>

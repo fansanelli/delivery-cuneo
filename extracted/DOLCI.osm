@@ -20,6 +20,15 @@
 		<tag k="phone:mobile" v="+39 339 6243453"/>
 		<tag k="shop" v="pastry"/>
 	</node>
+	<node id="6059792096" lat="44.3885576" lon="7.5473771">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+		<tag k="contact:email" v="info@pasticceriacuneo.it"/>
+		<tag k="contact:mobile" v="+39 340 6943982"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pasticceria Cuneo"/>
+		<tag k="shop" v="pastry"/>
+	</node>
 	<node id="6129227495" lat="44.3833612" lon="7.5393558">
 		<tag k="addr:housenumber" v="52"/>
 		<tag k="addr:street" v="Via Venti Settembre"/>

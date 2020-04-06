@@ -39,6 +39,18 @@
 		<tag k="shop" v="bakery"/>
 		<tag k="website" v="https://albero.delpane.it"/>
 	</node>
+	<node id="6070278795" lat="44.3792639" lon="7.5313218">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Corso Antonio Gramsci"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Il Forno Nuovo S.n.c."/>
+		<tag k="operator" v="Il Forno Nuovo S.n.c. di Bruno Mario e figli"/>
+		<tag k="phone" v="+39 0171 692048"/>
+		<tag k="ref:vatin" v="IT03638010045"/>
+		<tag k="shop" v="bakery"/>
+	</node>
 	<node id="6124666867" lat="44.3855735" lon="7.5435524">
 		<tag k="addr:housenumber" v="40"/>
 		<tag k="addr:street" v="Corso Nizza"/>

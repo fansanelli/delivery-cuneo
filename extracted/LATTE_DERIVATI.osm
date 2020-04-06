@@ -6,6 +6,15 @@
 		<tag k="name" v="La &#34;baraca del gelato&#34;"/>
 		<tag k="phone" v="+39 379 1910431"/>
 	</node>
+	<node id="6482395801" lat="44.387329" lon="7.5441792">
+		<tag k="addr:housenumber" v="6a"/>
+		<tag k="addr:street" v="Via Felice Cavallotti"/>
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="contact:email" v="info@creasrl.it"/>
+		<tag k="contact:phone" v="+39 0171 611114"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Crea"/>
+	</node>
 	<node id="7293198123" lat="44.3947601" lon="7.495942">
 		<tag k="delivery" v="yes"/>
 		<tag k="description" v="Ordini tramite whatsapp o telefonando. Consegna su Cuneo e limitrofi. Consegna GRATUITA. Ordine minimo circa 20€."/>

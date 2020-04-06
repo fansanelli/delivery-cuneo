@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1922721564" lat="44.3915224" lon="7.5481737">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Seminario"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Macelleria Cavallo"/>
+		<tag k="operator" v="Macellerie Fratelli Cavallo di Cavallo Mauro e C. s.n.c."/>
+		<tag k="phone" v="+39 0171 693002"/>
+		<tag k="ref:vatin" v="IT00662860048"/>
+		<tag k="shop" v="butcher"/>
+		<tag k="website" v="https://macelleriacuneo.it/"/>
+	</node>
 	<node id="3496506663" lat="44.4171192" lon="7.4270728">
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Macelleria Serra"/>

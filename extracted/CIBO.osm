@@ -13,14 +13,16 @@
 	</node>
 	<node id="1922721382" lat="44.3913904" lon="7.548436">
 		<tag k="addr:housenumber" v="2"/>
-		<tag k="addr:street" v="Via Seminario"/>
+		<tag k="addr:street" v="Piazza Seminario"/>
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="diet:gluten_free" v="yes"/>
 		<tag k="name" v="Capri"/>
 		<tag k="opening_hours" v="Mo-Tu,Th-Su 12:00-14:10,19:00-24:00"/>
+		<tag k="operator" v="Pizzeria Capri di Giordano Emilio e C."/>
 		<tag k="phone" v="+39 0171 681904"/>
+		<tag k="ref:vatin" v="IT00764810040"/>
 		<tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
 	</node>
 	<node id="2412584621" lat="44.3940332" lon="7.5559091">
@@ -199,12 +201,33 @@
 		<tag k="ref:vatin" v="IT03773800044"/>
 		<tag k="website" v="https://infernotto.pub"/>
 	</node>
+	<node id="6282548560" lat="44.3943042" lon="7.5526417">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 320 0375046"/>
+		<tag k="contact:phone" v="+39 0171 791007"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Trattoria Roma"/>
+		<tag k="operator" v="Trattoria Roma di Brizio Annalisa"/>
+	</node>
 	<node id="6298798509" lat="44.3869182" lon="7.5445247">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Pizza Flash"/>
 		<tag k="phone" v="+39 0171 630775"/>
+	</node>
+	<node id="6372022531" lat="44.3892041" lon="7.5499488">
+		<tag k="addr:housenumber" v="53"/>
+		<tag k="addr:street" v="Via Alba"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="contact:phone" v="+39 0171 332666"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Facrok"/>
+		<tag k="oven" v="electric"/>
 	</node>
 	<node id="6515989776" lat="44.379359" lon="7.5310743">
 		<tag k="amenity" v="fast_food"/>
@@ -226,6 +249,30 @@
 		<tag k="opening_hours" v="Mo-Su 18:30-23:15"/>
 		<tag k="phone" v="+39 0171 631827"/>
 		<tag k="website" v="http://yuppidupizza-cuneo.it/"/>
+	</node>
+	<node id="6592936427" lat="44.3936125" lon="7.5490438">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="3bis"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Busca"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Ninfoodristorante/"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/ninfoodcuneo/"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Cucina vegetariana e gluten free creata da materie prime eccellenti e freschissime acquistate giornalmente sul mercato locale."/>
+		<tag k="diet:gluten_free" v="yes"/>
+		<tag k="diet:vegetarian" v="yes"/>
+		<tag k="name" v="Ninføød"/>
+		<tag k="opening_hours" v="Mo-Fr 10:00-16:00"/>
+		<tag k="organic" v="yes"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone:mobile" v="+39 389 1262276"/>
+		<tag k="start_date" v="2017-12-01"/>
 	</node>
 	<node id="6611844291" lat="44.3928486" lon="7.5529822">
 		<tag k="addr:housenumber" v="6"/>
@@ -408,7 +455,7 @@
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="name" v="BUSCAJE Ristorante Pizzeria"/>
+		<tag k="name" v="Buscaje Ristorante Pizzeria"/>
 		<tag k="phone" v="+39 334 1196311"/>
 	</node>
 	<node id="7323651043" lat="44.5132557" lon="7.47222">
@@ -421,5 +468,13 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Pizzeria 2 Mondi"/>
 		<tag k="phone" v="+39 0171 943909"/>
+	</node>
+	<node id="7364587717" lat="44.4400159" lon="7.5259207">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Bufala-e-Basilico-_-Ristorante-Pizzeria-111012633773321/"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Bufala e Basilico"/>
+		<tag k="phone" v="+39 0171 940753;+39 366 7462765"/>
 	</node>
 </osm>

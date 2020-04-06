@@ -14,6 +14,16 @@
 		<tag k="ref:vatin" v="IT02293100042"/>
 		<tag k="wheelchair" v="yes"/>
 	</node>
+	<node id="3884561295" lat="44.3912962" lon="7.5634988">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Savona"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:email" v="matteo.gavu@hotmail.it"/>
+		<tag k="contact:mobile" v="+39 349 6003543"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Bar barriera"/>
+	</node>
 	<node id="5397122034" lat="44.3881856" lon="7.5488399">
 		<tag k="addr:housenumber" v="5"/>
 		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
@@ -46,6 +56,25 @@
 		<tag k="name" v="Cuba"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="phone" v="+39 0171 693968"/>
+		<tag k="website" v="https://www.relaiscubaonline.com/"/>
+	</node>
+	<node id="6188040642" lat="44.3877159" lon="7.5453774">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Via Ventotto Aprile"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Piaceri-Al-Cubo-Cuneo--1828597450804418/"/>
+		<tag k="contact:mobile" v="+39 338 2024866;+39 339 6162608"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Piaceri al cubo"/>
+	</node>
+	<node id="6188040643" lat="44.3878666" lon="7.5450764">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Ventotto Aprile"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:email" v="elisabetta.prezia@virgilio.it"/>
+		<tag k="contact:mobile" v="+39 392 2836557"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Il mondo del caffè"/>
 	</node>
 	<node id="6342641186" lat="44.3904384" lon="7.5500289">
 		<tag k="addr:housenumber" v="6"/>
@@ -59,6 +88,16 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="La coccinella"/>
 		<tag k="phone" v="+39 339 2429445"/>
+	</node>
+	<node id="6549851145" lat="44.3910935" lon="7.5703842">
+		<tag k="addr:housenumber" v="50"/>
+		<tag k="addr:street" v="Via Savona"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="contact:mobile" v="+39 347 3176965"/>
+		<tag k="contact:phone" v="+39 0171 402666"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Cit Ma Bel"/>
+		<tag k="operator" v="Cit Ma Bel Ettore e Margherita Ristorante"/>
 	</node>
 	<node id="7168981053" lat="44.4175219" lon="7.4279591">
 		<tag k="addr:housenumber" v="82"/>
