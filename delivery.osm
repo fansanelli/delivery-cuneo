@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-06T19:55:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-06T20:00:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -499,6 +499,22 @@
     <tag k="phone" v="+39 0171 348240"/>
     <tag k="shop" v="bakery"/>
     <tag k="website" v="https://albero.delpane.it"/>
+  </node>
+  <node id="5484420225" lat="44.4599876" lon="7.6286101">
+    <tag k="addr:city" v="Centallo"/>
+    <tag k="addr:housenumber" v="197"/>
+    <tag k="addr:place" v="Regione Pedaggio Sottano"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="yes"/>
+    <tag k="contact:email" v="info@birrificiotrunasse.it"/>
+    <tag k="contact:mobile" v="+39 338 8616725"/>
+    <tag k="contact:website" v="https://www.birrificiotrunasse.it/"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="Birrificio Trunasse"/>
+    <tag k="opening_hours" v="Tu-Fr 18:00-02:00; Sa 18:00-03:00; Su 18:00-01:00"/>
+    <tag k="product" v="beer"/>
   </node>
   <node id="5839763105" lat="44.3825605" lon="7.4683690">
     <tag k="addr:housenumber" v="37"/>

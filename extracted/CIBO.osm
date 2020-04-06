@@ -113,6 +113,22 @@
 		<tag k="name" v="Pizzeria del Conte"/>
 		<tag k="phone" v="+39 0171 344303"/>
 	</node>
+	<node id="5484420225" lat="44.4599876" lon="7.6286101">
+		<tag k="addr:city" v="Centallo"/>
+		<tag k="addr:housenumber" v="197"/>
+		<tag k="addr:place" v="Regione Pedaggio Sottano"/>
+		<tag k="amenity" v="pub"/>
+		<tag k="brewery" v="yes"/>
+		<tag k="contact:email" v="info@birrificiotrunasse.it"/>
+		<tag k="contact:mobile" v="+39 338 8616725"/>
+		<tag k="contact:website" v="https://www.birrificiotrunasse.it/"/>
+		<tag k="craft" v="brewery"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="microbrewery" v="yes"/>
+		<tag k="name" v="Birrificio Trunasse"/>
+		<tag k="opening_hours" v="Tu-Fr 18:00-02:00; Sa 18:00-03:00; Su 18:00-01:00"/>
+		<tag k="product" v="beer"/>
+	</node>
 	<node id="6018280867" lat="44.393807" lon="7.5513196">
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Santa Maria"/>
