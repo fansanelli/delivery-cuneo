@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-02T15:30:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-06T19:55:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -91,15 +91,37 @@
   </node>
   <node id="1922721382" lat="44.3913904" lon="7.5484360">
     <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Via Seminario"/>
+    <tag k="addr:street" v="Piazza Seminario"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="diet:gluten_free" v="yes"/>
     <tag k="name" v="Capri"/>
     <tag k="opening_hours" v="Mo-Tu,Th-Su 12:00-14:10,19:00-24:00"/>
+    <tag k="operator" v="Pizzeria Capri di Giordano Emilio e C."/>
     <tag k="phone" v="+39 0171 681904"/>
+    <tag k="ref:vatin" v="IT00764810040"/>
     <tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
+  </node>
+  <node id="1922721432" lat="44.3893100" lon="7.5464862">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Corso Marcello Soleri"/>
+    <tag k="contact:phone" v="+39 0171 692466"/>
+    <tag k="contact:website" v="http://www.pastificioboetti.it/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pastificio Boetti"/>
+    <tag k="shop" v="pasta"/>
+  </node>
+  <node id="1922721564" lat="44.3915224" lon="7.5481737">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Via Seminario"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Macelleria Cavallo"/>
+    <tag k="operator" v="Macellerie Fratelli Cavallo di Cavallo Mauro e C. s.n.c."/>
+    <tag k="phone" v="+39 0171 693002"/>
+    <tag k="ref:vatin" v="IT00662860048"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="website" v="https://macelleriacuneo.it/"/>
   </node>
   <node id="1932859601" lat="44.3656243" lon="7.5230803">
     <tag k="delivery" v="yes"/>
@@ -127,6 +149,15 @@
     <tag k="operator" v="Aleki SNC di Sala Alessio Gianelio &amp; C."/>
     <tag k="phone" v="+39 349 6410294"/>
     <tag k="shop" v="printer_ink"/>
+  </node>
+  <node id="1970779041" lat="44.3826145" lon="7.5410627">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="contact:phone" v="+39 0171 66616"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Il cucchiaio d'argento"/>
+    <tag k="operator" v="Il Cucchiaio D'argento di Caglieri Angela e Aschero Enzo Snc"/>
+    <tag k="shop" v="convenience"/>
   </node>
   <node id="2412584584" lat="44.3839017" lon="7.5425490">
     <tag k="addr:housenumber" v="3"/>
@@ -329,6 +360,16 @@
     <tag k="phone:mobile" v="+39 340 7600326"/>
     <tag k="ref:msal" v="1086"/>
     <tag k="ref:vatin" v="IT02346710045"/>
+  </node>
+  <node id="3884561295" lat="44.3912962" lon="7.5634988">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Savona"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:email" v="matteo.gavu@hotmail.it"/>
+    <tag k="contact:mobile" v="+39 349 6003543"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Bar barriera"/>
   </node>
   <node id="4472819038" lat="44.5147184" lon="7.4729824">
     <tag k="amenity" v="restaurant"/>
@@ -545,6 +586,24 @@
     <tag k="name" v="Mondadori Bookstore"/>
     <tag k="shop" v="books"/>
   </node>
+  <node id="6059792096" lat="44.3885576" lon="7.5473771">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+    <tag k="contact:email" v="info@pasticceriacuneo.it"/>
+    <tag k="contact:mobile" v="+39 340 6943982"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pasticceria Cuneo"/>
+    <tag k="shop" v="pastry"/>
+  </node>
+  <node id="6061695210" lat="44.3882111" lon="7.5492017">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+    <tag k="contact:email" v="cuneo@fiorito.net"/>
+    <tag k="contact:phone" v="+39 0171 66650"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Fiorito Cuneo"/>
+    <tag k="shop" v="florist"/>
+  </node>
   <node id="6068082705" lat="44.3890578" lon="7.5403061">
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="Corso Quattro Novembre"/>
@@ -585,6 +644,18 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="phone" v="+39 0171 261699"/>
     <tag k="ref:vatin" v="IT03517840041"/>
+  </node>
+  <node id="6070278795" lat="44.3792639" lon="7.5313218">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Corso Antonio Gramsci"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Il Forno Nuovo S.n.c."/>
+    <tag k="operator" v="Il Forno Nuovo S.n.c. di Bruno Mario e figli"/>
+    <tag k="phone" v="+39 0171 692048"/>
+    <tag k="ref:vatin" v="IT03638010045"/>
+    <tag k="shop" v="bakery"/>
   </node>
   <node id="6124666867" lat="44.3855735" lon="7.5435524">
     <tag k="addr:housenumber" v="40"/>
@@ -688,6 +759,7 @@
     <tag k="name" v="Cuba"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 0171 693968"/>
+    <tag k="website" v="https://www.relaiscubaonline.com/"/>
   </node>
   <node id="6173030841" lat="44.3837392" lon="7.5408969">
     <tag k="addr:housenumber" v="18"/>
@@ -725,6 +797,15 @@
     <tag k="phone" v="+39 0171 1988038"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6185578857" lat="44.3848702" lon="7.5423439">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Corso Giovanni Giolitti"/>
+    <tag k="contact:email" v="monasterolo.giuseppe@alice.it"/>
+    <tag k="contact:mobile" v="+39 334 1806699"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Naturamica di Monasterolo"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
   <node id="6187982140" lat="44.3917432" lon="7.5497818">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Via Roma"/>
@@ -747,6 +828,24 @@
     <tag k="phone" v="+39 338 6191709"/>
     <tag k="shop" v="herbalist"/>
   </node>
+  <node id="6188040642" lat="44.3877159" lon="7.5453774">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Ventotto Aprile"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Piaceri-Al-Cubo-Cuneo--1828597450804418/"/>
+    <tag k="contact:mobile" v="+39 338 2024866;+39 339 6162608"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Piaceri al cubo"/>
+  </node>
+  <node id="6188040643" lat="44.3878666" lon="7.5450764">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Via Ventotto Aprile"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:email" v="elisabetta.prezia@virgilio.it"/>
+    <tag k="contact:mobile" v="+39 392 2836557"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Il mondo del caffè"/>
+  </node>
   <node id="6201523711" lat="44.3910114" lon="7.5489401">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Vicolo Cattedrale"/>
@@ -763,6 +862,16 @@
     <tag k="phone:mobile" v="+39 339 5865036"/>
     <tag k="ref:vatin" v="IT03773800044"/>
     <tag k="website" v="https://infernotto.pub"/>
+  </node>
+  <node id="6220848366" lat="44.3912151" lon="7.5497127">
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="contact:email" v="info@panicuneo.it"/>
+    <tag k="contact:mobile" v="+39 329 1480432"/>
+    <tag k="contact:phone" v="+39 0171 690946"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pani"/>
+    <tag k="shop" v="stationery"/>
   </node>
   <node id="6237748355" lat="44.3851815" lon="7.5423504">
     <tag k="addr:housenumber" v="43"/>
@@ -830,6 +939,17 @@
     <tag k="phone" v="+39 0171 603722"/>
     <tag k="shop" v="pasta"/>
   </node>
+  <node id="6282548560" lat="44.3943042" lon="7.5526417">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+39 320 0375046"/>
+    <tag k="contact:phone" v="+39 0171 791007"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Trattoria Roma"/>
+    <tag k="operator" v="Trattoria Roma di Brizio Annalisa"/>
+  </node>
   <node id="6290787051" lat="44.3756062" lon="7.5331994">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Corso Francia"/>
@@ -861,6 +981,15 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pescheria Costa Azzurra"/>
     <tag k="shop" v="seafood"/>
+  </node>
+  <node id="6328512680" lat="44.3929528" lon="7.5469005">
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:street" v="Via Caraglio"/>
+    <tag k="contact:email" v="faro.copisteria@gmail.com"/>
+    <tag k="contact:mobile" v="+39 346 3571576"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Faro Copisteria"/>
+    <tag k="shop" v="copyshop"/>
   </node>
   <node id="6342617252" lat="44.3887965" lon="7.5502015">
     <tag k="addr:housenumber" v="15bis"/>
@@ -898,6 +1027,26 @@
     <tag k="name" v="Arcobaleno di frutta"/>
     <tag k="phone" v="+39 392 5903163"/>
     <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="6372022531" lat="44.3892041" lon="7.5499488">
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:street" v="Via Alba"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:phone" v="+39 0171 332666"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Facrok"/>
+    <tag k="oven" v="electric"/>
+  </node>
+  <node id="6418919225" lat="44.3923483" lon="7.5515475">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Via Mondovì"/>
+    <tag k="contact:email" v="valentinafreda@libero.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/BANTIENVALE/"/>
+    <tag k="contact:mobile" v="+39 349 311841"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Ban Tien"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="6418937919" lat="44.3923190" lon="7.5523919">
     <tag k="addr:housenumber" v="13"/>
@@ -940,6 +1089,15 @@
     <tag k="shop" v="convenience"/>
     <tag k="website" v="http://labufalinacuneo.altervista.org"/>
   </node>
+  <node id="6482395801" lat="44.3873290" lon="7.5441792">
+    <tag k="addr:housenumber" v="6a"/>
+    <tag k="addr:street" v="Via Felice Cavallotti"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="contact:email" v="info@creasrl.it"/>
+    <tag k="contact:phone" v="+39 0171 611114"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Crea"/>
+  </node>
   <node id="6499353521" lat="44.3887067" lon="7.5430707">
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Gli Aristogatti"/>
@@ -976,6 +1134,25 @@
     <tag k="phone" v="+39 0171 603614"/>
     <tag k="shop" v="bakery"/>
   </node>
+  <node id="6542713178" lat="44.3829060" lon="7.5367676">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Corso Galileo Ferraris"/>
+    <tag k="contact:email" v="monasterolo.giuseppe@alice.it"/>
+    <tag k="contact:mobile" v="+39 334 1806699"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Naturamica di Monasterolo"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="6542713181" lat="44.3827064" lon="7.5372139">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Corso Galileo Ferraris"/>
+    <tag k="contact:email" v="bottegachecevo@tiscali.it"/>
+    <tag k="contact:mobile" v="+39 320 1798709"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fair_trade" v="only"/>
+    <tag k="name" v="Checevò"/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <node id="6547627100" lat="44.3808538" lon="7.5407151">
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Vende alimentari freschi e secchi."/>
@@ -1002,6 +1179,16 @@
     <tag k="operator" v="Garnerone Marco"/>
     <tag k="phone" v="+39 346 6764181"/>
     <tag k="shop" v="bakery"/>
+  </node>
+  <node id="6549851145" lat="44.3910935" lon="7.5703842">
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Via Savona"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:mobile" v="+39 347 3176965"/>
+    <tag k="contact:phone" v="+39 0171 402666"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Cit Ma Bel"/>
+    <tag k="operator" v="Cit Ma Bel Ettore e Margherita Ristorante"/>
   </node>
   <node id="6578445381" lat="44.3935395" lon="7.5491870">
     <tag k="addr:housenumber" v="16"/>
@@ -1032,6 +1219,30 @@
     <tag k="phone" v="+39 0171 492580"/>
     <tag k="ref:msal" v="011293"/>
     <tag k="ref:vatin" v="IT03517880047"/>
+  </node>
+  <node id="6592936427" lat="44.3936125" lon="7.5490438">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="3bis"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Busca"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Ninfoodristorante/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/ninfoodcuneo/"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Cucina vegetariana e gluten free creata da materie prime eccellenti e freschissime acquistate giornalmente sul mercato locale."/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Ninføød"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-16:00"/>
+    <tag k="organic" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone:mobile" v="+39 389 1262276"/>
+    <tag k="start_date" v="2017-12-01"/>
   </node>
   <node id="6604580115" lat="44.3915630" lon="7.5489145">
     <tag k="addr:housenumber" v="38"/>
@@ -1222,6 +1433,7 @@
   <node id="6854806232" lat="44.3733010" lon="7.5336947">
     <tag k="contact:facebook" v="https://www.facebook.com/dogservice.petstore/"/>
     <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegna in Cuneo e limitrofi."/>
     <tag k="name" v="Dogservice agricentro"/>
     <tag k="phone" v="+39 0171 493366"/>
     <tag k="shop" v="pet"/>
@@ -2221,7 +2433,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
-    <tag k="name" v="BUSCAJE Ristorante Pizzeria"/>
+    <tag k="name" v="Buscaje Ristorante Pizzeria"/>
     <tag k="phone" v="+39 334 1196311"/>
   </node>
   <node id="7323607848" lat="44.5154616" lon="7.4744720">
@@ -2347,6 +2559,56 @@
     <tag k="phone" v="+39 334 7634722"/>
     <tag k="shop" v="pastry"/>
     <tag k="website" v="http://www.letortedimaryjo.it"/>
+  </node>
+  <node id="7364587717" lat="44.4400159" lon="7.5259207">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Bufala-e-Basilico-_-Ristorante-Pizzeria-111012633773321/"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Bufala e Basilico"/>
+    <tag k="phone" v="+39 0171 940753;+39 366 7462765"/>
+  </node>
+  <node id="7373286237" lat="44.3867664" lon="7.5439795">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Via Venti Settembre"/>
+    <tag k="contact:mobile" v="+39 328 6171444"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Azienda Agricola F.lli Valenti"/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="7373286238" lat="44.3840169" lon="7.5407581">
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Via Venti Settembre"/>
+    <tag k="contact:mobile" v="+39 345 0451607"/>
+    <tag k="contact:phone" v="+39 0171 681416"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Conca d'Oro Snc di Montersino Orazio e C."/>
+    <tag k="shop" v="greengrocer"/>
+  </node>
+  <node id="7373358703" lat="44.3918430" lon="7.5498543">
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="contact:email" v="info@alferoarredamento.it"/>
+    <tag k="contact:mobile" v="+39 335 605563"/>
+    <tag k="contact:phone" v="+39 0171 692589"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Alfero Arredamento Interni di Anna Maria Alfero"/>
+    <tag k="shop" v="furniture"/>
+  </node>
+  <node id="7373391658" lat="44.3915161" lon="7.5689128">
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Via Savona"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Green-Grow-Lampade-di-Sale-Himalaya-1289693057753432/"/>
+    <tag k="contact:mobile" v="+39 348 7039967"/>
+    <tag k="contact:phone" v="+39 0171 401648"/>
+    <tag k="contact:website" v="https://www.greenandgrow.it/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Green &amp; Grow"/>
+    <tag k="shop" v="chemist"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>
