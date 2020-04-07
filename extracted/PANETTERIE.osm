@@ -172,4 +172,10 @@
 		<tag k="phone" v="+39 0172 713523"/>
 		<tag k="shop" v="bakery"/>
 	</node>
+	<node id="7375440502" lat="44.6470636" lon="7.6578134">
+		<tag k="contact:phone" v="+39 0172 31741"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Panetteria F.lli Calandra"/>
+		<tag k="shop" v="bakery"/>
+	</node>
 </osm>

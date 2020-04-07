@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1833052866" lat="44.6480426" lon="7.6098996">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 348 6836677"/>
+		<tag k="contact:phone" v="+39 0172 3116"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="El Brandè"/>
+		<tag k="website" v="https://www.elbrande.it/"/>
+	</node>
 	<node id="1833194099" lat="44.4913069" lon="7.5422389">
 		<tag k="addr:city" v="Tarantasca"/>
 		<tag k="addr:housenumber" v="29"/>
@@ -492,5 +500,13 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Bufala e Basilico"/>
 		<tag k="phone" v="+39 0171 940753;+39 366 7462765"/>
+	</node>
+	<node id="7375029743" lat="44.646264" lon="7.6550876">
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/taipeisavigliano/"/>
+		<tag k="contact:mobile" v="+39 375 5368376"/>
+		<tag k="contact:phone" v="+39 0172 726957"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Taipei"/>
 	</node>
 </osm>

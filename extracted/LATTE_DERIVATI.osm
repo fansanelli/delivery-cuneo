@@ -6,6 +6,16 @@
 		<tag k="name" v="La &#34;baraca del gelato&#34;"/>
 		<tag k="phone" v="+39 379 1910431"/>
 	</node>
+	<node id="6166315621" lat="44.3924707" lon="7.5514228">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:street" v="Via Mondovì"/>
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/ansaldigelateriacioccolateria.ansaldi/"/>
+		<tag k="contact:mobile" v="+39 392 2044991"/>
+		<tag k="contact:phone" v="+39 0171 67296"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Ansaldi"/>
+	</node>
 	<node id="6482395801" lat="44.387329" lon="7.5441792">
 		<tag k="addr:housenumber" v="6a"/>
 		<tag k="addr:street" v="Via Felice Cavallotti"/>
@@ -68,6 +78,12 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Crema &#38; Cioccolato"/>
 		<tag k="phone" v="+39 340 920652 +39 380 3296543"/>
+	</node>
+	<node id="7375440501" lat="44.6487223" lon="7.6560226">
+		<tag k="amenity" v="ice_cream"/>
+		<tag k="contact:mobile" v="+39 349 2264324"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="La Miriana al Buon Gelato"/>
 	</node>
 	<node id="1000000341906477" lat="44.4366133" lon="7.4446192">
 		<tag k="addr:housenumber" v="79"/>

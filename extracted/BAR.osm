@@ -58,15 +58,6 @@
 		<tag k="phone" v="+39 0171 693968"/>
 		<tag k="website" v="https://www.relaiscubaonline.com/"/>
 	</node>
-	<node id="6188040642" lat="44.3877159" lon="7.5453774">
-		<tag k="addr:housenumber" v="2"/>
-		<tag k="addr:street" v="Via Ventotto Aprile"/>
-		<tag k="amenity" v="cafe"/>
-		<tag k="contact:facebook" v="https://www.facebook.com/Piaceri-Al-Cubo-Cuneo--1828597450804418/"/>
-		<tag k="contact:mobile" v="+39 338 2024866;+39 339 6162608"/>
-		<tag k="delivery:covid19" v="yes"/>
-		<tag k="name" v="Piaceri al cubo"/>
-	</node>
 	<node id="6188040643" lat="44.3878666" lon="7.5450764">
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Ventotto Aprile"/>
@@ -88,6 +79,21 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="La coccinella"/>
 		<tag k="phone" v="+39 339 2429445"/>
+	</node>
+	<node id="6433717642" lat="44.388218" lon="7.5378782">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Sebastiano Grandis"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="bar" v="yes"/>
+		<tag k="contact:mobile" v="+39 393 4106026"/>
+		<tag k="contact:phone" v="+39 0171 1988146"/>
+		<tag k="cuisine" v="sandwich;italian"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Dotta Caffè"/>
+		<tag k="outdoor_seating" v="yes"/>
 	</node>
 	<node id="6549851145" lat="44.3910935" lon="7.5703842">
 		<tag k="addr:housenumber" v="50"/>
@@ -140,5 +146,21 @@
 		<tag k="name" v="Vini Tomatis Dario e figli"/>
 		<tag k="phone" v="+39 339 5489745"/>
 		<tag k="shop" v="wine"/>
+	</node>
+	<node id="7375029746" lat="44.6453781" lon="7.6568457">
+		<tag k="amenity" v="bar"/>
+		<tag k="contact:mobile" v="+39 373 7571988"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pelledoca Wine"/>
+		<tag k="website" v="http://www.pelledoca.net/"/>
+		<tag k="winery" v="yes"/>
+	</node>
+	<node id="7375029748" lat="44.6481813" lon="7.65704">
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/labelleepoquesavigliano"/>
+		<tag k="contact:mobile" v="+39 393 9464425"/>
+		<tag k="contact:phone" v="+39 0172 717242"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="La Belle Epoque"/>
 	</node>
 </osm>

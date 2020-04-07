@@ -123,10 +123,12 @@
 		<tag k="addr:housenumber" v="2"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Antonio Stoppani"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="contact:mobile" v="+39 335 7067241"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bioprofumeria - Bio e Vegan"/>
 		<tag k="opening_hours" v="Mo 15:30-19:30; Tu-Sa 09:00-12:30,15:30-19:30"/>
-		<tag k="phone" v="+39 335 7067241"/>
+		<tag k="operator" v="Bio e Vegan di Mikulska Malgorzata Dorota"/>
+		<tag k="ref:vatin" v="IT03605590045"/>
 		<tag k="shop" v="perfumery"/>
 	</node>
 	<node id="6854314007" lat="44.3795136" lon="7.5297222">
@@ -344,5 +346,29 @@
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Green &#38; Grow"/>
 		<tag k="shop" v="chemist"/>
+	</node>
+	<node id="7375029744" lat="44.6432608" lon="7.6567894">
+		<tag k="contact:mobile" v="+39 340 5823508"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Cartolibreria Riva"/>
+		<tag k="shop" v="stationery"/>
+	</node>
+	<node id="7375440504" lat="44.6469929" lon="7.6584229">
+		<tag k="contact:mobile" v="+39 338 7300493"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Cartoleria Franco"/>
+		<tag k="shop" v="stationery"/>
+	</node>
+	<node id="7376171298" lat="44.3601403" lon="7.6489052">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:street" v="Via Circonvallazione"/>
+		<tag k="contact:email" v="fabri.bongio75@gmail.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/woolstore3bf/"/>
+		<tag k="contact:mobile" v="+39 339 1069744"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Wool Store 3BF"/>
+		<tag k="operator" v="3BF di Bongiovanni Fabrizio &#38; C. S.N.C."/>
+		<tag k="shop" v="sewing"/>
 	</node>
 </osm>

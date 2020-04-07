@@ -52,4 +52,18 @@
 		<tag k="name" v="Tuttanatura Di Borio Claudio"/>
 		<tag k="shop" v="garden_centre"/>
 	</node>
+	<node id="7375029745" lat="44.6485305" lon="7.6283741">
+		<tag k="contact:facebook" v="https://www.facebook.com/FLORICOLTURAMONVISO/"/>
+		<tag k="contact:mobile" v="+39 349 3940354;+39 347 8886314"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Floricoltura Monviso"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
+	<node id="7375440500" lat="44.6404954" lon="7.6602602">
+		<tag k="contact:facebook" v="https://www.facebook.com/la.baiottina.1"/>
+		<tag k="contact:mobile" v="+39 335 7108279"/>
+		<tag k="contact:phone" v="+39 0172 713361"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
 </osm>
