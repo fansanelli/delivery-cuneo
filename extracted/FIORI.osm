@@ -18,8 +18,14 @@
 		<tag k="contact:email" v="cuneo@fiorito.net"/>
 		<tag k="contact:phone" v="+39 0171 66650"/>
 		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Consegniamo fiori e piante a domicilio a Cuneo e dintorni."/>
 		<tag k="name" v="Fiorito Cuneo"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:credit_cards" v="yes"/>
+		<tag k="payment:paypal" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
 		<tag k="shop" v="florist"/>
+		<tag k="website" v="https://www.fioritoshop.it"/>
 	</node>
 	<node id="6760296292" lat="44.4155173" lon="7.4292087">
 		<tag k="addr:city" v="Caraglio"/>
