@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-07T17:00:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-09T15:26:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -625,8 +625,14 @@
     <tag k="contact:email" v="cuneo@fiorito.net"/>
     <tag k="contact:phone" v="+39 0171 66650"/>
     <tag k="delivery" v="yes"/>
+    <tag k="description" v="Consegniamo fiori e piante a domicilio a Cuneo e dintorni."/>
     <tag k="name" v="Fiorito Cuneo"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
     <tag k="shop" v="florist"/>
+    <tag k="website" v="https://www.fioritoshop.it"/>
   </node>
   <node id="6068082705" lat="44.3890578" lon="7.5403061">
     <tag k="addr:housenumber" v="19"/>
