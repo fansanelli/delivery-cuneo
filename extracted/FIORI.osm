@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1713467684" lat="44.3690009" lon="7.5177422">
+		<tag k="addr:housenumber" v="100"/>
+		<tag k="addr:street" v="Corso Alcide De Gasperi"/>
+		<tag k="contact:email" v="info@albacattigarden.it"/>
+		<tag k="contact:phone" v="+39 0171 493123"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Garden Alba-Catti"/>
+		<tag k="shop" v="garden_centre"/>
+	</node>
 	<node id="3481137901" lat="44.4178934" lon="7.4335779">
 		<tag k="addr:city" v="Caraglio"/>
 		<tag k="addr:housenumber" v="47"/>
@@ -26,6 +35,16 @@
 		<tag k="payment:satispay" v="yes"/>
 		<tag k="shop" v="florist"/>
 		<tag k="website" v="https://www.fioritoshop.it"/>
+	</node>
+	<node id="6188019826" lat="44.3884003" lon="7.5460188">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Vittorio Amedeo Secondo"/>
+		<tag k="contact:email" v="acciderba2.0@gmail.com"/>
+		<tag k="contact:mobile" v="+39 348 5337935"/>
+		<tag k="contact:phone" v="+39 0171 692720"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Acciderba"/>
+		<tag k="shop" v="florist"/>
 	</node>
 	<node id="6760296292" lat="44.4155173" lon="7.4292087">
 		<tag k="addr:city" v="Caraglio"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-09T15:26:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-13T16:21:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -33,6 +33,15 @@
     <tag k="phone" v="+39 0171 325202"/>
     <tag k="ref:msal" v="1087"/>
     <tag k="ref:vatin" v="IT01126410040"/>
+  </node>
+  <node id="1713467684" lat="44.3690009" lon="7.5177422">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Corso Alcide De Gasperi"/>
+    <tag k="contact:email" v="info@albacattigarden.it"/>
+    <tag k="contact:phone" v="+39 0171 493123"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Garden Alba-Catti"/>
+    <tag k="shop" v="garden_centre"/>
   </node>
   <node id="1833052866" lat="44.6480426" lon="7.6098996">
     <tag k="amenity" v="restaurant"/>
@@ -131,12 +140,34 @@
     <tag k="shop" v="butcher"/>
     <tag k="website" v="https://macelleriacuneo.it/"/>
   </node>
+  <node id="1925933943" lat="44.3832517" lon="7.5404140">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Giocheria-Cuneo-893405140693390/"/>
+    <tag k="contact:mobile" v="+39 349 4018605"/>
+    <tag k="contact:phone" v="+39 0171 694233"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Giocheria"/>
+    <tag k="shop" v="toys"/>
+  </node>
   <node id="1932859601" lat="44.3656243" lon="7.5230803">
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
     <tag k="name" v="Galfre"/>
     <tag k="phone" v="+39 0171 491758"/>
     <tag k="shop" v="bakery"/>
+  </node>
+  <node id="1932859603" lat="44.3786351" lon="7.5364142">
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Pizzeria-Il-Portico-118344421556302/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/pizzeria.ilportico/"/>
+    <tag k="contact:mobile" v="+39 353 4062359"/>
+    <tag k="contact:phone" v="+39 0171 697772"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pizzeria Il Portico"/>
   </node>
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
     <tag k="delivery" v="yes"/>
@@ -166,6 +197,17 @@
     <tag k="name" v="Il cucchiaio d'argento"/>
     <tag k="operator" v="Il Cucchiaio D'argento di Caglieri Angela e Aschero Enzo Snc"/>
     <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2304669099" lat="44.3906584" lon="7.5496948">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Savigliano"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="il.veliero@hotmail.com"/>
+    <tag k="contact:mobile" v="+39 340 6799042"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Pizzeria Il Veliero"/>
   </node>
   <node id="2412584584" lat="44.3839017" lon="7.5425490">
     <tag k="addr:housenumber" v="3"/>
@@ -369,6 +411,22 @@
     <tag k="ref:msal" v="1086"/>
     <tag k="ref:vatin" v="IT02346710045"/>
   </node>
+  <node id="3867332869" lat="44.3919899" lon="7.5530630">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Osteria dei Colori"/>
+    <tag k="opening_hours" v="Tu-Sa 19:05-01:45; Su 12:00-15:30"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+39 0171 403308"/>
+  </node>
   <node id="3884561295" lat="44.3912962" lon="7.5634988">
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="12100"/>
@@ -401,6 +459,9 @@
     <tag k="phone" v="+39 0171 943923"/>
     <tag k="phone:mobile" v="+39 377 2318251"/>
     <tag k="ref:msal" v="1079"/>
+    <tag k="ref:vatin" v="IT00196010045"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="start_date" v="2007-04-01"/>
   </node>
   <node id="4473107900" lat="44.5150902" lon="7.4748565">
     <tag k="addr:city" v="Busca"/>
@@ -411,8 +472,12 @@
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Favro"/>
+    <tag k="operator" v="Favro Paolo"/>
     <tag k="phone" v="+39 0171 945290"/>
     <tag k="ref:msal" v="1082"/>
+    <tag k="ref:vatin" v="IT02962710048"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="start_date" v="2010-09-01"/>
   </node>
   <node id="4635088458" lat="44.5430464" lon="7.4842147"/>
   <node id="4635088459" lat="44.5427768" lon="7.4843328"/>
@@ -556,6 +621,16 @@
     <tag k="shop" v="seafood"/>
     <tag k="website" v="https://www.saporedimare.it"/>
   </node>
+  <node id="6015519457" lat="44.3907096" lon="7.5506688">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Via Peveragno"/>
+    <tag k="alt_name" v="Sottosopra"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:email" v="coffeespiritsacademy@gmail.com"/>
+    <tag k="contact:mobile" v="+39 392 7158394;+39 345 0847193"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Coffee and Good Spirits"/>
+  </node>
   <node id="6018280867" lat="44.3938070" lon="7.5513196">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Via Santa Maria"/>
@@ -687,6 +762,14 @@
     <tag k="ref:vatin" v="IT03638010045"/>
     <tag k="shop" v="bakery"/>
   </node>
+  <node id="6101322523" lat="44.3817694" lon="7.5388809">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Corso Galileo Ferraris"/>
+    <tag k="contact:phone" v="+39 0171 693663"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="operator" v="Allasina Riccardo"/>
+    <tag k="shop" v="bakery"/>
+  </node>
   <node id="6124666867" lat="44.3855735" lon="7.5435524">
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Corso Nizza"/>
@@ -801,6 +884,16 @@
     <tag k="phone" v="+39 0171 693968"/>
     <tag k="website" v="https://www.relaiscubaonline.com/"/>
   </node>
+  <node id="6171914517" lat="44.3867627" lon="7.5436169">
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:street" v="Corso Dante Alighieri"/>
+    <tag k="contact:email" v="cuneo@coopcolibri.it"/>
+    <tag k="contact:phone" v="+39 0171 634819"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fair_trade" v="only"/>
+    <tag k="name" v="Colibrì Altromercato"/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <node id="6173030841" lat="44.3837392" lon="7.5408969">
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Piazza Europa"/>
@@ -867,6 +960,16 @@
     <tag k="operator" v="Stazio Roberto"/>
     <tag k="phone" v="+39 338 6191709"/>
     <tag k="shop" v="herbalist"/>
+  </node>
+  <node id="6188019826" lat="44.3884003" lon="7.5460188">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Via Vittorio Amedeo Secondo"/>
+    <tag k="contact:email" v="acciderba2.0@gmail.com"/>
+    <tag k="contact:mobile" v="+39 348 5337935"/>
+    <tag k="contact:phone" v="+39 0171 692720"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Acciderba"/>
+    <tag k="shop" v="florist"/>
   </node>
   <node id="6188040642" lat="44.3877159" lon="7.5453774">
     <tag k="addr:housenumber" v="2"/>
@@ -1023,6 +1126,19 @@
     <tag k="name" v="Pescheria Costa Azzurra"/>
     <tag k="shop" v="seafood"/>
   </node>
+  <node id="6327521799" lat="44.3868565" lon="7.5440384">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+    <tag k="clothes" v="children"/>
+    <tag k="contact:email" v="naturalmente-mamma@libero.it"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/naturalmente_mammacuneo/"/>
+    <tag k="contact:mobile" v="+39 328 8593094"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Abbigliamento 0-16"/>
+    <tag k="name" v="Naturalmente Mamma"/>
+    <tag k="operator" v="Naturalmente Mamma di Atena Società Cooperativa"/>
+    <tag k="shop" v="clothes"/>
+  </node>
   <node id="6328512680" lat="44.3929528" lon="7.5469005">
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Via Caraglio"/>
@@ -1079,6 +1195,28 @@
     <tag k="name" v="Facrok"/>
     <tag k="oven" v="electric"/>
   </node>
+  <node id="6373575518" lat="44.3863410" lon="7.5395002">
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Corso Giovanni Giolitti"/>
+    <tag k="clothes" v="children"/>
+    <tag k="contact:email" v="sarabanda.cn@libero.it"/>
+    <tag k="contact:mobile" v="+39 392 6166897"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Abbigliamento 0-16"/>
+    <tag k="name" v="Sarabanda"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="6417432077" lat="44.3871817" lon="7.5409464">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Via Antonio Bassignano"/>
+    <tag k="contact:mobile" v="+39 339 3590191"/>
+    <tag k="contact:phone" v="+39 0171 681977"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Ricambi elettrodomestici e attrezzature per la riparazione delle celle frigorifere"/>
+    <tag k="name" v="Scaletta"/>
+    <tag k="operator" v="Scaletta Ricambi S.N.C."/>
+    <tag k="shop" v="electronics"/>
+  </node>
   <node id="6418919225" lat="44.3923483" lon="7.5515475">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Via Mondovì"/>
@@ -1111,6 +1249,16 @@
     <tag k="ref:vatin" v="IT03152790048"/>
     <tag k="shop" v="greengrocer"/>
     <tag k="website" v="http://www.ilverdurivendolo.it/home-page/"/>
+  </node>
+  <node id="6420525774" lat="44.3834075" lon="7.5380787">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Via Quintino Sella"/>
+    <tag k="contact:email" v="info@fuoritempo.net"/>
+    <tag k="contact:phone" v="+39 0171 697109"/>
+    <tag k="contact:website" v="http://www.fuoritempo.net"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Fuoritempo"/>
+    <tag k="shop" v="musical_instrument"/>
   </node>
   <node id="6433717642" lat="44.3882180" lon="7.5378782">
     <tag k="addr:city" v="Cuneo"/>
@@ -1175,6 +1323,17 @@
     <tag k="name" v="Crazy pizza"/>
     <tag k="operator" v="Pitali Matteo"/>
     <tag k="phone" v="+39 346 1212656"/>
+  </node>
+  <node id="6542571364" lat="44.3907850" lon="7.5493473">
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:email" v="direzione@allapiada.it"/>
+    <tag k="contact:mobile" v="+39 334 2421588"/>
+    <tag k="contact:website" v="http://www.allapiada.it/"/>
+    <tag k="cuisine" v="piadine"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Alla piada"/>
   </node>
   <node id="6542694961" lat="44.3816563" lon="7.5391260">
     <tag k="delivery" v="yes"/>
@@ -2754,6 +2913,36 @@
     <tag k="name" v="Wool Store 3BF"/>
     <tag k="operator" v="3BF di Bongiovanni Fabrizio &amp; C. S.N.C."/>
     <tag k="shop" v="sewing"/>
+  </node>
+  <node id="7398914053" lat="44.3196147" lon="7.5569225">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Via Roncaia"/>
+    <tag k="clothes" v="women"/>
+    <tag k="contact:email" v="giuliano.eli75@gmail.com"/>
+    <tag k="contact:mobile" v="+39 349 4648350"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Eliana abbigliamento"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="7398960821" lat="44.3327360" lon="7.5236868">
+    <tag k="addr:city" v="Boves"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="12012"/>
+    <tag k="addr:street" v="Via Santuario"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="info@hotelpolitano.it"/>
+    <tag k="contact:phone" v="+39 0171 380383"/>
+    <tag k="contact:website" v="https://www.hotelpolitano.it/"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Hotel Ristorante Da Politano"/>
+    <tag k="operator" v="Hotel Ristorante Da Politano S.N.C. di Politano Claudio &amp; C."/>
+    <tag k="ref:vatin" v="IT00257620047"/>
+    <tag k="rooms" v="8"/>
+    <tag k="stars" v="3"/>
+    <tag k="tourism" v="hotel"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

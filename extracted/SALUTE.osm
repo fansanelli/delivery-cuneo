@@ -83,6 +83,9 @@
 		<tag k="phone" v="+39 0171 943923"/>
 		<tag k="phone:mobile" v="+39 377 2318251"/>
 		<tag k="ref:msal" v="1079"/>
+		<tag k="ref:vatin" v="IT00196010045"/>
+		<tag k="source" v="Ministero della Salute"/>
+		<tag k="start_date" v="2007-04-01"/>
 	</node>
 	<node id="4473107900" lat="44.5150902" lon="7.4748565">
 		<tag k="addr:city" v="Busca"/>
@@ -93,8 +96,12 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="dispensing" v="yes"/>
 		<tag k="name" v="Farmacia Favro"/>
+		<tag k="operator" v="Favro Paolo"/>
 		<tag k="phone" v="+39 0171 945290"/>
 		<tag k="ref:msal" v="1082"/>
+		<tag k="ref:vatin" v="IT02962710048"/>
+		<tag k="source" v="Ministero della Salute"/>
+		<tag k="start_date" v="2010-09-01"/>
 	</node>
 	<node id="5402092370" lat="44.3817138" lon="7.5404782">
 		<tag k="addr:housenumber" v="1"/>

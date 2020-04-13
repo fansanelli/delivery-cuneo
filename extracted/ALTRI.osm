@@ -10,6 +10,16 @@
 		<tag k="phone" v="+39 0171 931541"/>
 		<tag k="shop" v="hardware"/>
 	</node>
+	<node id="1925933943" lat="44.3832517" lon="7.540414">
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Giocheria-Cuneo-893405140693390/"/>
+		<tag k="contact:mobile" v="+39 349 4018605"/>
+		<tag k="contact:phone" v="+39 0171 694233"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Giocheria"/>
+		<tag k="shop" v="toys"/>
+	</node>
 	<node id="2412584584" lat="44.3839017" lon="7.542549">
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:street" v="Piazza Europa"/>
@@ -99,6 +109,16 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Magnolia"/>
 		<tag k="shop" v="perfumery"/>
+	</node>
+	<node id="6420525774" lat="44.3834075" lon="7.5380787">
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:street" v="Via Quintino Sella"/>
+		<tag k="contact:email" v="info@fuoritempo.net"/>
+		<tag k="contact:phone" v="+39 0171 697109"/>
+		<tag k="contact:website" v="http://www.fuoritempo.net"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Fuoritempo"/>
+		<tag k="shop" v="musical_instrument"/>
 	</node>
 	<node id="6578445381" lat="44.3935395" lon="7.549187">
 		<tag k="addr:housenumber" v="16"/>

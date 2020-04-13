@@ -33,6 +33,29 @@
 		<tag k="ref:vatin" v="IT00764810040"/>
 		<tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
 	</node>
+	<node id="1932859603" lat="44.3786351" lon="7.5364142">
+		<tag k="addr:housenumber" v="102"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Pizzeria-Il-Portico-118344421556302/"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/pizzeria.ilportico/"/>
+		<tag k="contact:mobile" v="+39 353 4062359"/>
+		<tag k="contact:phone" v="+39 0171 697772"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pizzeria Il Portico"/>
+	</node>
+	<node id="2304669099" lat="44.3906584" lon="7.5496948">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Savigliano"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:email" v="il.veliero@hotmail.com"/>
+		<tag k="contact:mobile" v="+39 340 6799042"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Pizzeria Il Veliero"/>
+	</node>
 	<node id="2412584621" lat="44.3940332" lon="7.5559091">
 		<tag k="addr:housenumber" v="4"/>
 		<tag k="addr:street" v="Piazzale Vecchia Stazione"/>
@@ -92,6 +115,22 @@
 		<tag k="phone" v="+39 0171 817393"/>
 		<tag k="phone:mobile" v="+39 329 4236709"/>
 		<tag k="website" v="https://www.ristorantepizzeriatavernaparadiso.it/"/>
+	</node>
+	<node id="3867332869" lat="44.3919899" lon="7.553063">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Osteria dei Colori"/>
+		<tag k="opening_hours" v="Tu-Sa 19:05-01:45; Su 12:00-15:30"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+39 0171 403308"/>
 	</node>
 	<node id="4472819038" lat="44.5147184" lon="7.4729824">
 		<tag k="amenity" v="restaurant"/>
@@ -262,6 +301,17 @@
 		<tag k="name" v="Crazy pizza"/>
 		<tag k="operator" v="Pitali Matteo"/>
 		<tag k="phone" v="+39 346 1212656"/>
+	</node>
+	<node id="6542571364" lat="44.390785" lon="7.5493473">
+		<tag k="addr:housenumber" v="49"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="contact:email" v="direzione@allapiada.it"/>
+		<tag k="contact:mobile" v="+39 334 2421588"/>
+		<tag k="contact:website" v="http://www.allapiada.it/"/>
+		<tag k="cuisine" v="piadine"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Alla piada"/>
 	</node>
 	<node id="6547627107" lat="44.3809534" lon="7.540513">
 		<tag k="addr:housenumber" v="7c"/>
@@ -508,5 +558,24 @@
 		<tag k="contact:phone" v="+39 0172 726957"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Taipei"/>
+	</node>
+	<node id="7398960821" lat="44.332736" lon="7.5236868">
+		<tag k="addr:city" v="Boves"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="125"/>
+		<tag k="addr:postcode" v="12012"/>
+		<tag k="addr:street" v="Via Santuario"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:email" v="info@hotelpolitano.it"/>
+		<tag k="contact:phone" v="+39 0171 380383"/>
+		<tag k="contact:website" v="https://www.hotelpolitano.it/"/>
+		<tag k="cuisine" v="regional"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Hotel Ristorante Da Politano"/>
+		<tag k="operator" v="Hotel Ristorante Da Politano S.N.C. di Politano Claudio &#38; C."/>
+		<tag k="ref:vatin" v="IT00257620047"/>
+		<tag k="rooms" v="8"/>
+		<tag k="stars" v="3"/>
+		<tag k="tourism" v="hotel"/>
 	</node>
 </osm>

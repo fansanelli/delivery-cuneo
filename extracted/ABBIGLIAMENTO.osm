@@ -35,6 +35,30 @@
 		<tag k="phone" v="+39 0171 1723046"/>
 		<tag k="shop" v="clothes"/>
 	</node>
+	<node id="6327521799" lat="44.3868565" lon="7.5440384">
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+		<tag k="clothes" v="children"/>
+		<tag k="contact:email" v="naturalmente-mamma@libero.it"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/naturalmente_mammacuneo/"/>
+		<tag k="contact:mobile" v="+39 328 8593094"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Abbigliamento 0-16"/>
+		<tag k="name" v="Naturalmente Mamma"/>
+		<tag k="operator" v="Naturalmente Mamma di Atena Società Cooperativa"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="6373575518" lat="44.386341" lon="7.5395002">
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:street" v="Corso Giovanni Giolitti"/>
+		<tag k="clothes" v="children"/>
+		<tag k="contact:email" v="sarabanda.cn@libero.it"/>
+		<tag k="contact:mobile" v="+39 392 6166897"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Abbigliamento 0-16"/>
+		<tag k="name" v="Sarabanda"/>
+		<tag k="shop" v="clothes"/>
+	</node>
 	<node id="6418919225" lat="44.3923483" lon="7.5515475">
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Mondovì"/>
@@ -82,6 +106,17 @@
 		<tag k="name" v="L&#39;intimo"/>
 		<tag k="operator" v="Delfino Antonella"/>
 		<tag k="phone" v="+39 333 4508183"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="7398914053" lat="44.3196147" lon="7.5569225">
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:street" v="Via Roncaia"/>
+		<tag k="clothes" v="women"/>
+		<tag k="contact:email" v="giuliano.eli75@gmail.com"/>
+		<tag k="contact:mobile" v="+39 349 4648350"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fixme" v="position estimated"/>
+		<tag k="name" v="Eliana abbigliamento"/>
 		<tag k="shop" v="clothes"/>
 	</node>
 </osm>

@@ -137,6 +137,16 @@
 		<tag k="shop" v="frozen_food"/>
 		<tag k="website" v="https://www.nordgel.it/"/>
 	</node>
+	<node id="6171914517" lat="44.3867627" lon="7.5436169">
+		<tag k="addr:housenumber" v="33"/>
+		<tag k="addr:street" v="Corso Dante Alighieri"/>
+		<tag k="contact:email" v="cuneo@coopcolibri.it"/>
+		<tag k="contact:phone" v="+39 0171 634819"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fair_trade" v="only"/>
+		<tag k="name" v="Colibrì Altromercato"/>
+		<tag k="shop" v="convenience"/>
+	</node>
 	<node id="6173030841" lat="44.3837392" lon="7.5408969">
 		<tag k="addr:housenumber" v="18"/>
 		<tag k="addr:street" v="Piazza Europa"/>

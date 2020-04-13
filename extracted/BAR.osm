@@ -37,6 +37,16 @@
 		<tag k="phone" v="+39 0171 693900"/>
 		<tag k="phone:mobile" v="+39 335 5890688"/>
 	</node>
+	<node id="6015519457" lat="44.3907096" lon="7.5506688">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Via Peveragno"/>
+		<tag k="alt_name" v="Sottosopra"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:email" v="coffeespiritsacademy@gmail.com"/>
+		<tag k="contact:mobile" v="+39 392 7158394;+39 345 0847193"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Coffee and Good Spirits"/>
+	</node>
 	<node id="6038593234" lat="44.3869137" lon="7.5449442">
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="22"/>

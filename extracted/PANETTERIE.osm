@@ -51,6 +51,14 @@
 		<tag k="ref:vatin" v="IT03638010045"/>
 		<tag k="shop" v="bakery"/>
 	</node>
+	<node id="6101322523" lat="44.3817694" lon="7.5388809">
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:street" v="Corso Galileo Ferraris"/>
+		<tag k="contact:phone" v="+39 0171 693663"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="operator" v="Allasina Riccardo"/>
+		<tag k="shop" v="bakery"/>
+	</node>
 	<node id="6124666867" lat="44.3855735" lon="7.5435524">
 		<tag k="addr:housenumber" v="40"/>
 		<tag k="addr:street" v="Corso Nizza"/>
