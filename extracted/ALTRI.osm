@@ -391,4 +391,19 @@
 		<tag k="operator" v="3BF di Bongiovanni Fabrizio &#38; C. S.N.C."/>
 		<tag k="shop" v="sewing"/>
 	</node>
+	<node id="7402554300" lat="44.3587018" lon="7.5166455">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="239"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Corso Francia"/>
+		<tag k="brand" v="VeroCaffè"/>
+		<tag k="contact:phone" v="+39 0171 344414"/>
+		<tag k="contact:website" v="http://www.verocaffe.eu/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Consegna a Cuneo, Borgo San Dalmazzo e limitrofi. Prenota lun-sab 9.30-13 e 14.30-18.30 chiamando il numero 0171 344414 La consegna del tuo ordine avverrà nella giornata di VENERDÌ. Ordine minimo 35€ - pagamento in contanti"/>
+		<tag k="name" v="VeroCaffè - Cuneo"/>
+		<tag k="opening_hours" v="Mo-Sa 09:30-13:00,14:30-19:30; Su 10:00-12:30,14:30-19:00"/>
+		<tag k="shop" v="coffee"/>
+	</node>
 </osm>
