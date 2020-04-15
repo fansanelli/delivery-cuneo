@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-14T15:48:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-15T15:54:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -42,6 +42,22 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Garden Alba-Catti"/>
     <tag k="shop" v="garden_centre"/>
+  </node>
+  <node id="1716770173" lat="44.3471167" lon="7.5102725">
+    <tag k="addr:housenumber" v="29;31"/>
+    <tag k="addr:street" v="Via Attilio Fontana"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brewery" v="Carlsberg;Grimbergen"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Ristorante-Nikk%C5%8D-109636277123487/"/>
+    <tag k="contact:mobile" v="+39 392 4670326"/>
+    <tag k="cuisine" v="sushi;japanese"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Potete chiedere il menù e fare l'ordine direttamene su WhatsApp"/>
+    <tag k="name" v="Nikko"/>
+    <tag k="opening_hours" v="Tu-Su 12:00-15:00,19:00-23:30"/>
+    <tag k="operator" v="Nikko di Zhao Zhijie"/>
+    <tag k="phone" v="+39 0171 501962"/>
+    <tag k="ref:vatin" v="IT03832770048"/>
   </node>
   <node id="1833052866" lat="44.6480426" lon="7.6098996">
     <tag k="amenity" v="restaurant"/>
@@ -241,6 +257,23 @@
     <tag k="ref:vatin" v="IT03603880042"/>
     <tag k="tobacco" v="yes"/>
   </node>
+  <node id="2634940001" lat="44.3899953" lon="7.5474621">
+    <tag k="addr:city" v="Cuneo"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="yes"/>
+    <tag k="contact:email" v="galicuneo@gmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/galicuneo/"/>
+    <tag k="contact:mobile" v="+39 392 0339990"/>
+    <tag k="contact:phone" v="+39 0171 699698"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Galì"/>
+    <tag k="opening_hours" v="Mo-Th,Su 07:00-24:00; Fr,Sa 07:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
   <node id="2634945051" lat="44.3873442" lon="7.5453672">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Corso Nizza"/>
@@ -264,6 +297,19 @@
     <tag k="name" v="Pizzeria Vesuvio"/>
     <tag k="opening_hours" v="Tu,Th-Su 12:00-14:25,18:00-02:10"/>
     <tag k="phone" v="+39 0171 602061"/>
+  </node>
+  <node id="2956158078" lat="44.3912934" lon="7.5526704">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
+    <tag k="contact:email" v="info@labottegadellabicicletta.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/labottegadellabiciclettadal1902/"/>
+    <tag k="contact:phone" v="+39 0171 66213"/>
+    <tag k="contact:website" v="http://labottegadellabicicletta.it/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="La Bottega della Bicicletta"/>
+    <tag k="service:bicycle:repair" v="yes"/>
+    <tag k="service:bicycle:retail" v="yes"/>
+    <tag k="shop" v="bicycle"/>
   </node>
   <node id="3110884075" lat="44.6476509" lon="7.6554485">
     <tag k="amenity" v="ice_cream"/>
@@ -436,6 +482,17 @@
     <tag k="contact:mobile" v="+39 349 6003543"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bar barriera"/>
+  </node>
+  <node id="4160266589" lat="44.3858044" lon="7.5444019">
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:street" v="Corso Dante Alighieri"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+39 373 8721447"/>
+    <tag k="contact:phone" v="+39 0171 67260"/>
+    <tag k="contact:website" v="https://www.pizzeriascugnizzo.it/"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pizzeria Scugnizzo"/>
   </node>
   <node id="4472819038" lat="44.5147184" lon="7.4729824">
     <tag k="amenity" v="restaurant"/>
@@ -631,6 +688,15 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Coffee and Good Spirits"/>
   </node>
+  <node id="6017261042" lat="44.3810800" lon="7.5450910">
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
+    <tag k="contact:email" v="ruotaliberacuneo@gmail.com"/>
+    <tag k="contact:mobile" v="+39 334 2275938"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Ruota Libera"/>
+    <tag k="shop" v="bicycle"/>
+  </node>
   <node id="6018280867" lat="44.3938070" lon="7.5513196">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Via Santa Maria"/>
@@ -642,6 +708,20 @@
     <tag k="phone" v="+39 0171 605615"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://shop.kombusushi.com"/>
+  </node>
+  <node id="6028315708" lat="44.3882781" lon="7.5479339">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:email" v="sandiabistrot@gmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/sandiabistrot/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/sandiabistrot/"/>
+    <tag k="contact:phone" v="+39 0171 605374"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Sandía"/>
+    <tag k="organic" v="yes"/>
   </node>
   <node id="6033563131" lat="44.3801215" lon="7.5385062">
     <tag k="addr:housenumber" v="71"/>
@@ -672,9 +752,11 @@
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="amenity" v="bar"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="contact:mobile" v="+39 328 1412090"/>
+    <tag k="contact:phone" v="+39 0171 64450"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Sillano"/>
-    <tag k="phone" v="+39 0171 64450"/>
   </node>
   <node id="6058231448" lat="44.3898260" lon="7.5491263">
     <tag k="addr:housenumber" v="1"/>
@@ -769,6 +851,22 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="operator" v="Allasina Riccardo"/>
     <tag k="shop" v="bakery"/>
+  </node>
+  <node id="6109051287" lat="44.4214163" lon="7.5525793">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Via Guido Martino"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="dispensing" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Parafarmacia della Granda"/>
+    <tag k="operator" v="Fda di Donolato Antonio e C. s.n.c."/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="phone" v="+39 0171 411650"/>
+    <tag k="ref:msal" v="005799"/>
+    <tag k="ref:vatin" v="IT03278350040"/>
   </node>
   <node id="6124666867" lat="44.3855735" lon="7.5435524">
     <tag k="addr:housenumber" v="40"/>
@@ -1126,6 +1224,26 @@
     <tag k="name" v="Pescheria Costa Azzurra"/>
     <tag k="shop" v="seafood"/>
   </node>
+  <node id="6327521793" lat="44.3871804" lon="7.5440381">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Via Felice Cavallotti"/>
+    <tag k="contact:email" v="incasa.pam@libero.it"/>
+    <tag k="contact:mobile" v="+39 392 1425853"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="In Casa &amp; Pam"/>
+    <tag k="shop" v="houseware"/>
+  </node>
+  <node id="6327521798" lat="44.3869163" lon="7.5441046">
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+    <tag k="clothes" v="children"/>
+    <tag k="contact:email" v="minimecuneo@gmail.com"/>
+    <tag k="contact:mobile" v="+39 328 2154877"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Abbigliamento bambini 2/16 anni"/>
+    <tag k="name" v="Minimé"/>
+    <tag k="shop" v="clothes"/>
+  </node>
   <node id="6327521799" lat="44.3868565" lon="7.5440384">
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
@@ -1236,6 +1354,14 @@
     <tag k="name" v="Magnolia"/>
     <tag k="shop" v="perfumery"/>
   </node>
+  <node id="6418937920" lat="44.3921416" lon="7.5527258">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Via Mondovì"/>
+    <tag k="contact:mobile" v="+39 328 0341282"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="L'Atelier des Tartes"/>
+    <tag k="shop" v="bakery"/>
+  </node>
   <node id="6420509034" lat="44.3852092" lon="7.5399560">
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="20"/>
@@ -1292,6 +1418,21 @@
     <tag k="phone" v="+39 320 4682017"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="http://labufalinacuneo.altervista.org"/>
+  </node>
+  <node id="6468199496" lat="44.3882794" lon="7.5443044">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Via Venti Settembre"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="maccheriacuneo@gmail.com"/>
+    <tag k="contact:mobile" v="+39 392 5776131"/>
+    <tag k="contact:phone" v="+39 0171 480211"/>
+    <tag k="contact:website" v="http://www.maccheria.it"/>
+    <tag k="cuisine" v="pasta"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Maccherìa"/>
+    <tag k="opening_hours" v="12:00-15:00, 19:00-23:00"/>
+    <tag k="operator" v="Saluzzo Food s.r.l."/>
+    <tag k="ref:vatin" v="IT03707040048"/>
   </node>
   <node id="6482395801" lat="44.3873290" lon="7.5441792">
     <tag k="addr:housenumber" v="6a"/>
@@ -1413,6 +1554,14 @@
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Il ninfeo"/>
     <tag k="shop" v="beauty"/>
+  </node>
+  <node id="6578471478" lat="44.3917713" lon="7.5488246">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Via Caraglio"/>
+    <tag k="contact:mobile" v="+39 339 1366315;+39 328 0648540"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Al 37"/>
+    <tag k="shop" v="wine"/>
   </node>
   <node id="6578479217" lat="44.3939953" lon="7.5508912">
     <tag k="contact:mobile" v="+39 340 9774923"/>
@@ -1811,10 +1960,14 @@
     <tag k="website" v="http://www.alimentarerisparmioebonta.it"/>
   </node>
   <node id="7074400566" lat="44.3939234" lon="7.5203746">
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:street" v="Via Valle Maira"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="contact:mobile" v="+39 328 4257981"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizza Italia"/>
+    <tag k="operator" v="Isnardi Ilaria"/>
   </node>
   <node id="7080087031" lat="44.4233926" lon="7.5625967">
     <tag k="addr:housenumber" v="3b"/>
@@ -2958,6 +3111,41 @@
     <tag k="name" v="VeroCaffè - Cuneo"/>
     <tag k="opening_hours" v="Mo-Sa 09:30-13:00,14:30-19:30; Su 10:00-12:30,14:30-19:00"/>
     <tag k="shop" v="coffee"/>
+  </node>
+  <node id="7403282414" lat="44.4050994" lon="7.5455196">
+    <tag k="addr:housenumber" v="3a"/>
+    <tag k="addr:street" v="Via della Magnina"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="info@ilnanetto.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ilnanetto.ristorante/"/>
+    <tag k="contact:mobile" v="+39 392 0404100"/>
+    <tag k="contact:website" v="https://www.cristalhotelcuneo.it/ristorante/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Il Nanetto"/>
+    <tag k="opening_hours" v="Mo-Fr 12:30-14:30,19:30-21:30"/>
+    <tag k="operator" v="Il Nanetto Ristorante by Nano S.r.l."/>
+  </node>
+  <node id="7404309379" lat="44.3912699" lon="7.5635972">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="12100"/>
+    <tag k="addr:street" v="Via Savona"/>
+    <tag k="contact:email" v="info@erboristeria-artiano.com"/>
+    <tag k="contact:phone" v="+39 0171 500638"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="fixme" v="adjust position"/>
+    <tag k="name" v="Erboristeria Dott.ssa Artiano"/>
+    <tag k="shop" v="herbalist"/>
+  </node>
+  <node id="7406218841" lat="44.3351846" lon="7.4710486">
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:street" v="Corso Mazzini"/>
+    <tag k="contact:email" v="info@ipiaceridelgusto.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/funghietartufi/"/>
+    <tag k="contact:phone" v="+39 0171 266189"/>
+    <tag k="contact:website" v="https://www.inaudi.com/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Inaudi - i Piaceri del Gusto"/>
+    <tag k="shop" v="deli"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

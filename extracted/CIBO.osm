@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="1716770173" lat="44.3471167" lon="7.5102725">
+		<tag k="addr:housenumber" v="29;31"/>
+		<tag k="addr:street" v="Via Attilio Fontana"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="brewery" v="Carlsberg;Grimbergen"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Ristorante-Nikk%C5%8D-109636277123487/"/>
+		<tag k="contact:mobile" v="+39 392 4670326"/>
+		<tag k="cuisine" v="sushi;japanese"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Potete chiedere il menù e fare l&#39;ordine direttamene su WhatsApp"/>
+		<tag k="name" v="Nikko"/>
+		<tag k="opening_hours" v="Tu-Su 12:00-15:00,19:00-23:30"/>
+		<tag k="operator" v="Nikko di Zhao Zhijie"/>
+		<tag k="phone" v="+39 0171 501962"/>
+		<tag k="ref:vatin" v="IT03832770048"/>
+	</node>
 	<node id="1833052866" lat="44.6480426" lon="7.6098996">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="contact:mobile" v="+39 348 6836677"/>
@@ -131,6 +147,17 @@
 		<tag k="payment:satispay" v="yes"/>
 		<tag k="payment:visa" v="yes"/>
 		<tag k="phone" v="+39 0171 403308"/>
+	</node>
+	<node id="4160266589" lat="44.3858044" lon="7.5444019">
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:street" v="Corso Dante Alighieri"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 373 8721447"/>
+		<tag k="contact:phone" v="+39 0171 67260"/>
+		<tag k="contact:website" v="https://www.pizzeriascugnizzo.it/"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pizzeria Scugnizzo"/>
 	</node>
 	<node id="4472819038" lat="44.5147184" lon="7.4729824">
 		<tag k="amenity" v="restaurant"/>
@@ -292,6 +319,21 @@
 		<tag k="name" v="Facrok"/>
 		<tag k="oven" v="electric"/>
 	</node>
+	<node id="6468199496" lat="44.3882794" lon="7.5443044">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:street" v="Via Venti Settembre"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:email" v="maccheriacuneo@gmail.com"/>
+		<tag k="contact:mobile" v="+39 392 5776131"/>
+		<tag k="contact:phone" v="+39 0171 480211"/>
+		<tag k="contact:website" v="http://www.maccheria.it"/>
+		<tag k="cuisine" v="pasta"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Maccherìa"/>
+		<tag k="opening_hours" v="12:00-15:00, 19:00-23:00"/>
+		<tag k="operator" v="Saluzzo Food s.r.l."/>
+		<tag k="ref:vatin" v="IT03707040048"/>
+	</node>
 	<node id="6515989776" lat="44.379359" lon="7.5310743">
 		<tag k="amenity" v="fast_food"/>
 		<tag k="cuisine" v="pizza;kebab"/>
@@ -411,10 +453,14 @@
 		<tag k="phone" v="+39 0171 682941"/>
 	</node>
 	<node id="7074400566" lat="44.3939234" lon="7.5203746">
+		<tag k="addr:housenumber" v="123"/>
+		<tag k="addr:street" v="Via Valle Maira"/>
 		<tag k="amenity" v="fast_food"/>
+		<tag k="contact:mobile" v="+39 328 4257981"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Pizza Italia"/>
+		<tag k="operator" v="Isnardi Ilaria"/>
 	</node>
 	<node id="7283446098" lat="44.3294908" lon="7.4881627">
 		<tag k="addr:city" v="Borgo San Dalmazzo"/>
@@ -577,5 +623,18 @@
 		<tag k="rooms" v="8"/>
 		<tag k="stars" v="3"/>
 		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="7403282414" lat="44.4050994" lon="7.5455196">
+		<tag k="addr:housenumber" v="3a"/>
+		<tag k="addr:street" v="Via della Magnina"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:email" v="info@ilnanetto.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/ilnanetto.ristorante/"/>
+		<tag k="contact:mobile" v="+39 392 0404100"/>
+		<tag k="contact:website" v="https://www.cristalhotelcuneo.it/ristorante/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Il Nanetto"/>
+		<tag k="opening_hours" v="Mo-Fr 12:30-14:30,19:30-21:30"/>
+		<tag k="operator" v="Il Nanetto Ristorante by Nano S.r.l."/>
 	</node>
 </osm>

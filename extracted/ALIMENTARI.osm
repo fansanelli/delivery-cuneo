@@ -508,4 +508,15 @@
 		<tag k="shop" v="deli"/>
 		<tag k="website" v="https://www.facebook.com/pg/Le-armonie-del-gusto-di-elvira-1932771050195337/"/>
 	</node>
+	<node id="7406218841" lat="44.3351846" lon="7.4710486">
+		<tag k="addr:housenumber" v="148"/>
+		<tag k="addr:street" v="Corso Mazzini"/>
+		<tag k="contact:email" v="info@ipiaceridelgusto.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/funghietartufi/"/>
+		<tag k="contact:phone" v="+39 0171 266189"/>
+		<tag k="contact:website" v="https://www.inaudi.com/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Inaudi - i Piaceri del Gusto"/>
+		<tag k="shop" v="deli"/>
+	</node>
 </osm>

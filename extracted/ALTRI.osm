@@ -32,6 +32,19 @@
 		<tag k="phone" v="+39 0171 67331"/>
 		<tag k="shop" v="books"/>
 	</node>
+	<node id="2956158078" lat="44.3912934" lon="7.5526704">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
+		<tag k="contact:email" v="info@labottegadellabicicletta.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/labottegadellabiciclettadal1902/"/>
+		<tag k="contact:phone" v="+39 0171 66213"/>
+		<tag k="contact:website" v="http://labottegadellabicicletta.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="La Bottega della Bicicletta"/>
+		<tag k="service:bicycle:repair" v="yes"/>
+		<tag k="service:bicycle:retail" v="yes"/>
+		<tag k="shop" v="bicycle"/>
+	</node>
 	<node id="3449288500" lat="44.4773969" lon="7.5068936">
 		<tag k="addr:city" v="San Chiaffredo Tarantasca"/>
 		<tag k="addr:housenumber" v="18"/>
@@ -46,6 +59,15 @@
 		<tag k="name" v="Edicola Mandile Simona"/>
 		<tag k="phone:mobile" v="+39 339 2531361"/>
 		<tag k="shop" v="tobacco"/>
+	</node>
+	<node id="6017261042" lat="44.38108" lon="7.545091">
+		<tag k="addr:housenumber" v="63"/>
+		<tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
+		<tag k="contact:email" v="ruotaliberacuneo@gmail.com"/>
+		<tag k="contact:mobile" v="+39 334 2275938"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Ruota Libera"/>
+		<tag k="shop" v="bicycle"/>
 	</node>
 	<node id="6058231448" lat="44.389826" lon="7.5491263">
 		<tag k="addr:housenumber" v="1"/>
@@ -91,6 +113,15 @@
 		<tag k="payment:satispay" v="yes"/>
 		<tag k="payment:wire_transfer" v="yes"/>
 		<tag k="shop" v="baby_goods"/>
+	</node>
+	<node id="6327521793" lat="44.3871804" lon="7.5440381">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Via Felice Cavallotti"/>
+		<tag k="contact:email" v="incasa.pam@libero.it"/>
+		<tag k="contact:mobile" v="+39 392 1425853"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="In Casa &#38; Pam"/>
+		<tag k="shop" v="houseware"/>
 	</node>
 	<node id="6328512680" lat="44.3929528" lon="7.5469005">
 		<tag k="addr:housenumber" v="20"/>

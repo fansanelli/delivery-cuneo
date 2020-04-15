@@ -126,6 +126,22 @@
 		<tag k="ref:msal" v="014370"/>
 		<tag k="ref:vatin" v="IT03525710046"/>
 	</node>
+	<node id="6109051287" lat="44.4214163" lon="7.5525793">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:street" v="Via Guido Martino"/>
+		<tag k="amenity" v="pharmacy"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="dispensing" v="no"/>
+		<tag k="level" v="1"/>
+		<tag k="name" v="Parafarmacia della Granda"/>
+		<tag k="operator" v="Fda di Donolato Antonio e C. s.n.c."/>
+		<tag k="payment:bancomat" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="phone" v="+39 0171 411650"/>
+		<tag k="ref:msal" v="005799"/>
+		<tag k="ref:vatin" v="IT03278350040"/>
+	</node>
 	<node id="6173050037" lat="44.3852183" lon="7.5417427">
 		<tag k="addr:housenumber" v="10"/>
 		<tag k="addr:street" v="Corso Giovanni Giolitti"/>
@@ -233,6 +249,17 @@
 		<tag k="contact:phone" v="+39 0171 943888"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="L&#39;Erbolario - Erboristeria da Mary"/>
+		<tag k="shop" v="herbalist"/>
+	</node>
+	<node id="7404309379" lat="44.3912699" lon="7.5635972">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Savona"/>
+		<tag k="contact:email" v="info@erboristeria-artiano.com"/>
+		<tag k="contact:phone" v="+39 0171 500638"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="fixme" v="adjust position"/>
+		<tag k="name" v="Erboristeria Dott.ssa Artiano"/>
 		<tag k="shop" v="herbalist"/>
 	</node>
 </osm>

@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
+	<node id="2634940001" lat="44.3899953" lon="7.5474621">
+		<tag k="addr:city" v="Cuneo"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="brewery" v="yes"/>
+		<tag k="contact:email" v="galicuneo@gmail.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/galicuneo/"/>
+		<tag k="contact:mobile" v="+39 392 0339990"/>
+		<tag k="contact:phone" v="+39 0171 699698"/>
+		<tag k="cuisine" v="burger"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Galì"/>
+		<tag k="opening_hours" v="Mo-Th,Su 07:00-24:00; Fr,Sa 07:00-02:00"/>
+		<tag k="outdoor_seating" v="yes"/>
+	</node>
 	<node id="2634945051" lat="44.3873442" lon="7.5453672">
 		<tag k="addr:housenumber" v="16"/>
 		<tag k="addr:street" v="Corso Nizza"/>
@@ -47,14 +64,30 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Coffee and Good Spirits"/>
 	</node>
+	<node id="6028315708" lat="44.3882781" lon="7.5479339">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:email" v="sandiabistrot@gmail.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/sandiabistrot/"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/sandiabistrot/"/>
+		<tag k="contact:phone" v="+39 0171 605374"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="diet:vegan" v="yes"/>
+		<tag k="diet:vegetarian" v="yes"/>
+		<tag k="name" v="Sandía"/>
+		<tag k="organic" v="yes"/>
+	</node>
 	<node id="6038593234" lat="44.3869137" lon="7.5449442">
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="22"/>
 		<tag k="addr:street" v="Corso Nizza"/>
 		<tag k="amenity" v="bar"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="contact:mobile" v="+39 328 1412090"/>
+		<tag k="contact:phone" v="+39 0171 64450"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Sillano"/>
-		<tag k="phone" v="+39 0171 64450"/>
 	</node>
 	<node id="6170776614" lat="44.3840423" lon="7.5411894">
 		<tag k="addr:housenumber" v="14"/>
@@ -114,6 +147,14 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Cit Ma Bel"/>
 		<tag k="operator" v="Cit Ma Bel Ettore e Margherita Ristorante"/>
+	</node>
+	<node id="6578471478" lat="44.3917713" lon="7.5488246">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:street" v="Via Caraglio"/>
+		<tag k="contact:mobile" v="+39 339 1366315;+39 328 0648540"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Al 37"/>
+		<tag k="shop" v="wine"/>
 	</node>
 	<node id="7168981053" lat="44.4175219" lon="7.4279591">
 		<tag k="addr:housenumber" v="82"/>

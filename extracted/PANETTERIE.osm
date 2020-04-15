@@ -88,6 +88,14 @@
 		<tag k="phone" v="+39 0171 692432"/>
 		<tag k="shop" v="bakery"/>
 	</node>
+	<node id="6418937920" lat="44.3921416" lon="7.5527258">
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:street" v="Via Mondovì"/>
+		<tag k="contact:mobile" v="+39 328 0341282"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="L&#39;Atelier des Tartes"/>
+		<tag k="shop" v="bakery"/>
+	</node>
 	<node id="6542713175" lat="44.3827452" lon="7.5371071">
 		<tag k="addr:housenumber" v="15"/>
 		<tag k="addr:street" v="Corso Galileo Ferraris"/>
