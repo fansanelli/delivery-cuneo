@@ -31,7 +31,7 @@ CATEGORIES_MAP = {
     'ANIMALI': [ 'shop=pet' ],
     'BAR': [ 'amenity=cafe', 'amenity=bar', 'shop=wine' ],
     'CIBO': [ 'amenity=fast_food', 'amenity=pub', 'amenity=restaurant' ],
-    'COMPUTER_ELETTRONICA': [ 'shop=electronics', 'shop=ink', 'shop=printer_ink' ],
+    'COMPUTER_ELETTRONICA': [ 'shop=appliance', 'shop=electronics', 'shop=ink', 'shop=printer_ink' ],
     'DOLCI': [ 'shop=confectionery', 'shop=pastry' ],
     'FIORI': [ 'shop=florist', 'shop=garden_centre' ],
     'LATTE_DERIVATI': [ 'amenity=ice_cream', 'shop=cheese', 'shop=dairy', 'shop=ice_cream' ],
