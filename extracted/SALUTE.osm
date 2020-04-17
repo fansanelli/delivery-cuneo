@@ -38,8 +38,12 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="dispensing" v="yes"/>
 		<tag k="name" v="Farmacia San Lorenzo"/>
+		<tag k="operator" v="S. Lorenzo"/>
 		<tag k="phone" v="+39 0171 945255"/>
 		<tag k="ref:msal" v="1091"/>
+		<tag k="ref:vatin" v="IT02788950042"/>
+		<tag k="source" v="Ministero della Salute"/>
+		<tag k="source:start_date" v="2005-01-01"/>
 	</node>
 	<node id="3447242319" lat="44.4793641" lon="7.5054651">
 		<tag k="addr:city" v="San Chiaffredo Tarantasca"/>

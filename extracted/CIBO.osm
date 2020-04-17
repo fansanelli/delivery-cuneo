@@ -49,6 +49,17 @@
 		<tag k="ref:vatin" v="IT00764810040"/>
 		<tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
 	</node>
+	<node id="1932859597" lat="44.3793215" lon="7.5371446">
+		<tag k="addr:housenumber" v="92"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 339 4195587"/>
+		<tag k="cuisine" v="chinese;japanese"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Cielo Azzurro"/>
+		<tag k="opening_hours" v="Mo 18:00-24:00; Tu-Su 12:00-15:00,18:00-24:00"/>
+		<tag k="phone" v="+39 0171 67345"/>
+	</node>
 	<node id="1932859603" lat="44.3786351" lon="7.5364142">
 		<tag k="addr:housenumber" v="102"/>
 		<tag k="addr:street" v="Corso Nizza"/>
@@ -414,6 +425,17 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="I 5 sensi"/>
 		<tag k="operator" v="Franco Carlevero Diego"/>
+	</node>
+	<node id="6741749289" lat="44.3900507" lon="7.5618159">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:street" v="Via Bisalta"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:email" v="gianniromeo65@gmail.com"/>
+		<tag k="contact:mobile" v="+39 340 8480560"/>
+		<tag k="contact:phone" v="+39 0171 403000"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pizzeria Mariposa"/>
 	</node>
 	<node id="6971479405" lat="44.418943" lon="7.4319017">
 		<tag k="addr:city" v="Caraglio"/>

@@ -214,4 +214,14 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="La Belle Epoque"/>
 	</node>
+	<node id="7415053014" lat="44.4223377" lon="7.5440492">
+		<tag k="addr:housenumber" v="99"/>
+		<tag k="addr:street" v="Via Valle Po"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:mobile" v="+39 335 5430188"/>
+		<tag k="contact:phone" v="+39 0171 412294"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Il Podio Cafè"/>
+		<tag k="operator" v="Bertero Mirella"/>
+	</node>
 </osm>

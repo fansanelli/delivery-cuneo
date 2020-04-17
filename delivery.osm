@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-15T15:54:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-17T16:33:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -166,6 +166,17 @@
     <tag k="name" v="Giocheria"/>
     <tag k="shop" v="toys"/>
   </node>
+  <node id="1932859597" lat="44.3793215" lon="7.5371446">
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+39 339 4195587"/>
+    <tag k="cuisine" v="chinese;japanese"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Cielo Azzurro"/>
+    <tag k="opening_hours" v="Mo 18:00-24:00; Tu-Su 12:00-15:00,18:00-24:00"/>
+    <tag k="phone" v="+39 0171 67345"/>
+  </node>
   <node id="1932859601" lat="44.3656243" lon="7.5230803">
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
@@ -326,8 +337,12 @@
     <tag k="delivery" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia San Lorenzo"/>
+    <tag k="operator" v="S. Lorenzo"/>
     <tag k="phone" v="+39 0171 945255"/>
     <tag k="ref:msal" v="1091"/>
+    <tag k="ref:vatin" v="IT02788950042"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="source:start_date" v="2005-01-01"/>
   </node>
   <node id="3447242319" lat="44.4793641" lon="7.5054651">
     <tag k="addr:city" v="San Chiaffredo Tarantasca"/>
@@ -493,6 +508,18 @@
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Scugnizzo"/>
+  </node>
+  <node id="4196772617" lat="44.3794505" lon="7.5380763">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Via Paralup"/>
+    <tag k="contact:email" v="annalisa.zavattaro@gmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Idee-in-Testa-Cuneo-187811451349439/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/_idee_in_testa_/"/>
+    <tag k="contact:phone" v="+39 0171 690867"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Idee in Testa"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="unisex" v="yes"/>
   </node>
   <node id="4472819038" lat="44.5147184" lon="7.4729824">
     <tag k="amenity" v="restaurant"/>
@@ -1020,6 +1047,14 @@
     <tag k="phone" v="+39 334 7290501"/>
     <tag k="shop" v="herbalist"/>
   </node>
+  <node id="6173168601" lat="44.3870001" lon="7.5443822">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Via Felice Cavallotti"/>
+    <tag k="contact:phone" v="+39 0171 681458"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Stella Maris"/>
+    <tag k="shop" v="books"/>
+  </node>
   <node id="6174999048" lat="44.3993545" lon="7.5326852">
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Via del Passatore"/>
@@ -1232,6 +1267,16 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="In Casa &amp; Pam"/>
     <tag k="shop" v="houseware"/>
+  </node>
+  <node id="6327521794" lat="44.3867498" lon="7.5439233">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+    <tag k="clothes" v="underwear"/>
+    <tag k="contact:email" v="carlotta.bruno71@gmail.com"/>
+    <tag k="contact:mobile" v="+39 338 4582569"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Lingerie Charlotte"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="6327521798" lat="44.3869163" lon="7.5441046">
     <tag k="addr:housenumber" v="25"/>
@@ -1509,6 +1554,18 @@
     <tag k="name" v="Checevò"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6542763916" lat="44.3784965" lon="7.5355383">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Via Luigi Einaudi"/>
+    <tag k="contact:email" v="info@grandamodels.it"/>
+    <tag k="contact:mobile" v="+39 320 6449265"/>
+    <tag k="contact:website" v="http://www.grandamodels.it"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Commercio al dettaglio di giochi educativi, giocattoli e articoli di modellismo, computer (hardware e software), unità periferiche, assistenza software"/>
+    <tag k="name" v="Granda Models Cuneo"/>
+    <tag k="operator" v="G.M.C. S.A.S. di Gallo Franco &amp; C."/>
+    <tag k="shop" v="model"/>
+  </node>
   <node id="6547627100" lat="44.3808538" lon="7.5407151">
     <tag k="delivery" v="yes"/>
     <tag k="description" v="Vende alimentari freschi e secchi."/>
@@ -1727,6 +1784,17 @@
     <tag k="phone" v="+39 0171 346333"/>
     <tag k="shop" v="convenience"/>
   </node>
+  <node id="6741749289" lat="44.3900507" lon="7.5618159">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:street" v="Via Bisalta"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="gianniromeo65@gmail.com"/>
+    <tag k="contact:mobile" v="+39 340 8480560"/>
+    <tag k="contact:phone" v="+39 0171 403000"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pizzeria Mariposa"/>
+  </node>
   <node id="6741749290" lat="44.3902972" lon="7.5623854">
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Via Bisalta"/>
@@ -1767,6 +1835,16 @@
     <tag k="phone" v="+39 345 9925106"/>
     <tag k="ref:vatin" v="IT03766680049"/>
     <tag k="shop" v="deli"/>
+  </node>
+  <node id="6832217141" lat="44.4123770" lon="7.5496198">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Via della Battaglia"/>
+    <tag k="clothes" v="babies;underwear"/>
+    <tag k="contact:mobile" v="+39 331 2353633;+39 333 8940999"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Merceria Mellano"/>
+    <tag k="operator" v="Mellano snc di Mellano Giancarla e Mariagrazia"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="6832293603" lat="44.4131859" lon="7.5505367">
     <tag k="delivery" v="yes"/>
@@ -1823,10 +1901,14 @@
     <tag k="shop" v="pastry"/>
   </node>
   <node id="6872671494" lat="44.3874961" lon="7.5408009">
-    <tag k="delivery" v="yes"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Via Silvio Pellico"/>
+    <tag k="contact:email" v="info@bottegaludica.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/BottegaLudica/"/>
+    <tag k="contact:mobile" v="+39 347 9646610"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bottega Ludica"/>
     <tag k="opening_hours" v="Tu 08:30-13:00; Mo-Sa 15:30-20:00; Sa 10:00-13:00"/>
-    <tag k="phone" v="+39 347 9646610"/>
     <tag k="shop" v="toys"/>
   </node>
   <node id="6895003185" lat="44.4169038" lon="7.4261698">
@@ -3147,6 +3229,38 @@
     <tag k="name" v="Inaudi - i Piaceri del Gusto"/>
     <tag k="shop" v="deli"/>
   </node>
+  <node id="7415039669" lat="44.3857745" lon="7.5422038">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:street" v="Via Sebastiano Grandis"/>
+    <tag k="contact:mobile" v="+39 349 3105942"/>
+    <tag k="contact:phone" v="+39 0171 696200"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Delices du plat d'etain"/>
+    <tag k="opening_hours" v="Tu-Sa 09:00-13:00"/>
+    <tag k="operator" v="Fino Alessandra"/>
+    <tag k="shop" v="deli"/>
+  </node>
+  <node id="7415053014" lat="44.4223377" lon="7.5440492">
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Via Valle Po"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:mobile" v="+39 335 5430188"/>
+    <tag k="contact:phone" v="+39 0171 412294"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Il Podio Cafè"/>
+    <tag k="operator" v="Bertero Mirella"/>
+  </node>
+  <node id="7415127960" lat="44.3669057" lon="7.5242843">
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:street" v="Corso Francia"/>
+    <tag k="contact:email" v="maxi.incasso@cuneo.it"/>
+    <tag k="contact:mobile" v="+39 348 8109107"/>
+    <tag k="contact:phone" v="+39 0171 493467"/>
+    <tag k="contact:website" v="https://www.maxielettrodomestici.com/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Maxi"/>
+    <tag k="shop" v="appliance"/>
+  </node>
   <way id="341906477">
     <nd ref="3489695897"/>
     <nd ref="3489695698"/>
@@ -3212,3 +3326,4 @@
   </way>
 
 </osm>
+

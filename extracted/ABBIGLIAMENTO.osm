@@ -35,6 +35,16 @@
 		<tag k="phone" v="+39 0171 1723046"/>
 		<tag k="shop" v="clothes"/>
 	</node>
+	<node id="6327521794" lat="44.3867498" lon="7.5439233">
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+		<tag k="clothes" v="underwear"/>
+		<tag k="contact:email" v="carlotta.bruno71@gmail.com"/>
+		<tag k="contact:mobile" v="+39 338 4582569"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Lingerie Charlotte"/>
+		<tag k="shop" v="clothes"/>
+	</node>
 	<node id="6327521798" lat="44.3869163" lon="7.5441046">
 		<tag k="addr:housenumber" v="25"/>
 		<tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
@@ -92,6 +102,16 @@
 		<tag k="clothes" v="underwear"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Intimania"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="6832217141" lat="44.412377" lon="7.5496198">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:street" v="Via della Battaglia"/>
+		<tag k="clothes" v="babies;underwear"/>
+		<tag k="contact:mobile" v="+39 331 2353633;+39 333 8940999"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Merceria Mellano"/>
+		<tag k="operator" v="Mellano snc di Mellano Giancarla e Mariagrazia"/>
 		<tag k="shop" v="clothes"/>
 	</node>
 	<node id="7015863355" lat="44.4184" lon="7.4302023">

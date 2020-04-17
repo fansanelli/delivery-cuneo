@@ -519,4 +519,15 @@
 		<tag k="name" v="Inaudi - i Piaceri del Gusto"/>
 		<tag k="shop" v="deli"/>
 	</node>
+	<node id="7415039669" lat="44.3857745" lon="7.5422038">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:street" v="Via Sebastiano Grandis"/>
+		<tag k="contact:mobile" v="+39 349 3105942"/>
+		<tag k="contact:phone" v="+39 0171 696200"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Delices du plat d&#39;etain"/>
+		<tag k="opening_hours" v="Tu-Sa 09:00-13:00"/>
+		<tag k="operator" v="Fino Alessandra"/>
+		<tag k="shop" v="deli"/>
+	</node>
 </osm>

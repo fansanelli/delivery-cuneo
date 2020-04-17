@@ -80,4 +80,15 @@
 		<tag k="phone:mobile" v="+39 335 6817081"/>
 		<tag k="shop" v="electronics"/>
 	</node>
+	<node id="7415127960" lat="44.3669057" lon="7.5242843">
+		<tag k="addr:housenumber" v="96"/>
+		<tag k="addr:street" v="Corso Francia"/>
+		<tag k="contact:email" v="maxi.incasso@cuneo.it"/>
+		<tag k="contact:mobile" v="+39 348 8109107"/>
+		<tag k="contact:phone" v="+39 0171 493467"/>
+		<tag k="contact:website" v="https://www.maxielettrodomestici.com/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Maxi"/>
+		<tag k="shop" v="appliance"/>
+	</node>
 </osm>
