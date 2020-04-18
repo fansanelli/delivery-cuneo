@@ -482,4 +482,18 @@
 		<tag k="opening_hours" v="Mo-Sa 09:30-13:00,14:30-19:30; Su 10:00-12:30,14:30-19:00"/>
 		<tag k="shop" v="coffee"/>
 	</node>
+	<node id="7416675736" lat="44.4730835" lon="7.5095714">
+		<tag k="addr:city" v="Tarantasca - Frazione San Chiaffredo"/>
+		<tag k="addr:housenumber" v="50"/>
+		<tag k="addr:postcode" v="12020"/>
+		<tag k="addr:street" v="Via Laghi di Avigliana"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="description" v="Generi alimentari vari (carne, salumi, formaggi, vino, farine, pasta fresca)."/>
+		<tag k="email" v="info@zuccoalimentari.it"/>
+		<tag k="name" v="Zucco Alimentari di Zucco Antonio"/>
+		<tag k="phone" v="+39 0171 411759"/>
+		<tag k="shop" v="wholesale"/>
+		<tag k="website" v="www.zuccoalimentari.it"/>
+		<tag k="wholesale" v="food"/>
+	</node>
 </osm>
