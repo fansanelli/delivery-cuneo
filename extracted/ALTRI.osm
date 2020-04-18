@@ -183,6 +183,15 @@
 		<tag k="operator" v="G.M.C. S.A.S. di Gallo Franco &#38; C."/>
 		<tag k="shop" v="model"/>
 	</node>
+	<node id="6565728579" lat="44.3928469" lon="7.5513522">
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="cuneo@101caffe.it"/>
+		<tag k="contact:mobile" v="+39 346 6328081"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="101 caffè"/>
+		<tag k="shop" v="coffee"/>
+	</node>
 	<node id="6578445381" lat="44.3935395" lon="7.549187">
 		<tag k="addr:housenumber" v="16"/>
 		<tag k="addr:street" v="Via Santa Croce"/>

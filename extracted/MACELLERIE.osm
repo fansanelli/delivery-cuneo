@@ -139,4 +139,19 @@
 		<tag k="name" v="Macelleria Gramaglia"/>
 		<tag k="shop" v="butcher"/>
 	</node>
+	<node id="7416648104" lat="44.5917716" lon="7.6557661">
+		<tag k="addr:city" v="Genola"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="8a"/>
+		<tag k="addr:postcode" v="12040"/>
+		<tag k="addr:street" v="Via Garetta"/>
+		<tag k="contact:email" v="ordini@lagranda.it"/>
+		<tag k="contact:phone" v="+39 0172 726178"/>
+		<tag k="contact:website" v="https://www.lagranda.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="La Granda Srl"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:00"/>
+		<tag k="ref:vatin" v="IT03001340045"/>
+		<tag k="shop" v="butcher"/>
+	</node>
 </osm>

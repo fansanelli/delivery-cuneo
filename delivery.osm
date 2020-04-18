@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1002 b121d216">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-17T16:33:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-18T10:09:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -1602,6 +1602,15 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Cit Ma Bel"/>
     <tag k="operator" v="Cit Ma Bel Ettore e Margherita Ristorante"/>
+  </node>
+  <node id="6565728579" lat="44.3928469" lon="7.5513522">
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="contact:email" v="cuneo@101caffe.it"/>
+    <tag k="contact:mobile" v="+39 346 6328081"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="101 caffè"/>
+    <tag k="shop" v="coffee"/>
   </node>
   <node id="6578445381" lat="44.3935395" lon="7.5491870">
     <tag k="addr:housenumber" v="16"/>
@@ -3261,6 +3270,21 @@
     <tag k="name" v="Maxi"/>
     <tag k="shop" v="appliance"/>
   </node>
+  <node id="7416648104" lat="44.5917716" lon="7.6557661">
+    <tag k="addr:city" v="Genola"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="8a"/>
+    <tag k="addr:postcode" v="12040"/>
+    <tag k="addr:street" v="Via Garetta"/>
+    <tag k="contact:email" v="ordini@lagranda.it"/>
+    <tag k="contact:phone" v="+39 0172 726178"/>
+    <tag k="contact:website" v="https://www.lagranda.it/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="La Granda Srl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:00"/>
+    <tag k="ref:vatin" v="IT03001340045"/>
+    <tag k="shop" v="butcher"/>
+  </node>
   <way id="341906477">
     <nd ref="3489695897"/>
     <nd ref="3489695698"/>
@@ -3326,4 +3350,3 @@
   </way>
 
 </osm>
-
