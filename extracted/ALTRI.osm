@@ -496,4 +496,30 @@
 		<tag k="website" v="www.zuccoalimentari.it"/>
 		<tag k="wholesale" v="food"/>
 	</node>
+	<node id="7454799702" lat="44.3169161" lon="7.2622551">
+		<tag k="addr:city" v="Demonte"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:place" v="Località Patera"/>
+		<tag k="addr:postcode" v="12014"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/lapedoc"/>
+		<tag k="contact:mobile" v="+39 328 4260670"/>
+		<tag k="contact:website" v="http://lapedoc.altervista.org/"/>
+		<tag k="craft" v="beekeeper"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="delivery:description" v="Da concordare"/>
+		<tag k="description" v="Apicoltura vendita Miele Polline Propoli"/>
+		<tag k="description:covid19" v="Da concordare"/>
+		<tag k="name" v="L&#39;Ape d&#39;Oc"/>
+		<tag k="operator" v="Agnello Lidia"/>
+		<tag k="payment:bancomat" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="ref:vatin" v="IT03002870040"/>
+		<tag k="shop" v="honey"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
 </osm>

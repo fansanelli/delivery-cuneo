@@ -159,6 +159,20 @@
 		<tag k="payment:visa" v="yes"/>
 		<tag k="phone" v="+39 0171 403308"/>
 	</node>
+	<node id="3908772443" lat="44.2886304" lon="7.0760249">
+		<tag k="addr:city" v="Vinadio"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:place" v="Bagni di Vinadio"/>
+		<tag k="addr:postcode" v="12010"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://it-it.facebook.com/hotelcorborant"/>
+		<tag k="contact:phone" v="+39 0171 95841"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Hotel Corborant"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://www.hotelcorborant.com/"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
 	<node id="4160266589" lat="44.3858044" lon="7.5444019">
 		<tag k="addr:housenumber" v="42"/>
 		<tag k="addr:street" v="Corso Dante Alighieri"/>
