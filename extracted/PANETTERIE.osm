@@ -125,14 +125,13 @@
 		<tag k="shop" v="bakery"/>
 		<tag k="website" v="https://www.milonepanedolci.com/"/>
 	</node>
-	<node id="7289057272" lat="44.4413307" lon="7.5255352">
+	<node id="7289057272" lat="44.4413655" lon="7.525738">
 		<tag k="addr:city" v="Roata Rossi"/>
 		<tag k="addr:housenumber" v="144"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Antica di Busca"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/Meinero-Panetteria-Pasticceria-201659636685892/"/>
 		<tag k="delivery" v="yes"/>
-		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Meinero Panetteria Pasticceria"/>
 		<tag k="opening_hours" v="Mo-Sa 07:15-13:00,15:30-19:45"/>
 		<tag k="phone" v="+39 0171 689022"/>

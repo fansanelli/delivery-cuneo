@@ -49,6 +49,17 @@
 		<tag k="ref:vatin" v="IT00764810040"/>
 		<tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
 	</node>
+	<node id="1922721427" lat="44.3926824" lon="7.5494958">
+		<tag k="addr:housenumber" v="3bis"/>
+		<tag k="addr:street" v="Via Dronero"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:phone" v="+39 0171 489174"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="consegna a Cuneo e comuni limitrofi ordini dal martedì alla domenica"/>
+		<tag k="name" v="Osteria Senza Fretta"/>
+		<tag k="opening_hours" v="Mo-Tu off; We-Fr 19:30-23:30; Sa-Su 12:30-14:30, 19:30-23:30"/>
+	</node>
 	<node id="1932859597" lat="44.3793215" lon="7.5371446">
 		<tag k="addr:housenumber" v="92"/>
 		<tag k="addr:street" v="Corso Nizza"/>
@@ -240,6 +251,18 @@
 		<tag k="takeaway" v="yes"/>
 		<tag k="website" v="https://shop.kombusushi.com"/>
 	</node>
+	<node id="6032733257" lat="44.3903414" lon="7.5468446">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:street" v="Via Gustavo Ponza di San Martino"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 340 3058386"/>
+		<tag k="contact:phone" v="+39 0171 693864"/>
+		<tag k="cuisine" v="chinese"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Il servizio sarà attivo nel comune di Cuneo dal martedì alla domenica Consegna gratuita"/>
+		<tag k="name" v="Ristorante Pechino"/>
+		<tag k="operator" v="Ristorante Pechino di Chen Wenmin e c. Sas"/>
+	</node>
 	<node id="6033563131" lat="44.3801215" lon="7.5385062">
 		<tag k="addr:housenumber" v="71"/>
 		<tag k="addr:street" v="Corso Nizza"/>
@@ -299,6 +322,36 @@
 		<tag k="ref:vatin" v="IT03246830040"/>
 		<tag k="shop" v="butcher"/>
 	</node>
+	<node id="6154076420" lat="44.4155121" lon="7.5546907">
+		<tag k="addr:housenumber" v="173"/>
+		<tag k="addr:street" v="Via Torino"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="cuisine" v="japanese;sushi"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="name" v="Tokyo Fusion Restaurant"/>
+		<tag k="opening_hours" v="Tu-Su 12:00-15:00,19:00-24:00"/>
+		<tag k="operator" v="Ristorante Tokyo di Pan Wu"/>
+		<tag k="ref:vatin" v="IT03662490048"/>
+	</node>
+	<node id="6171424435" lat="44.3804457" lon="7.5399453">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Ettore Rosa"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/ilcorsarocuneo/"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="consegne a Cuneo e dintorni, dalle 18.00 alle 21.30"/>
+		<tag k="diet:gluten_free" v="yes"/>
+		<tag k="email" v="info@ilcorsaroristopizzacuneo.it"/>
+		<tag k="instagram" v="https://www.instagram.com/ilcorsarocuneo/"/>
+		<tag k="name" v="Il Corsaro Risto &#38; Pizza"/>
+		<tag k="opening_hours" v="Mo,We-Su 19:00-22:00"/>
+		<tag k="operator" v="Degeratu Simon Sergiu Constantin"/>
+		<tag k="oven" v="electric"/>
+		<tag k="phone" v="+39 0171 693576"/>
+		<tag k="ref:vatin" v="IT03622170045"/>
+		<tag k="website" v="https://ilcorsaroristopizzacuneo.it/"/>
+	</node>
 	<node id="6201523711" lat="44.3910114" lon="7.5489401">
 		<tag k="addr:housenumber" v="4"/>
 		<tag k="addr:street" v="Vicolo Cattedrale"/>
@@ -315,6 +368,18 @@
 		<tag k="phone:mobile" v="+39 339 5865036"/>
 		<tag k="ref:vatin" v="IT03773800044"/>
 		<tag k="website" v="https://infernotto.pub"/>
+	</node>
+	<node id="6223078969" lat="44.3878029" lon="7.5467183">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Via Emanuele Filiberto"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:phone" v="+39 0171 480714"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="San Gennaro"/>
+		<tag k="operator" v="Sofia Amatruda"/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="oven" v="wood_fired"/>
 	</node>
 	<node id="6282548560" lat="44.3943042" lon="7.5526417">
 		<tag k="addr:housenumber" v="14"/>
@@ -415,6 +480,16 @@
 		<tag k="phone:mobile" v="+39 389 1262276"/>
 		<tag k="start_date" v="2017-12-01"/>
 	</node>
+	<node id="6604821038" lat="44.3944695" lon="7.5518678">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Sette Assedi"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 349 5958584"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="consegne a Cuneo e dintorni, dal giovedì alla domenica, dalle 19.00 alle 21.30"/>
+		<tag k="name" v="Passione pizza"/>
+	</node>
 	<node id="6611844291" lat="44.3928486" lon="7.5529822">
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Armando Diaz"/>
@@ -487,6 +562,17 @@
 		<tag k="name" v="La Pantalera"/>
 		<tag k="opening_hours" v="Mo-Sa 19:00-23:30; Su 12:00-15:00,19:00-23:00"/>
 		<tag k="phone" v="+39 0171 682941"/>
+	</node>
+	<node id="7042005302" lat="44.3931678" lon="7.5198404">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:street" v="Via Marmora"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:email" v="alpepitocuneo@gmail.com"/>
+		<tag k="contact:mobile" v="+39 392 0338089"/>
+		<tag k="contact:phone" v="+39 0171 552011"/>
+		<tag k="cuisine" v="friture;fish;pizza"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Al Pepito"/>
 	</node>
 	<node id="7074400566" lat="44.3939234" lon="7.5203746">
 		<tag k="addr:housenumber" v="123"/>

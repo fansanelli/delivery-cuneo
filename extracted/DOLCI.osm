@@ -72,6 +72,37 @@
 		<tag k="shop" v="pastry"/>
 		<tag k="website" v="https://www.chantillycuneo.it/"/>
 	</node>
+	<node id="6328565005" lat="44.3856033" lon="7.54293">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Via Sebastiano Grandis"/>
+		<tag k="cafe" v="yes"/>
+		<tag k="contact:mobile" v="+39 349 5584173"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Chocolat d&#39;art"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="6468199078" lat="44.3877014" lon="7.5440542">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:street" v="Via Venti Settembre"/>
+		<tag k="contact:mobile" v="+39 391 4231703"/>
+		<tag k="contact:phone" v="+39 0171 696415"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Le torte del golosone"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="6578479212" lat="44.3939531" lon="7.5509297">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:street" v="Via Santa Maria"/>
+		<tag k="contact:email" v="pasticceriabotasso@gmail.com"/>
+		<tag k="contact:mobile" v="+39 328 5327801"/>
+		<tag k="contact:phone" v="+39 0171 692223"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Consegne dal martedì al sabato dalle ore 18 alle ore 20 e domenica dalle ore 10 alle 13 è gradita la prenotazione entro il giorno precedente"/>
+		<tag k="name" v="Pasticceria Botasso"/>
+		<tag k="opening_hours" v="Tu-Su 08:00-13:00,15:00-20:00"/>
+		<tag k="shop" v="pastry"/>
+	</node>
 	<node id="6604821032" lat="44.3941705" lon="7.5514424">
 		<tag k="addr:housenumber" v="9"/>
 		<tag k="addr:street" v="Piazza Vincenzo Virginio"/>
@@ -98,6 +129,17 @@
 		<tag k="name" v="Franchino"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="phone" v="+39  0171 491345"/>
+		<tag k="shop" v="pastry"/>
+	</node>
+	<node id="7023831613" lat="44.3790209" lon="7.5728644">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:street" v="Via Roata Canale"/>
+		<tag k="contact:mobile" v="+39 377 0220720"/>
+		<tag k="contact:phone" v="+39 0171 403628"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Ordini almeno il giorno prima della consegna"/>
+		<tag k="name" v="Pasticceria Zucco"/>
 		<tag k="shop" v="pastry"/>
 	</node>
 	<node id="7294614759" lat="44.3871091" lon="7.5451299">

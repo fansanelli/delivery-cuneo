@@ -530,4 +530,16 @@
 		<tag k="operator" v="Fino Alessandra"/>
 		<tag k="shop" v="deli"/>
 	</node>
+	<node id="7459259045" lat="44.3371656" lon="7.5339305">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:street" v="Via Vermenagna"/>
+		<tag k="contact:email" v="info@tonytere.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/TONYTERESNC"/>
+		<tag k="contact:phone" v="+39 0171 387871"/>
+		<tag k="contact:website" v="http://www.tonytere.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pastificio Tony&#38;Tere"/>
+		<tag k="ref:vatin" v="IT02175870043"/>
+		<tag k="shop" v="pasta"/>
+	</node>
 </osm>

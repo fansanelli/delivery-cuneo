@@ -41,6 +41,21 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bar barriera"/>
 	</node>
+	<node id="4520651757" lat="44.441342" lon="7.5255381">
+		<tag k="addr:city" v="Roata Rossi"/>
+		<tag k="addr:housenumber" v="144"/>
+		<tag k="addr:postcode" v="12100"/>
+		<tag k="addr:street" v="Via Antica di Busca"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="contact:email" v="info@redvillagecafe.it"/>
+		<tag k="contact:mobile" v="+39 348 6393722"/>
+		<tag k="contact:website" v="https://www.redvillagecafe.it/"/>
+		<tag k="cuisine" v="ice_cream"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Red Village Café"/>
+		<tag k="opening_hours" v="Tu-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-12:30,14:30-22:00; Su 08:30-12:00,14:30-20:30"/>
+		<tag k="tobacco" v="yes"/>
+	</node>
 	<node id="5397122034" lat="44.3881856" lon="7.5488399">
 		<tag k="addr:housenumber" v="5"/>
 		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
@@ -122,6 +137,15 @@
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="La coccinella"/>
 		<tag k="phone" v="+39 339 2429445"/>
+	</node>
+	<node id="6358638318" lat="44.3859932" lon="7.5432528">
+		<tag k="addr:housenumber" v="33a"/>
+		<tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
+		<tag k="amenity" v="cafe"/>
+		<tag k="contact:email" v="dama3.snc@gmail.com"/>
+		<tag k="contact:mobile" v="+39 373 7622399"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Dama 3 Cafè"/>
 	</node>
 	<node id="6433717642" lat="44.388218" lon="7.5378782">
 		<tag k="addr:city" v="Cuneo"/>
