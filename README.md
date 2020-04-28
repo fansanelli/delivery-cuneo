@@ -5,7 +5,7 @@ I dati sono ricavati con query overpass:
 ```
 ( area[name=Cuneo]; )->.searchArea;
 (
-  node["delivery"][delivery!=no]["name"!="Tokyo Fusion Restaurant"](area.searchArea);
+  node["delivery"][delivery!=no](area.searchArea);
   way["delivery"][delivery!=no](area.searchArea);>;
   node["delivery:covid19"](area.searchArea);
   way["delivery:covid19"](area.searchArea);>;
