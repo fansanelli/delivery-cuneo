@@ -409,6 +409,19 @@
 		<tag k="name" v="Facrok"/>
 		<tag k="oven" v="electric"/>
 	</node>
+	<node id="6449165010" lat="44.3895985" lon="7.5388078">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Lungostura Ventiquattro Maggio"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:mobile" v="+39 366 3959212"/>
+		<tag k="cuisine" v="italian"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description" v="Prenotazioni dalle ore 17, 7 giorni su 7 anche whatsapp oppure tramite Glovo! Consegna gratuita (in Cuneo e paesi limitrofi)"/>
+		<tag k="name" v="Dopolavoro F.S. Terza Classe"/>
+		<tag k="operator" v="Terza Classe Sas di Bertola Alex e C."/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+	</node>
 	<node id="6468199496" lat="44.3882794" lon="7.5443044">
 		<tag k="addr:housenumber" v="12"/>
 		<tag k="addr:street" v="Via Venti Settembre"/>

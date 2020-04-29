@@ -16,6 +16,27 @@
 		<tag k="shop" v="shoes"/>
 		<tag k="website" v="https://www.calzaturegiraudo.it/"/>
 	</node>
+	<node id="6015526490" lat="44.3906657" lon="7.5503199">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:street" v="Piazza Boves"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Urban jungle"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="6153157989" lat="44.390915" lon="7.5494699">
+		<tag k="addr:housenumber" v="45"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Fashion Fusion"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="6170876933" lat="44.3909481" lon="7.5495134">
+		<tag k="addr:housenumber" v="45"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Alessandria"/>
+		<tag k="shop" v="clothes"/>
+	</node>
 	<node id="6173030845" lat="44.3838343" lon="7.5409787">
 		<tag k="addr:housenumber" v="16"/>
 		<tag k="addr:street" v="Piazza Europa"/>
@@ -23,6 +44,13 @@
 		<tag k="contact:facebook" v="https://www.facebook.com/bruna.intimomerceria/"/>
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Bruna"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="6239405937" lat="44.391829" lon="7.5502791">
+		<tag k="addr:housenumber" v="37"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Uomo"/>
 		<tag k="shop" v="clothes"/>
 	</node>
 	<node id="6269281647" lat="44.3926938" lon="7.5511563">
@@ -90,6 +118,16 @@
 		<tag k="name" v="Ban Tien"/>
 		<tag k="shop" v="clothes"/>
 	</node>
+	<node id="6468199081" lat="44.3881442" lon="7.5445">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:street" v="Via Ventotto Aprile"/>
+		<tag k="contact:email" v="info@jollycalzature.it"/>
+		<tag k="contact:mobile" v="+39 335 5741442"/>
+		<tag k="contact:phone" v="+39 0171 480732"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Fly Flot"/>
+		<tag k="shop" v="shoes"/>
+	</node>
 	<node id="6578479217" lat="44.3939953" lon="7.5508912">
 		<tag k="contact:mobile" v="+39 340 9774923"/>
 		<tag k="contact:phone" v="+39 0171 695565"/>
@@ -97,6 +135,14 @@
 		<tag k="description" v="Consegna gratuita."/>
 		<tag k="name" v="Sandra Calzature"/>
 		<tag k="shop" v="shoes"/>
+	</node>
+	<node id="6611818413" lat="44.3904522" lon="7.5492236">
+		<tag k="addr:housenumber" v="1b"/>
+		<tag k="addr:street" v="Via Giuseppe Barbaroux"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/B4abbigliamento"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="B4 abbigliamento"/>
+		<tag k="shop" v="clothes"/>
 	</node>
 	<node id="6673724204" lat="44.3479457" lon="7.5078869">
 		<tag k="clothes" v="underwear"/>
@@ -148,6 +194,26 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Eliana abbigliamento"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="7415053013" lat="44.4220887" lon="7.5442069">
+		<tag k="addr:housenumber" v="99a"/>
+		<tag k="addr:street" v="Via Valle Po"/>
+		<tag k="clothes" v="sports"/>
+		<tag k="contact:email" v="info@ilpodiosport.it"/>
+		<tag k="contact:phone" v="+39 0171 413210"/>
+		<tag k="contact:website" v="https://ilpodiosport.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Il Podio Sport"/>
+		<tag k="operator" v="Il Podio Sport srl"/>
+		<tag k="shop" v="clothes"/>
+	</node>
+	<node id="7464623442" lat="44.3906505" lon="7.5503962">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:street" v="Piazza Boves"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/UpCuneo"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Up"/>
 		<tag k="shop" v="clothes"/>
 	</node>
 </osm>

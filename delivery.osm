@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-28T17:58:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-04-29T19:21:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -755,6 +755,13 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Coffee and Good Spirits"/>
   </node>
+  <node id="6015526490" lat="44.3906657" lon="7.5503199">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Piazza Boves"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Urban jungle"/>
+    <tag k="shop" v="clothes"/>
+  </node>
   <node id="6017261042" lat="44.3810800" lon="7.5450910">
     <tag k="addr:housenumber" v="63"/>
     <tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
@@ -947,6 +954,25 @@
     <tag k="ref:msal" v="005799"/>
     <tag k="ref:vatin" v="IT03278350040"/>
   </node>
+  <node id="6110507093" lat="44.3878465" lon="7.5464922">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="contact:email" v="cuneo@kasanova.it"/>
+    <tag k="contact:phone" v="+39 0171 65495"/>
+    <tag k="contact:website" v="https://www.kasanova.com/it"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Kasanova"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-19:30; Sa 10:00-20:00; Su 10:00-19:30"/>
+    <tag k="shop" v="houseware"/>
+  </node>
+  <node id="6124643899" lat="44.3876145" lon="7.5456533">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="Corso Nizza"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Ellebi-Profumeria-166266283582416/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Ellebi"/>
+    <tag k="shop" v="perfumery"/>
+  </node>
   <node id="6124666867" lat="44.3855735" lon="7.5435524">
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Corso Nizza"/>
@@ -1015,6 +1041,13 @@
     <tag k="ref:vatin" v="IT03246830040"/>
     <tag k="shop" v="butcher"/>
   </node>
+  <node id="6153157989" lat="44.3909150" lon="7.5494699">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Fashion Fusion"/>
+    <tag k="shop" v="clothes"/>
+  </node>
   <node id="6154076420" lat="44.4155121" lon="7.5546907">
     <tag k="addr:housenumber" v="173"/>
     <tag k="addr:street" v="Via Torino"/>
@@ -1071,6 +1104,13 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 0171 693968"/>
     <tag k="website" v="https://www.relaiscubaonline.com/"/>
+  </node>
+  <node id="6170876933" lat="44.3909481" lon="7.5495134">
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Alessandria"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="6171424435" lat="44.3804457" lon="7.5399453">
     <tag k="addr:housenumber" v="6"/>
@@ -1244,6 +1284,16 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="oven" v="wood_fired"/>
   </node>
+  <node id="6225923280" lat="44.3883002" lon="7.5422584">
+    <tag k="addr:housenumber" v="14bis"/>
+    <tag k="addr:street" v="Via Felice Cavallotti"/>
+    <tag k="contact:email" v="info@blucompanycuneo.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/blucompanymaterassicuneo/"/>
+    <tag k="contact:mobile" v="+39 320 1446662"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="The Blue Company"/>
+    <tag k="shop" v="bed"/>
+  </node>
   <node id="6237748355" lat="44.3851815" lon="7.5423504">
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
@@ -1254,6 +1304,32 @@
     <tag k="ref:vatin" v="IT03690900042"/>
     <tag k="shop" v="pastry"/>
     <tag k="website" v="https://www.chantillycuneo.it/"/>
+  </node>
+  <node id="6239391349" lat="44.3915604" lon="7.5499952">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="contact:email" v="info@vigliettiviaroma.it"/>
+    <tag k="contact:phone" v="+39 0171 693444"/>
+    <tag k="contact:website" v="https://www.vigliettiviaroma.it/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Viglietti Luciano"/>
+    <tag k="shop" v="curtain"/>
+  </node>
+  <node id="6239405937" lat="44.3918290" lon="7.5502791">
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Uomo"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="6239727836" lat="44.3922125" lon="7.5503052">
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="contact:email" v="walter.modellismo@libero.it"/>
+    <tag k="contact:mobile" v="+39 340 7058206"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Walter"/>
+    <tag k="shop" v="model"/>
   </node>
   <node id="6239738308" lat="44.3920679" lon="7.5505218">
     <tag k="addr:housenumber" v="35"/>
@@ -1565,6 +1641,19 @@
     <tag k="phone" v="+39 392 4050480"/>
     <tag k="shop" v="printer_ink"/>
   </node>
+  <node id="6449165010" lat="44.3895985" lon="7.5388078">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Lungostura Ventiquattro Maggio"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+39 366 3959212"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Prenotazioni dalle ore 17, 7 giorni su 7 anche whatsapp oppure tramite Glovo! Consegna gratuita (in Cuneo e paesi limitrofi)"/>
+    <tag k="name" v="Dopolavoro F.S. Terza Classe"/>
+    <tag k="operator" v="Terza Classe Sas di Bertola Alex e C."/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+  </node>
   <node id="6466198055" lat="44.3826094" lon="7.5415535">
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="32"/>
@@ -1585,6 +1674,16 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Le torte del golosone"/>
     <tag k="shop" v="pastry"/>
+  </node>
+  <node id="6468199081" lat="44.3881442" lon="7.5445000">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Via Ventotto Aprile"/>
+    <tag k="contact:email" v="info@jollycalzature.it"/>
+    <tag k="contact:mobile" v="+39 335 5741442"/>
+    <tag k="contact:phone" v="+39 0171 480732"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Fly Flot"/>
+    <tag k="shop" v="shoes"/>
   </node>
   <node id="6468199496" lat="44.3882794" lon="7.5443044">
     <tag k="addr:housenumber" v="12"/>
@@ -1837,6 +1936,14 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="consegne a Cuneo e dintorni, dal giovedì alla domenica, dalle 19.00 alle 21.30"/>
     <tag k="name" v="Passione pizza"/>
+  </node>
+  <node id="6611818413" lat="44.3904522" lon="7.5492236">
+    <tag k="addr:housenumber" v="1b"/>
+    <tag k="addr:street" v="Via Giuseppe Barbaroux"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/B4abbigliamento"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="B4 abbigliamento"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="6611844291" lat="44.3928486" lon="7.5529822">
     <tag k="addr:housenumber" v="6"/>
@@ -2301,6 +2408,18 @@
     <tag k="phone:mobile" v="+39 338 8665686"/>
     <tag k="shop" v="bakery"/>
     <tag k="website" v="https://www.milonepanedolci.com/"/>
+  </node>
+  <node id="7276391603" lat="44.3916132" lon="7.5665044">
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:street" v="Via Savona"/>
+    <tag k="contact:email" v="info@sedietavolipalazzo.it"/>
+    <tag k="contact:fax" v="+39 0171 401382"/>
+    <tag k="contact:mobile" v="+39 333 7495957"/>
+    <tag k="contact:phone" v="+39 0171 401256"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Palazzo"/>
+    <tag k="operator" v="Palazzo s.a.s. di Palazzo Gabriele e Patrizia e C."/>
+    <tag k="shop" v="furniture"/>
   </node>
   <node id="7283446098" lat="44.3294908" lon="7.4881627">
     <tag k="addr:city" v="Borgo San Dalmazzo"/>
@@ -3414,6 +3533,18 @@
     <tag k="operator" v="Fino Alessandra"/>
     <tag k="shop" v="deli"/>
   </node>
+  <node id="7415053013" lat="44.4220887" lon="7.5442069">
+    <tag k="addr:housenumber" v="99a"/>
+    <tag k="addr:street" v="Via Valle Po"/>
+    <tag k="clothes" v="sports"/>
+    <tag k="contact:email" v="info@ilpodiosport.it"/>
+    <tag k="contact:phone" v="+39 0171 413210"/>
+    <tag k="contact:website" v="https://ilpodiosport.it/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Il Podio Sport"/>
+    <tag k="operator" v="Il Podio Sport srl"/>
+    <tag k="shop" v="clothes"/>
+  </node>
   <node id="7415053014" lat="44.4223377" lon="7.5440492">
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Via Valle Po"/>
@@ -3501,6 +3632,25 @@
     <tag k="name" v="Pastificio Tony&amp;Tere"/>
     <tag k="ref:vatin" v="IT02175870043"/>
     <tag k="shop" v="pasta"/>
+  </node>
+  <node id="7464615946" lat="44.4973877" lon="7.5853587">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Via Roata Chiusani"/>
+    <tag k="contact:email" v="ferraris.casalinghi@gmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/dituttounpocentallo/"/>
+    <tag k="contact:mobile" v="+39 320 3817592"/>
+    <tag k="contact:phone" v="+39 0171 214378"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Di Tutto un po'"/>
+    <tag k="shop" v="houseware"/>
+  </node>
+  <node id="7464623442" lat="44.3906505" lon="7.5503962">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Piazza Boves"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/UpCuneo"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Up"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

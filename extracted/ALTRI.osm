@@ -90,6 +90,25 @@
 		<tag k="name" v="Mondadori Bookstore"/>
 		<tag k="shop" v="books"/>
 	</node>
+	<node id="6110507093" lat="44.3878465" lon="7.5464922">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="contact:email" v="cuneo@kasanova.it"/>
+		<tag k="contact:phone" v="+39 0171 65495"/>
+		<tag k="contact:website" v="https://www.kasanova.com/it"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Kasanova"/>
+		<tag k="opening_hours" v="Mo-Fr 10:00-19:30; Sa 10:00-20:00; Su 10:00-19:30"/>
+		<tag k="shop" v="houseware"/>
+	</node>
+	<node id="6124643899" lat="44.3876145" lon="7.5456533">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/Ellebi-Profumeria-166266283582416/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Ellebi"/>
+		<tag k="shop" v="perfumery"/>
+	</node>
 	<node id="6173168601" lat="44.3870001" lon="7.5443822">
 		<tag k="addr:housenumber" v="5"/>
 		<tag k="addr:street" v="Via Felice Cavallotti"/>
@@ -119,6 +138,35 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Pani"/>
 		<tag k="shop" v="stationery"/>
+	</node>
+	<node id="6225923280" lat="44.3883002" lon="7.5422584">
+		<tag k="addr:housenumber" v="14bis"/>
+		<tag k="addr:street" v="Via Felice Cavallotti"/>
+		<tag k="contact:email" v="info@blucompanycuneo.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/blucompanymaterassicuneo/"/>
+		<tag k="contact:mobile" v="+39 320 1446662"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="The Blue Company"/>
+		<tag k="shop" v="bed"/>
+	</node>
+	<node id="6239391349" lat="44.3915604" lon="7.5499952">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="info@vigliettiviaroma.it"/>
+		<tag k="contact:phone" v="+39 0171 693444"/>
+		<tag k="contact:website" v="https://www.vigliettiviaroma.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Viglietti Luciano"/>
+		<tag k="shop" v="curtain"/>
+	</node>
+	<node id="6239727836" lat="44.3922125" lon="7.5503052">
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="walter.modellismo@libero.it"/>
+		<tag k="contact:mobile" v="+39 340 7058206"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Walter"/>
+		<tag k="shop" v="model"/>
 	</node>
 	<node id="6239738308" lat="44.3920679" lon="7.5505218">
 		<tag k="addr:housenumber" v="35"/>
@@ -285,6 +333,18 @@
 		<tag k="phone" v="+39 0171 619500"/>
 		<tag k="phone:mobile" v="+39 347 6828743"/>
 		<tag k="shop" v="sewing"/>
+	</node>
+	<node id="7276391603" lat="44.3916132" lon="7.5665044">
+		<tag k="addr:housenumber" v="37"/>
+		<tag k="addr:street" v="Via Savona"/>
+		<tag k="contact:email" v="info@sedietavolipalazzo.it"/>
+		<tag k="contact:fax" v="+39 0171 401382"/>
+		<tag k="contact:mobile" v="+39 333 7495957"/>
+		<tag k="contact:phone" v="+39 0171 401256"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Palazzo"/>
+		<tag k="operator" v="Palazzo s.a.s. di Palazzo Gabriele e Patrizia e C."/>
+		<tag k="shop" v="furniture"/>
 	</node>
 	<node id="7287719731" lat="44.5145092" lon="7.4732538">
 		<tag k="addr:housenumber" v="2"/>
@@ -521,5 +581,16 @@
 		<tag k="ref:vatin" v="IT03002870040"/>
 		<tag k="shop" v="honey"/>
 		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="7464615946" lat="44.4973877" lon="7.5853587">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:street" v="Via Roata Chiusani"/>
+		<tag k="contact:email" v="ferraris.casalinghi@gmail.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/dituttounpocentallo/"/>
+		<tag k="contact:mobile" v="+39 320 3817592"/>
+		<tag k="contact:phone" v="+39 0171 214378"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Di Tutto un po&#39;"/>
+		<tag k="shop" v="houseware"/>
 	</node>
 </osm>
