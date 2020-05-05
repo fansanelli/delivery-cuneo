@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-04-29T19:21:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-05-05T17:05:03Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -609,6 +609,17 @@
   <node id="4635088461" lat="44.5424251" lon="7.4839358"/>
   <node id="4635088462" lat="44.5424538" lon="7.4835898"/>
   <node id="4635088463" lat="44.5428762" lon="7.4834423"/>
+  <node id="4720799980" lat="44.3905331" lon="7.5482028">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+    <tag k="contact:email" v="info@vianoprofumicoltelli.net"/>
+    <tag k="contact:mobile" v="+39 339 7083480"/>
+    <tag k="contact:phone" v="+39 0171 692780"/>
+    <tag k="contact:website" v="http://www.vianoprofumicoltelli.com/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Profumeria Coltelleria Viano"/>
+    <tag k="shop" v="perfumery"/>
+  </node>
   <node id="4721228431" lat="44.4233187" lon="7.5428578">
     <tag k="addr:city" v="Madonna dell'Olmo"/>
     <tag k="addr:housenumber" v="139ter"/>
@@ -1595,6 +1606,18 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="L'Atelier des Tartes"/>
     <tag k="shop" v="bakery"/>
+  </node>
+  <node id="6419194732" lat="44.3850197" lon="7.5355840">
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:street" v="Via Michele Coppino"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pizzastore35/"/>
+    <tag k="contact:mobile" v="+39 348 3396935"/>
+    <tag k="contact:phone" v="+39 0171 1711991"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Pizza store"/>
   </node>
   <node id="6420509034" lat="44.3852092" lon="7.5399560">
     <tag k="addr:city" v="Cuneo"/>
@@ -3651,6 +3674,22 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Up"/>
     <tag k="shop" v="clothes"/>
+  </node>
+  <node id="7474405894" lat="44.6595999" lon="7.6589097">
+    <tag k="addr:city" v="Savigliano"/>
+    <tag k="addr:housenumber" v="252"/>
+    <tag k="addr:postcode" v="12038"/>
+    <tag k="addr:street" v="Via Torino"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/CONVIVIORestaurantPizza/;https://www.facebook.com/Convivio_restaurant/"/>
+    <tag k="contact:mobile" v="+39 340 8373585"/>
+    <tag k="cuisine" v="pizza;italian"/>
+    <tag k="delivery" v="Mo-Su 18:00 - 22:00"/>
+    <tag k="email" v="info@ristoranteconvivio.it"/>
+    <tag k="name" v="Convivio Restaurant &amp; Pizza"/>
+    <tag k="opening_hours" v="Mo-Su 18:00 - 22:00"/>
+    <tag k="phone" v="+39 0172 713417"/>
+    <tag k="website" v="http://www.ristoranteconvivio.it/"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

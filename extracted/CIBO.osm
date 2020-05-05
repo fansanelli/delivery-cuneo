@@ -409,6 +409,18 @@
 		<tag k="name" v="Facrok"/>
 		<tag k="oven" v="electric"/>
 	</node>
+	<node id="6419194732" lat="44.3850197" lon="7.535584">
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:street" v="Via Michele Coppino"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/pizzastore35/"/>
+		<tag k="contact:mobile" v="+39 348 3396935"/>
+		<tag k="contact:phone" v="+39 0171 1711991"/>
+		<tag k="cuisine" v="pizza"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Pizza store"/>
+	</node>
 	<node id="6449165010" lat="44.3895985" lon="7.5388078">
 		<tag k="addr:housenumber" v="2"/>
 		<tag k="addr:street" v="Lungostura Ventiquattro Maggio"/>
@@ -771,5 +783,21 @@
 		<tag k="name" v="Il Nanetto"/>
 		<tag k="opening_hours" v="Mo-Fr 12:30-14:30,19:30-21:30"/>
 		<tag k="operator" v="Il Nanetto Ristorante by Nano S.r.l."/>
+	</node>
+	<node id="7474405894" lat="44.6595999" lon="7.6589097">
+		<tag k="addr:city" v="Savigliano"/>
+		<tag k="addr:housenumber" v="252"/>
+		<tag k="addr:postcode" v="12038"/>
+		<tag k="addr:street" v="Via Torino"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/CONVIVIORestaurantPizza/;https://www.facebook.com/Convivio_restaurant/"/>
+		<tag k="contact:mobile" v="+39 340 8373585"/>
+		<tag k="cuisine" v="pizza;italian"/>
+		<tag k="delivery" v="Mo-Su 18:00 - 22:00"/>
+		<tag k="email" v="info@ristoranteconvivio.it"/>
+		<tag k="name" v="Convivio Restaurant &#38; Pizza"/>
+		<tag k="opening_hours" v="Mo-Su 18:00 - 22:00"/>
+		<tag k="phone" v="+39 0172 713417"/>
+		<tag k="website" v="http://www.ristoranteconvivio.it/"/>
 	</node>
 </osm>

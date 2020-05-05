@@ -66,6 +66,17 @@
 		<tag k="shop" v="hairdresser"/>
 		<tag k="unisex" v="yes"/>
 	</node>
+	<node id="4720799980" lat="44.3905331" lon="7.5482028">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:street" v="Piazza Tancredi Galimberti"/>
+		<tag k="contact:email" v="info@vianoprofumicoltelli.net"/>
+		<tag k="contact:mobile" v="+39 339 7083480"/>
+		<tag k="contact:phone" v="+39 0171 692780"/>
+		<tag k="contact:website" v="http://www.vianoprofumicoltelli.com/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Profumeria Coltelleria Viano"/>
+		<tag k="shop" v="perfumery"/>
+	</node>
 	<node id="5839870389" lat="44.4186901" lon="7.4331295">
 		<tag k="delivery" v="yes"/>
 		<tag k="name" v="Edicola Mandile Simona"/>
