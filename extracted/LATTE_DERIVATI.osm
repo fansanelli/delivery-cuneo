@@ -7,6 +7,7 @@
 		<tag k="phone" v="+39 379 1910431"/>
 	</node>
 	<node id="6166315621" lat="44.3924707" lon="7.5514228">
+		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:street" v="Via Mondovì"/>
 		<tag k="amenity" v="ice_cream"/>
@@ -15,6 +16,7 @@
 		<tag k="contact:phone" v="+39 0171 67296"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Ansaldi"/>
+		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6482395801" lat="44.387329" lon="7.5441792">
 		<tag k="addr:housenumber" v="6a"/>
@@ -26,7 +28,7 @@
 		<tag k="name" v="Crea"/>
 	</node>
 	<node id="7293198123" lat="44.3947601" lon="7.495942">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Ordini tramite whatsapp o telefonando. Consegna su Cuneo e limitrofi. Consegna GRATUITA. Ordine minimo circa 20€."/>
 		<tag k="name" v="Famù negozio"/>
 		<tag k="payment:bancomat" v="yes"/>
@@ -36,7 +38,7 @@
 		<tag k="website" v="http://loyogurtfamu.it"/>
 	</node>
 	<node id="7296221053" lat="44.4171848" lon="7.4272642">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="adjust position"/>
 		<tag k="name" v="La Poiana"/>
 		<tag k="phone" v="+39 0171 619862"/>
@@ -48,7 +50,7 @@
 		<tag k="addr:housenumber" v="157a"/>
 		<tag k="addr:postcode" v="12022"/>
 		<tag k="addr:street" v="Via Tarantasca"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Azienda agricola di Ilaria Ichino - La Capanna"/>
 		<tag k="phone" v="+39 340 998 8783"/>
 		<tag k="shop" v="dairy"/>
@@ -88,7 +90,7 @@
 	<node id="1000000341906477" lat="44.4366133" lon="7.4446192">
 		<tag k="addr:housenumber" v="79"/>
 		<tag k="addr:place" v="Paschera San Defendente"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="direzionecommercialemoris@gmail.com"/>
 		<tag k="landuse" v="farmyard"/>
 		<tag k="name" v="Caseificio Moris"/>

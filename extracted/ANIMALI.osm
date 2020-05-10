@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
 	<node id="6499353521" lat="44.3887067" lon="7.5430707">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Gli Aristogatti"/>
 		<tag k="shop" v="pet"/>
 	</node>
 	<node id="6696896931" lat="44.3757274" lon="7.5202864">
 		<tag k="addr:housenumber" v="46"/>
 		<tag k="addr:street" v="Via Cascina Colombaro"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="info@doggypop.com"/>
 		<tag k="name" v="Doggy pop"/>
 		<tag k="opening_hours" v="Mo-Sa 09:00-12:30,15:00-19:30"/>
@@ -20,7 +20,7 @@
 	</node>
 	<node id="6854806232" lat="44.373301" lon="7.5336947">
 		<tag k="contact:facebook" v="https://www.facebook.com/dogservice.petstore/"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegna in Cuneo e limitrofi."/>
 		<tag k="name" v="Dogservice agricentro"/>
 		<tag k="phone" v="+39 0171 493366"/>
@@ -28,7 +28,7 @@
 	</node>
 	<node id="7284193496" lat="44.3931501" lon="7.5471118">
 		<tag k="contact:facebook" v="https://www.facebook.com/acquarioandpiccolianimali/"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="L&#39;acquario and Piccoli Animali"/>
 		<tag k="phone" v="+39 328 322 4280"/>
 		<tag k="shop" v="pet"/>
@@ -40,7 +40,7 @@
 		<tag k="addr:street" v="Via Laghi di Avigliana"/>
 		<tag k="contact:mobile" v="+39 335 5826732"/>
 		<tag k="contact:phone" v="+39 0171 946080"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="E.Z.A. DeLaval"/>
 		<tag k="shop" v="pet"/>
 		<tag k="website" v="https://www.ezasas.it/"/>

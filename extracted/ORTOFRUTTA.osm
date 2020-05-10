@@ -3,7 +3,7 @@
 	<node id="6140017109" lat="44.3908694" lon="7.5472588">
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:street" v="Via Carlo Pascal"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Ortomercato"/>
 		<tag k="phone" v="+39 0171 602230"/>
 		<tag k="phone:mobile" v="+39 334 8998460"/>
@@ -19,7 +19,7 @@
 		<tag k="shop" v="greengrocer"/>
 	</node>
 	<node id="6360785558" lat="44.3807256" lon="7.540191">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Arcobaleno di frutta"/>
 		<tag k="phone" v="+39 392 5903163"/>
 		<tag k="shop" v="greengrocer"/>
@@ -29,7 +29,7 @@
 		<tag k="addr:housenumber" v="20"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Quintino Sella"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="ilverdurivendolo@gmail.com"/>
 		<tag k="name" v="Il verdurivendolo"/>
 		<tag k="opening_hours" v="Mo,Fr 16:00-19:00; Tu,Th 09:30-13:00,16:00-19:00; Sa 09:30-12:30"/>
@@ -39,14 +39,14 @@
 		<tag k="website" v="http://www.ilverdurivendolo.it/home-page/"/>
 	</node>
 	<node id="6515136405" lat="44.3941244" lon="7.547521">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="ortofruttapignatta@gmail.com"/>
 		<tag k="name" v="Pignatta Bruno"/>
 		<tag k="phone" v="+39 0171 695624"/>
 		<tag k="shop" v="greengrocer"/>
 	</node>
 	<node id="6542694961" lat="44.3816563" lon="7.539126">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="L&#39;orto delle delizie"/>
 		<tag k="phone" v="+39 347 2621977"/>
 		<tag k="shop" v="greengrocer"/>
@@ -63,7 +63,7 @@
 	<node id="6741749290" lat="44.3902972" lon="7.5623854">
 		<tag k="addr:housenumber" v="7"/>
 		<tag k="addr:street" v="Via Bisalta"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Azienda agricola &#34;Il sogno&#34;"/>
 		<tag k="phone" v="+39 0171 401763"/>
 		<tag k="shop" v="greengrocer"/>
@@ -73,7 +73,7 @@
 		<tag k="addr:housenumber" v="9"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Pier Carlo Boggio"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegne gratuite su Cuneo, piccolo contributo per zone limitrofe."/>
 		<tag k="email" v="info@tantecosebuone.it"/>
 		<tag k="name" v="Tante cose buone"/>
@@ -83,7 +83,7 @@
 		<tag k="website" v="https://www.tantecosebuone.it"/>
 	</node>
 	<node id="7296225201" lat="44.4179335" lon="7.4297775">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="adjust position"/>
 		<tag k="name" v="Morra"/>
 		<tag k="phone" v="+39 0171 610359"/>
@@ -94,7 +94,7 @@
 		<tag k="addr:housenumber" v="140"/>
 		<tag k="addr:postcode" v="12022"/>
 		<tag k="addr:street" v="Via Umberto Primo"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Stema"/>
 		<tag k="phone" v="+39 0171 944467"/>
 		<tag k="shop" v="greengrocer"/>
@@ -135,7 +135,7 @@
 		<tag k="addr:housenumber" v="95"/>
 		<tag k="addr:postcode" v="12022"/>
 		<tag k="addr:street" v="Via Antica di Costigliole"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Vini tipici locali, succhi di mela, frutta e verdura di stagione."/>
 		<tag k="landuse" v="farmyard"/>
 		<tag k="name" v="Azienda agricola Fornero Andrea"/>
@@ -146,7 +146,7 @@
 		<tag k="addr:housenumber" v="15"/>
 		<tag k="addr:street" v="Via Traversagna"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/mangiargenuino/"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="landuse" v="farmyard"/>
 		<tag k="name" v="Azienda Agricola Marchisio Pietro"/>
 		<tag k="opening_hours" v="Mo-Th 15:00-19:30; We 09:30-19:30; Sa 09:30-12:30,15:00-19:00"/>

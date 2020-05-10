@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-05-10T10:39:02Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-05-10T18:59:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
@@ -58,6 +58,24 @@
     <tag k="operator" v="Nikko di Zhao Zhijie"/>
     <tag k="phone" v="+39 0171 501962"/>
     <tag k="ref:vatin" v="IT03832770048"/>
+  </node>
+  <node id="1776036865" lat="44.4146611" lon="7.4340372">
+    <tag k="access:covid19" v="yes"/>
+    <tag k="addr:city" v="Caraglio"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="12023"/>
+    <tag k="addr:street" v="Via Comitato Liberazione Nazionale"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="email" v="info@hotel-quadrifoglio.com"/>
+    <tag k="fax" v="+39 0171 817666"/>
+    <tag k="name" v="Hotel Quadrifoglio"/>
+    <tag k="phone" v="+39 0171 817666"/>
+    <tag k="stars" v="3"/>
+    <tag k="takeaway:covid19" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.hotel-quadrifoglio.com/"/>
   </node>
   <node id="1833052866" lat="44.6480426" lon="7.6098996">
     <tag k="amenity" v="restaurant"/>
@@ -123,6 +141,7 @@
     <tag k="shop" v="bakery"/>
   </node>
   <node id="1922721382" lat="44.3913904" lon="7.5484360">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Piazza Seminario"/>
     <tag k="amenity" v="restaurant"/>
@@ -134,9 +153,11 @@
     <tag k="operator" v="Pizzeria Capri di Giordano Emilio e C."/>
     <tag k="phone" v="+39 0171 681904"/>
     <tag k="ref:vatin" v="IT00764810040"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
   </node>
   <node id="1922721427" lat="44.3926824" lon="7.5494958">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="3bis"/>
     <tag k="addr:street" v="Via Dronero"/>
     <tag k="amenity" v="restaurant"/>
@@ -146,6 +167,7 @@
     <tag k="description" v="consegna a Cuneo e comuni limitrofi ordini dal martedì alla domenica"/>
     <tag k="name" v="Osteria Senza Fretta"/>
     <tag k="opening_hours" v="Mo-Tu off; We-Fr 19:30-23:30; Sa-Su 12:30-14:30, 19:30-23:30"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="1922721432" lat="44.3893100" lon="7.5464862">
     <tag k="addr:housenumber" v="2"/>
@@ -180,6 +202,7 @@
     <tag k="shop" v="toys"/>
   </node>
   <node id="1932859597" lat="44.3793215" lon="7.5371446">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="92"/>
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="amenity" v="restaurant"/>
@@ -189,13 +212,17 @@
     <tag k="name" v="Cielo Azzurro"/>
     <tag k="opening_hours" v="Mo 18:00-24:00; Tu-Su 12:00-15:00,18:00-24:00"/>
     <tag k="phone" v="+39 0171 67345"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="1932859601" lat="44.3656243" lon="7.5230803">
+    <tag k="access:covid19" v="yes"/>
+    <tag k="cafe" v="yes"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
     <tag k="name" v="Galfre"/>
     <tag k="phone" v="+39 0171 491758"/>
     <tag k="shop" v="bakery"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="1932859603" lat="44.3786351" lon="7.5364142">
     <tag k="addr:housenumber" v="102"/>
@@ -262,6 +289,7 @@
     <tag k="shop" v="books"/>
   </node>
   <node id="2412584621" lat="44.3940332" lon="7.5559091">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Piazzale Vecchia Stazione"/>
     <tag k="amenity" v="pub"/>
@@ -274,14 +302,16 @@
     <tag k="internet_access:fee" v="no"/>
     <tag k="microbrewery" v="yes"/>
     <tag k="name" v="Birrovia Vecchia Stazione"/>
-    <tag k="opening_hours" v="We, Th 17:00-01:00; Fr 17:00-02:00; Sa 18:00-03:00; Su 18:00-01:00"/>
+    <tag k="opening_hours" v="We,Th 17:00-01:00; Fr 17:00-02:00; Sa 18:00-03:00; Su 18:00-01:00"/>
     <tag k="operator" v="Buffet Stazione Cuneo Gesso"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone:mobile" v="+39 340 8085227"/>
     <tag k="ref:vatin" v="IT03603880042"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="tobacco" v="yes"/>
   </node>
   <node id="2634940001" lat="44.3899953" lon="7.5474621">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="12100"/>
@@ -297,8 +327,10 @@
     <tag k="name" v="Galì"/>
     <tag k="opening_hours" v="Mo-Th,Su 07:00-24:00; Fr,Sa 07:00-02:00"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="2634945051" lat="44.3873442" lon="7.5453672">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="amenity" v="bar"/>
@@ -310,9 +342,11 @@
     <tag k="operator" v="Bar Corso s.n.c. di Basso Marco Giuseppe &amp; C."/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT02293100042"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2639877631" lat="44.3860349" lon="7.5439369">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Corso Dante Alighieri"/>
     <tag k="amenity" v="restaurant"/>
@@ -321,6 +355,7 @@
     <tag k="name" v="Pizzeria Vesuvio"/>
     <tag k="opening_hours" v="Tu,Th-Su 12:00-14:25,18:00-02:10"/>
     <tag k="phone" v="+39 0171 602061"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="2956158078" lat="44.3912934" lon="7.5526704">
     <tag k="addr:housenumber" v="18"/>
@@ -486,6 +521,7 @@
     <tag k="ref:vatin" v="IT02346710045"/>
   </node>
   <node id="3867332869" lat="44.3919899" lon="7.5530630">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
     <tag k="amenity" v="restaurant"/>
@@ -500,8 +536,10 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+39 0171 403308"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="3884561295" lat="44.3912962" lon="7.5634988">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Savona"/>
@@ -510,6 +548,7 @@
     <tag k="contact:mobile" v="+39 349 6003543"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bar barriera"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="3908772443" lat="44.2886304" lon="7.0760249">
     <tag k="addr:city" v="Vinadio"/>
@@ -526,6 +565,7 @@
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4160266589" lat="44.3858044" lon="7.5444019">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Corso Dante Alighieri"/>
     <tag k="amenity" v="restaurant"/>
@@ -535,6 +575,7 @@
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Scugnizzo"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="4196772617" lat="44.3794505" lon="7.5380763">
     <tag k="addr:housenumber" v="1"/>
@@ -591,6 +632,7 @@
     <tag k="start_date" v="2010-09-01"/>
   </node>
   <node id="4520651757" lat="44.4413420" lon="7.5255381">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Roata Rossi"/>
     <tag k="addr:housenumber" v="144"/>
     <tag k="addr:postcode" v="12100"/>
@@ -603,6 +645,7 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Red Village Café"/>
     <tag k="opening_hours" v="Tu-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-12:30,14:30-22:00; Su 08:30-12:00,14:30-20:30"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="tobacco" v="yes"/>
   </node>
   <node id="4635088458" lat="44.5430464" lon="7.4842147"/>
@@ -635,6 +678,7 @@
     <tag k="shop" v="supermarket"/>
   </node>
   <node id="5397122021" lat="44.3857601" lon="7.5442727">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="delivery:covid19" v="yes"/>
@@ -644,33 +688,38 @@
     <tag k="phone" v="+39 345 424 1416"/>
     <tag k="ref:vatin" v="IT03242590044"/>
     <tag k="shop" v="bakery"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="website" v="https://albero.delpane.it"/>
   </node>
   <node id="5397122034" lat="44.3881856" lon="7.5488399">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="contact:mobile" v="+39 335 5890688"/>
+    <tag k="contact:phone" v="+39 0171 693900"/>
     <tag k="cuisine" v="ice_cream"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna per colombe pasquali, uova di cioccolato, pasticceria e gelato, vini. Servizio di prenotazione dalle 10 alle 17"/>
     <tag k="name" v="Bar Gelateria Rondò"/>
     <tag k="opening_hours" v="Mo-Sa 06:00-20:00; Su 07:00-12:30"/>
     <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+39 0171 693900"/>
-    <tag k="phone:mobile" v="+39 335 5890688"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="5402092336" lat="44.3775707" lon="7.5395501">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Medaglie d'Oro"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Pizza-Medaglie-Doro-1437767796484999/"/>
+    <tag k="contact:mobile" v="+39 345 4200669"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Medaglie d'Oro"/>
     <tag k="opening_hours" v="Mo 18:15-23:00; We 12:00-14:00,18:15-23:00; Th-Su 18:15-23:00"/>
-    <tag k="phone" v="+39 345 4200669"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="5402092370" lat="44.3817138" lon="7.5404782">
     <tag k="addr:housenumber" v="1"/>
@@ -694,11 +743,13 @@
     <tag k="shop" v="convenience"/>
   </node>
   <node id="5402092414" lat="44.3664395" lon="7.5237964">
+    <tag k="access:covid19" v="yes"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria del Conte"/>
     <tag k="phone" v="+39 0171 344303"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="5420548585" lat="44.3899647" lon="7.5776326">
     <tag k="addr:housenumber" v="81"/>
@@ -759,6 +810,7 @@
     <tag k="website" v="https://www.saporedimare.it"/>
   </node>
   <node id="6015519457" lat="44.3907096" lon="7.5506688">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Via Peveragno"/>
     <tag k="alt_name" v="Sottosopra"/>
@@ -767,6 +819,7 @@
     <tag k="contact:mobile" v="+39 392 7158394;+39 345 0847193"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Coffee and Good Spirits"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6015526490" lat="44.3906657" lon="7.5503199">
     <tag k="addr:housenumber" v="7"/>
@@ -811,6 +864,7 @@
     <tag k="organic" v="yes"/>
   </node>
   <node id="6032733257" lat="44.3903414" lon="7.5468446">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Via Gustavo Ponza di San Martino"/>
     <tag k="amenity" v="restaurant"/>
@@ -821,18 +875,21 @@
     <tag k="description" v="Il servizio sarà attivo nel comune di Cuneo dal martedì alla domenica Consegna gratuita"/>
     <tag k="name" v="Ristorante Pechino"/>
     <tag k="operator" v="Ristorante Pechino di Chen Wenmin e c. Sas"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6033563131" lat="44.3801215" lon="7.5385062">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="contact:mobile" v="+39 342 0157593"/>
     <tag k="cuisine" v="kebab;pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita per ordini superiori a 9 Euro"/>
     <tag k="name" v="Med Casa del kebap"/>
     <tag k="opening_hours" v="12:00-23:59"/>
     <tag k="oven" v="gas_fired"/>
-    <tag k="phone" v="+39 342 015 7593"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6034734222" lat="44.3895430" lon="7.5470124">
     <tag k="addr:housenumber" v="12"/>
@@ -847,6 +904,7 @@
     <tag k="website" v="http://www.gastronomiagiraudo.it"/>
   </node>
   <node id="6038593234" lat="44.3869137" lon="7.5449442">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Corso Nizza"/>
@@ -856,6 +914,7 @@
     <tag k="cuisine" v="ice_cream"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Sillano"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6058231448" lat="44.3898260" lon="7.5491263">
     <tag k="addr:housenumber" v="1"/>
@@ -1020,6 +1079,7 @@
     <tag k="website" v="http://www.dalmassosnc.it/"/>
   </node>
   <node id="6130371486" lat="44.3926051" lon="7.5500258">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="2b"/>
     <tag k="addr:postcode" v="12100"/>
@@ -1030,6 +1090,7 @@
     <tag k="name" v="Bove's Macellai"/>
     <tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
     <tag k="phone" v="+39 0171 692624"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="website" v="http://www.boves1929.it"/>
   </node>
   <node id="6140017109" lat="44.3908694" lon="7.5472588">
@@ -1068,6 +1129,7 @@
     <tag k="addr:street" v="Via Torino"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="japanese;sushi"/>
+    <tag k="delivery" v="yes"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tokyo Fusion Restaurant"/>
     <tag k="opening_hours" v="Tu-Su 12:00-15:00,19:00-24:00"/>
@@ -1099,6 +1161,7 @@
     <tag k="website" v="https://www.nordgel.it/"/>
   </node>
   <node id="6166315621" lat="44.3924707" lon="7.5514228">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Via Mondovì"/>
     <tag k="amenity" v="ice_cream"/>
@@ -1107,8 +1170,10 @@
     <tag k="contact:phone" v="+39 0171 67296"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Ansaldi"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6170776614" lat="44.3840423" lon="7.5411894">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Piazza Europa"/>
     <tag k="amenity" v="bar"/>
@@ -1118,6 +1183,7 @@
     <tag k="name" v="Cuba"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 0171 693968"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="website" v="https://www.relaiscubaonline.com/"/>
   </node>
   <node id="6170876933" lat="44.3909481" lon="7.5495134">
@@ -1242,6 +1308,7 @@
     <tag k="shop" v="florist"/>
   </node>
   <node id="6188040642" lat="44.3877159" lon="7.5453774">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Via Ventotto Aprile"/>
     <tag k="cafe" v="yes"/>
@@ -1250,8 +1317,10 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Piaceri al cubo"/>
     <tag k="shop" v="pastry"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6188040643" lat="44.3878666" lon="7.5450764">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Via Ventotto Aprile"/>
     <tag k="amenity" v="cafe"/>
@@ -1259,8 +1328,10 @@
     <tag k="contact:mobile" v="+39 392 2836557"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il mondo del caffè"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6201523711" lat="44.3910114" lon="7.5489401">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Vicolo Cattedrale"/>
     <tag k="amenity" v="pub"/>
@@ -1275,6 +1346,7 @@
     <tag k="oven" v="no"/>
     <tag k="phone:mobile" v="+39 339 5865036"/>
     <tag k="ref:vatin" v="IT03773800044"/>
+    <tag k="takeaway:covid19" v="yes"/>
     <tag k="website" v="https://infernotto.pub"/>
   </node>
   <node id="6220848366" lat="44.3912151" lon="7.5497127">
@@ -1402,6 +1474,7 @@
     <tag k="shop" v="pasta"/>
   </node>
   <node id="6282548560" lat="44.3943042" lon="7.5526417">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="restaurant"/>
@@ -1411,6 +1484,7 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Trattoria Roma"/>
     <tag k="operator" v="Trattoria Roma di Brizio Annalisa"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6290787051" lat="44.3756062" lon="7.5331994">
     <tag k="addr:housenumber" v="12"/>
@@ -1423,11 +1497,13 @@
     <tag k="website" v="http://www.fattoriebovingrana.com"/>
   </node>
   <node id="6298798509" lat="44.3869182" lon="7.5445247">
+    <tag k="access:covid19" v="yes"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizza Flash"/>
     <tag k="phone" v="+39 0171 630775"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6305822228" lat="44.4940793" lon="7.5423110">
     <tag k="addr:city" v="Tarantasca"/>
@@ -1498,6 +1574,7 @@
     <tag k="shop" v="copyshop"/>
   </node>
   <node id="6328565005" lat="44.3856033" lon="7.5429300">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Via Sebastiano Grandis"/>
     <tag k="cafe" v="yes"/>
@@ -1506,6 +1583,7 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Chocolat d'art"/>
     <tag k="shop" v="pastry"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6342617252" lat="44.3887965" lon="7.5502015">
     <tag k="addr:housenumber" v="15bis"/>
@@ -1539,6 +1617,7 @@
     <tag k="phone" v="+39 339 2429445"/>
   </node>
   <node id="6358638318" lat="44.3859932" lon="7.5432528">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="33a"/>
     <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
     <tag k="amenity" v="cafe"/>
@@ -1546,6 +1625,7 @@
     <tag k="contact:mobile" v="+39 373 7622399"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Dama 3 Cafè"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6360785558" lat="44.3807256" lon="7.5401910">
     <tag k="delivery:covid19" v="yes"/>
@@ -1554,14 +1634,18 @@
     <tag k="shop" v="greengrocer"/>
   </node>
   <node id="6372022531" lat="44.3892041" lon="7.5499488">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:street" v="Via Alba"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/scrokcuneo/"/>
     <tag k="contact:phone" v="+39 0171 332666"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Facrok"/>
     <tag k="oven" v="electric"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6373575518" lat="44.3863410" lon="7.5395002">
     <tag k="addr:housenumber" v="26"/>
@@ -1649,6 +1733,7 @@
     <tag k="shop" v="musical_instrument"/>
   </node>
   <node id="6433717642" lat="44.3882180" lon="7.5378782">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:postcode" v="12100"/>
@@ -1662,6 +1747,7 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Dotta Caffè"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6433717643" lat="44.3877362" lon="7.5380134">
     <tag k="delivery:covid19" v="yes"/>
@@ -1670,6 +1756,7 @@
     <tag k="shop" v="printer_ink"/>
   </node>
   <node id="6449165010" lat="44.3895985" lon="7.5388078">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Lungostura Ventiquattro Maggio"/>
     <tag k="amenity" v="restaurant"/>
@@ -1681,6 +1768,7 @@
     <tag k="operator" v="Terza Classe Sas di Bertola Alex e C."/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:satispay" v="yes"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6466198055" lat="44.3826094" lon="7.5415535">
     <tag k="addr:city" v="Cuneo"/>
@@ -1714,6 +1802,7 @@
     <tag k="shop" v="shoes"/>
   </node>
   <node id="6468199496" lat="44.3882794" lon="7.5443044">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Via Venti Settembre"/>
     <tag k="amenity" v="restaurant"/>
@@ -1727,6 +1816,7 @@
     <tag k="opening_hours" v="12:00-15:00, 19:00-23:00"/>
     <tag k="operator" v="Saluzzo Food s.r.l."/>
     <tag k="ref:vatin" v="IT03707040048"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6482395801" lat="44.3873290" lon="7.5441792">
     <tag k="addr:housenumber" v="6a"/>
@@ -1760,6 +1850,7 @@
     <tag k="phone" v="+39 346 1212656"/>
   </node>
   <node id="6542571364" lat="44.3907850" lon="7.5493473">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="fast_food"/>
@@ -1769,6 +1860,7 @@
     <tag k="cuisine" v="piadina"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alla piada"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6542694961" lat="44.3816563" lon="7.5391260">
     <tag k="delivery:covid19" v="yes"/>
@@ -1843,6 +1935,7 @@
     <tag k="shop" v="bakery"/>
   </node>
   <node id="6549851145" lat="44.3910935" lon="7.5703842">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:street" v="Via Savona"/>
     <tag k="amenity" v="bar"/>
@@ -1851,8 +1944,10 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Cit Ma Bel"/>
     <tag k="operator" v="Cit Ma Bel Ettore e Margherita Ristorante"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6565728579" lat="44.3928469" lon="7.5513522">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="contact:email" v="cuneo@101caffe.it"/>
@@ -1860,6 +1955,7 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="101 caffè"/>
     <tag k="shop" v="coffee"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6578445381" lat="44.3935395" lon="7.5491870">
     <tag k="addr:housenumber" v="16"/>
@@ -1871,14 +1967,17 @@
     <tag k="shop" v="beauty"/>
   </node>
   <node id="6578471478" lat="44.3917713" lon="7.5488246">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Via Caraglio"/>
     <tag k="contact:mobile" v="+39 339 1366315;+39 328 0648540"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Al 37"/>
     <tag k="shop" v="wine"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6578479212" lat="44.3939531" lon="7.5509297">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Via Santa Maria"/>
     <tag k="contact:email" v="pasticceriabotasso@gmail.com"/>
@@ -1889,6 +1988,7 @@
     <tag k="name" v="Pasticceria Botasso"/>
     <tag k="opening_hours" v="Tu-Su 08:00-13:00,15:00-20:00"/>
     <tag k="shop" v="pastry"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6578479217" lat="44.3939953" lon="7.5508912">
     <tag k="contact:mobile" v="+39 340 9774923"/>
@@ -1956,6 +2056,7 @@
     <tag k="shop" v="pastry"/>
   </node>
   <node id="6604821038" lat="44.3944695" lon="7.5518678">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Via Sette Assedi"/>
     <tag k="amenity" v="restaurant"/>
@@ -1964,6 +2065,7 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="consegne a Cuneo e dintorni, dal giovedì alla domenica, dalle 19.00 alle 21.30"/>
     <tag k="name" v="Passione pizza"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6611818413" lat="44.3904522" lon="7.5492236">
     <tag k="addr:housenumber" v="1b"/>
@@ -2073,6 +2175,7 @@
     <tag k="shop" v="convenience"/>
   </node>
   <node id="6741749289" lat="44.3900507" lon="7.5618159">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Via Bisalta"/>
     <tag k="amenity" v="restaurant"/>
@@ -2082,6 +2185,7 @@
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Mariposa"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6741749290" lat="44.3902972" lon="7.5623854">
     <tag k="addr:housenumber" v="7"/>
@@ -2182,11 +2286,13 @@
     <tag k="shop" v="medical_supply"/>
   </node>
   <node id="6855588409" lat="44.3659629" lon="7.5233632">
+    <tag k="access:covid19" v="yes"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Franchino"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 0171 491345"/>
     <tag k="shop" v="pastry"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="6872671494" lat="44.3874961" lon="7.5408009">
     <tag k="addr:housenumber" v="1"/>
@@ -2280,6 +2386,7 @@
     <tag k="shop" v="butcher"/>
   </node>
   <node id="7023831613" lat="44.3790209" lon="7.5728644">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Via Roata Canale"/>
     <tag k="contact:mobile" v="+39 377 0220720"/>
@@ -2289,6 +2396,7 @@
     <tag k="description" v="Ordini almeno il giorno prima della consegna"/>
     <tag k="name" v="Pasticceria Zucco"/>
     <tag k="shop" v="pastry"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="7025530252" lat="44.4183491" lon="7.4310147">
     <tag k="addr:housenumber" v="171"/>
@@ -2314,6 +2422,7 @@
     <tag k="website" v="https://www.bioetik.net/it/"/>
   </node>
   <node id="7041920027" lat="44.4324071" lon="7.5068911">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="230"/>
     <tag k="addr:street" v="Via della Battaglia"/>
     <tag k="amenity" v="restaurant"/>
@@ -2322,8 +2431,10 @@
     <tag k="name" v="La Pantalera"/>
     <tag k="opening_hours" v="Mo-Sa 19:00-23:30; Su 12:00-15:00,19:00-23:00"/>
     <tag k="phone" v="+39 0171 682941"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="7042005302" lat="44.3931678" lon="7.5198404">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Via Marmora"/>
     <tag k="amenity" v="restaurant"/>
@@ -2333,6 +2444,7 @@
     <tag k="cuisine" v="friture;fish;pizza"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Al Pepito"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="7062074241" lat="44.4189429" lon="7.4328942">
     <tag k="addr:city" v="Caraglio"/>
@@ -2607,15 +2719,17 @@
     <tag k="website" v="http://loyogurtfamu.it"/>
   </node>
   <node id="7293205170" lat="44.3799923" lon="7.5461677">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Viale degli Angeli"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+39 339 7374519"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Telefonate per sapere la proposta del giorno!"/>
     <tag k="name" v="La Novella"/>
-    <tag k="phone" v="+39 339 7374519"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="7294607767" lat="44.4224249" lon="7.5436470">
     <tag k="addr:housenumber" v="139"/>
@@ -3011,6 +3125,7 @@
     <tag k="shop" v="pastry"/>
   </node>
   <node id="7312243220" lat="44.3784200" lon="7.5733047">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Spinetta"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="12100"/>
@@ -3022,6 +3137,7 @@
     <tag k="name" v="C'era una volta"/>
     <tag k="opening_hours" v="Fr,Sa 18:00-22:30; Su 18:00-22:00"/>
     <tag k="phone" v="+39 0171 403584"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="7312771210" lat="44.6454210" lon="7.6568095">
     <tag k="delivery" v="yes"/>
@@ -3573,6 +3689,7 @@
     <tag k="shop" v="clothes"/>
   </node>
   <node id="7415053014" lat="44.4223377" lon="7.5440492">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:street" v="Via Valle Po"/>
     <tag k="amenity" v="cafe"/>
@@ -3581,6 +3698,7 @@
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il Podio Cafè"/>
     <tag k="operator" v="Bertero Mirella"/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <node id="7415127960" lat="44.3669057" lon="7.5242843">
     <tag k="addr:housenumber" v="96"/>
@@ -3713,6 +3831,17 @@
     <tag k="phone" v="+39 393 9140319"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7504176465" lat="44.3702397" lon="7.5355924">
+    <tag k="access:covid19" v="yes"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Via Luigi Teresio Cavallo"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/CentroCuneo2/"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="name" v="Centro"/>
+    <tag k="operator" v="Pumaro' 72 S.N.C."/>
+    <tag k="takeaway:covid19" v="yes"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>

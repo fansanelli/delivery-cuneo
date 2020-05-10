@@ -5,7 +5,7 @@
 		<tag k="addr:housenumber" v="16"/>
 		<tag k="addr:postcode" v="12023"/>
 		<tag k="addr:street" v="Piazza Cavour"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="calzature.giraudo@gmail.com"/>
 		<tag k="name" v="Giraudo Calzature"/>
 		<tag k="operator" v="Giraudo Mara"/>
@@ -42,7 +42,7 @@
 		<tag k="addr:street" v="Piazza Europa"/>
 		<tag k="clothes" v="underwear"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/bruna.intimomerceria/"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bruna"/>
 		<tag k="shop" v="clothes"/>
 	</node>
@@ -56,7 +56,7 @@
 	<node id="6269281647" lat="44.3926938" lon="7.5511563">
 		<tag k="addr:housenumber" v="25"/>
 		<tag k="addr:street" v="Via Roma"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Abbigliamento 8-18 anni"/>
 		<tag k="email" v="puntoevirgola1@gmail.com"/>
 		<tag k="name" v="Fashion Punto e Virgola"/>
@@ -131,7 +131,7 @@
 	<node id="6578479217" lat="44.3939953" lon="7.5508912">
 		<tag k="contact:mobile" v="+39 340 9774923"/>
 		<tag k="contact:phone" v="+39 0171 695565"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegna gratuita."/>
 		<tag k="name" v="Sandra Calzature"/>
 		<tag k="shop" v="shoes"/>
@@ -146,7 +146,7 @@
 	</node>
 	<node id="6673724204" lat="44.3479457" lon="7.5078869">
 		<tag k="clothes" v="underwear"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Intimania"/>
 		<tag k="shop" v="clothes"/>
 	</node>
@@ -167,7 +167,7 @@
 		<tag k="addr:street" v="Piazza Garibaldi"/>
 		<tag k="clothes" v="children"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/PuntoeVirgolaCaraglio/"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Nato per soddisfare le esigenze dei più piccoli dalla prima infanzia e abitini fino ai 7 anni. Con il tempo è cresciuto con abbigliamento fino ai 18 anni!"/>
 		<tag k="name" v="Punto e Virgola"/>
 		<tag k="opening_hours" v="Tu-Sa 09:00-12:30,15:30-19:30; Su 09:00-12:30"/>
@@ -178,7 +178,7 @@
 		<tag k="shop" v="clothes"/>
 	</node>
 	<node id="7296142267" lat="44.4176874" lon="7.4288578">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="adjust position"/>
 		<tag k="name" v="L&#39;intimo"/>
 		<tag k="operator" v="Delfino Antonella"/>

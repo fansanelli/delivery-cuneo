@@ -14,7 +14,7 @@
 		<tag k="addr:housenumber" v="47"/>
 		<tag k="addr:postcode" v="12023"/>
 		<tag k="addr:street" v="Via Cesare Battisti"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Fiori di Pesco"/>
 		<tag k="operator" v="Cinzia Ghibaudo"/>
 		<tag k="phone" v="+39 0171 610300"/>
@@ -26,7 +26,7 @@
 		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
 		<tag k="contact:email" v="cuneo@fiorito.net"/>
 		<tag k="contact:phone" v="+39 0171 66650"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegniamo fiori e piante a domicilio a Cuneo e dintorni."/>
 		<tag k="name" v="Fiorito Cuneo"/>
 		<tag k="payment:cash" v="yes"/>
@@ -51,20 +51,20 @@
 		<tag k="addr:housenumber" v="36"/>
 		<tag k="addr:postcode" v="12023"/>
 		<tag k="addr:street" v="Via Bernezzo"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Tuttanatura Fiori e Piante"/>
 		<tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:30-20:00"/>
 		<tag k="phone:mobile" v="+39 348 5919192"/>
 		<tag k="shop" v="garden_centre"/>
 	</node>
 	<node id="6832293603" lat="44.4131859" lon="7.5505367">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Clorofilla"/>
 		<tag k="phone" v="+39 349 1360179"/>
 		<tag k="shop" v="florist"/>
 	</node>
 	<node id="7296234972" lat="44.4171342" lon="7.4266143">
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="adjust position"/>
 		<tag k="name" v="Debora Fiori"/>
 		<tag k="phone:mobile" v="+39 346 5127411"/>

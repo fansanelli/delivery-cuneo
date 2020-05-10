@@ -5,34 +5,39 @@
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:postcode" v="12020"/>
 		<tag k="addr:street" v="Via Vittorio Veneto"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="L&#39;Angolo del Pane Panetteria e Alimentari"/>
 		<tag k="phone" v="+39 339 6811887"/>
 		<tag k="shop" v="bakery"/>
 	</node>
 	<node id="1932859601" lat="44.3656243" lon="7.5230803">
-		<tag k="delivery" v="yes"/>
+		<tag k="access:covid19" v="yes"/>
+		<tag k="cafe" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
 		<tag k="name" v="Galfre"/>
 		<tag k="phone" v="+39 0171 491758"/>
 		<tag k="shop" v="bakery"/>
+		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="5397122021" lat="44.3857601" lon="7.5442727">
+		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="27"/>
 		<tag k="addr:street" v="Corso Nizza"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="info@albero.delpane.it"/>
 		<tag k="name" v="L&#39;albero del pane"/>
 		<tag k="operator" v="Ateliers Nicolas Srl"/>
 		<tag k="phone" v="+39 345 424 1416"/>
 		<tag k="ref:vatin" v="IT03242590044"/>
 		<tag k="shop" v="bakery"/>
+		<tag k="takeaway:covid19" v="yes"/>
 		<tag k="website" v="https://albero.delpane.it"/>
 	</node>
 	<node id="5420548585" lat="44.3899647" lon="7.5776326">
 		<tag k="addr:housenumber" v="81"/>
 		<tag k="addr:street" v="Via Savona"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="info@albero.delpane.it"/>
 		<tag k="name" v="L&#39;Albero del Pane"/>
 		<tag k="phone" v="+39 0171 348240"/>
@@ -40,12 +45,14 @@
 		<tag k="website" v="https://albero.delpane.it"/>
 	</node>
 	<node id="6070278795" lat="44.3792639" lon="7.5313218">
+		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="26"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Corso Antonio Gramsci"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il Forno Nuovo S.n.c."/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="operator" v="Il Forno Nuovo S.n.c. di Bruno Mario e figli"/>
 		<tag k="phone" v="+39 0171 692048"/>
 		<tag k="ref:vatin" v="IT03638010045"/>
@@ -62,7 +69,7 @@
 	<node id="6124666867" lat="44.3855735" lon="7.5435524">
 		<tag k="addr:housenumber" v="40"/>
 		<tag k="addr:street" v="Corso Nizza"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il fornaio"/>
 		<tag k="operator" v="Buccaresi Enrico"/>
 		<tag k="phone" v="+39 0171 692432"/>
@@ -73,7 +80,7 @@
 		<tag k="addr:housenumber" v="10"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Michele Coppino"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegna a domicilio su Cuneo."/>
 		<tag k="name" v="Alimentari e Pane di Laugero Silvana"/>
 		<tag k="phone" v="+39 0171 602533"/>
@@ -82,7 +89,7 @@
 	<node id="6358397064" lat="44.3861275" lon="7.5389712">
 		<tag k="addr:housenumber" v="25"/>
 		<tag k="addr:street" v="Corso Giovanni Giolitti"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il fornaio"/>
 		<tag k="operator" v="Buccaresi Enrico"/>
 		<tag k="phone" v="+39 0171 692432"/>
@@ -99,7 +106,7 @@
 	<node id="6542713175" lat="44.3827452" lon="7.5371071">
 		<tag k="addr:housenumber" v="15"/>
 		<tag k="addr:street" v="Corso Galileo Ferraris"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il fornaio di Galfrè"/>
 		<tag k="phone" v="+39 0171 603614"/>
 		<tag k="shop" v="bakery"/>
@@ -107,7 +114,7 @@
 	<node id="6547688235" lat="44.3795386" lon="7.5424891">
 		<tag k="addr:housenumber" v="12"/>
 		<tag k="addr:street" v="Corso Vittorio Emanuele Secondo"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="operator" v="Garnerone Marco"/>
 		<tag k="phone" v="+39 346 6764181"/>
 		<tag k="shop" v="bakery"/>
@@ -116,7 +123,7 @@
 		<tag k="addr:housenumber" v="7b"/>
 		<tag k="addr:street" v="Via Cesare Battisti"/>
 		<tag k="contact:instagram" v="milonepaneedolci"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="info@milonepanedolci.com"/>
 		<tag k="name" v="Milone Pane &#38; Dolci"/>
 		<tag k="opening_hours" v="Mo-We,Fr,Sa 06:30-13:00,15:30-19:30; Su 06:30-13:00"/>
@@ -131,7 +138,7 @@
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Antica di Busca"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/Meinero-Panetteria-Pasticceria-201659636685892/"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Meinero Panetteria Pasticceria"/>
 		<tag k="opening_hours" v="Mo-Sa 07:15-13:00,15:30-19:45"/>
 		<tag k="phone" v="+39 0171 689022"/>
@@ -140,7 +147,7 @@
 	<node id="7294607767" lat="44.4224249" lon="7.543647">
 		<tag k="addr:housenumber" v="139"/>
 		<tag k="addr:street" v="Via Valle Po"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Molino Squillario"/>
 		<tag k="operator" v="Molino Squillario di Squillario Andrea e C. snc"/>
@@ -151,7 +158,7 @@
 	<node id="7303960737" lat="44.3994661" lon="7.5553243">
 		<tag k="addr:housenumber" v="15"/>
 		<tag k="addr:street" v="Via Basse San Sebastiano"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Vendita Farine - consegne dalle ore 8 alle 12 e dalle 14 alle 18"/>
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Molino Mettone"/>
@@ -167,7 +174,7 @@
 		<tag k="addr:postcode" v="12022"/>
 		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/panetteriaantichisaporibusca"/>
-		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Antichi Sapori"/>
 		<tag k="phone" v="+39 0171 944273"/>
