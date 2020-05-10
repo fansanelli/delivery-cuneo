@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.1004 6cd3eaec">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-05-05T17:05:03Z" areas="2020-03-06T11:03:01Z"/>
+<meta osm_base="2020-05-10T10:39:02Z" areas="2020-03-06T11:03:01Z"/>
 
   <node id="1537464582" lat="44.4170723" lon="7.4280646">
     <tag k="addr:city" v="Caraglio"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Piazza Cavour"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="calzature.giraudo@gmail.com"/>
     <tag k="name" v="Giraudo Calzature"/>
     <tag k="operator" v="Giraudo Mara"/>
@@ -25,7 +25,7 @@
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Piazza Cavour"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Cornelio"/>
     <tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:00-19:30; Su 08:30-12:20"/>
@@ -74,7 +74,7 @@
     <tag k="addr:street" v="Via Circonvallazione"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian;fish;pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il Pianeta 2000 Ristorante Pizzeria"/>
     <tag k="phone" v="+39 0171 931858"/>
   </node>
@@ -83,7 +83,7 @@
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Luigi Pirandello"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Barbero Ferramenta di Fabrizio Barbero"/>
     <tag k="phone" v="+39 0171 931541"/>
     <tag k="shop" v="hardware"/>
@@ -94,7 +94,7 @@
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Fanizza"/>
     <tag k="operator" v="Fanizza"/>
@@ -107,7 +107,7 @@
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Centallo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alimentari Market di Barbara Lombardo"/>
     <tag k="phone" v="+39 339 4418950"/>
     <tag k="shop" v="convenience"/>
@@ -117,7 +117,7 @@
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="L'Angolo del Pane Panetteria e Alimentari"/>
     <tag k="phone" v="+39 339 6811887"/>
     <tag k="shop" v="bakery"/>
@@ -157,10 +157,12 @@
     <tag k="shop" v="pasta"/>
   </node>
   <node id="1922721564" lat="44.3915224" lon="7.5481737">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Via Seminario"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Macelleria Cavallo"/>
+    <tag k="opening_hours:covid19" v="open"/>
     <tag k="operator" v="Macellerie Fratelli Cavallo di Cavallo Mauro e C. s.n.c."/>
     <tag k="phone" v="+39 0171 693002"/>
     <tag k="ref:vatin" v="IT00662860048"/>
@@ -189,7 +191,7 @@
     <tag k="phone" v="+39 0171 67345"/>
   </node>
   <node id="1932859601" lat="44.3656243" lon="7.5230803">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegne a domicilio su Cuneo città. Tutti i giorni dalle 12:30 alle 13:30."/>
     <tag k="name" v="Galfre"/>
     <tag k="phone" v="+39 0171 491758"/>
@@ -208,8 +210,8 @@
     <tag k="name" v="Pizzeria Il Portico"/>
   </node>
   <node id="1965797379" lat="44.3957483" lon="7.4913901">
-    <tag k="delivery" v="yes"/>
-    <tag k="description" v="Offre il servizio di consegna gratuita della spesa in Cuneo città e zone limitrofe.  Inviare l'ordine il più possibile via e-mail completo di nome, cognome, indirizzo, telefono e modalità di pagamento preferita."/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Offre il servizio di consegna gratuita della spesa in Cuneo città e zone limitrofe. Inviare l'ordine il più possibile via e-mail completo di nome, cognome, indirizzo, telefono e modalità di pagamento preferita."/>
     <tag k="email" v="info@lafattoria1946.com"/>
     <tag k="name" v="La Fattoria"/>
     <tag k="opening_hours" v="Mo 08:50-12:50,16:10-19:30; Tu,We,Fr 08:50-12:20,16:00-19:30; Th 08:20-12:50; Sa 08:20-12:50,15:50-19:30"/>
@@ -220,7 +222,7 @@
   <node id="1970779039" lat="44.3808732" lon="7.5392157">
     <tag k="addr:housenumber" v="61a"/>
     <tag k="addr:street" v="Corso Nizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="cuneo@prink.it"/>
     <tag k="name" v="Prink"/>
     <tag k="operator" v="Aleki SNC di Sala Alessio Gianelio &amp; C."/>
@@ -244,13 +246,13 @@
     <tag k="contact:email" v="il.veliero@hotmail.com"/>
     <tag k="contact:mobile" v="+39 340 6799042"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Il Veliero"/>
   </node>
   <node id="2412584584" lat="44.3839017" lon="7.5425490">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Piazza Europa"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00"/>
     <tag k="name" v="L'Ippogrifo"/>
     <tag k="payment:paypal" v="yes"/>
@@ -265,7 +267,7 @@
     <tag k="amenity" v="pub"/>
     <tag k="authorization" v="37"/>
     <tag k="contact:facebook" v="https://www.facebook.com/BirroviaCuneo/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="La Birrovia è un mondo di sapori, odori, sensazioni, cultura, svago, convivialità, arrivi e partenze. Fai capolino ed unisciti al viaggio!"/>
     <tag k="email" v="michelet1971@icloud.com"/>
     <tag k="internet_access" v="wlan"/>
@@ -303,7 +305,7 @@
     <tag k="contact:mobile" v="+39 333 4988405"/>
     <tag k="contact:phone" v="+39 0171 602014"/>
     <tag k="cuisine" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il Corso"/>
     <tag k="operator" v="Bar Corso s.n.c. di Basso Marco Giuseppe &amp; C."/>
     <tag k="outdoor_seating" v="yes"/>
@@ -315,7 +317,7 @@
     <tag k="addr:street" v="Corso Dante Alighieri"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Vesuvio"/>
     <tag k="opening_hours" v="Tu,Th-Su 12:00-14:25,18:00-02:10"/>
     <tag k="phone" v="+39 0171 602061"/>
@@ -345,7 +347,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia San Lorenzo"/>
     <tag k="operator" v="S. Lorenzo"/>
@@ -361,7 +363,7 @@
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="no"/>
     <tag k="name" v="Parafarmacia Dott.ssa Molineris"/>
     <tag k="operator" v="Parafarmacia Molineris Dott.ssa Sonia"/>
@@ -374,7 +376,7 @@
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="agrarian" v="feed;seed"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="El Granatin di Enzo Corrado"/>
     <tag k="shop" v="agrarian"/>
   </node>
@@ -382,7 +384,7 @@
     <tag k="addr:city" v="Tarantasca"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alimentari Tiziana Giuliano"/>
     <tag k="phone" v="+39 339 3105042"/>
     <tag k="shop" v="convenience"/>
@@ -394,13 +396,13 @@
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian;pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Saloon City"/>
     <tag k="operator" v="Lingua Alfio"/>
     <tag k="phone" v="+39 331 749 5727"/>
   </node>
   <node id="3474970217" lat="44.4192099" lon="7.4326748">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Sadonio Alimentari"/>
     <tag k="operator" v="Elio Sadonio"/>
     <tag k="phone" v="+39 333 2611175"/>
@@ -412,7 +414,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:facebook" v="https://www.facebook.com/www.ristorantepizzeriatavernaparadiso.it/"/>
     <tag k="cuisine" v="pizza;italian"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@tavernaparadiso.it"/>
     <tag k="name" v="Pizzeria Taverna Paradiso"/>
     <tag k="payment:american_express" v="yes"/>
@@ -429,7 +431,7 @@
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Via Cesare Battisti"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Fiori di Pesco"/>
     <tag k="operator" v="Cinzia Ghibaudo"/>
     <tag k="phone" v="+39 0171 610300"/>
@@ -449,7 +451,7 @@
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="contact:facebook" v="https://www.facebook.com/PasticceriaPaganessiCaraglio/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="pasticceria.paganessi@gmail.com"/>
     <tag k="name" v="Pasticceria Paganessi"/>
     <tag k="opening_hours" v="Tu 07:15-12:30,14:30-20:00; We 07:30-12:30,12:30-20:00; Th 07:30-12:30,14:30-20:00; Fr 07:30-12:30,14:30-20:00; Sa 07:30-13:00,15:30-20:00; Su 07:30-13:00"/>
@@ -464,7 +466,7 @@
     <tag k="shop" v="pastry"/>
   </node>
   <node id="3496506663" lat="44.4171192" lon="7.4270728">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Macelleria Serra"/>
     <tag k="phone" v="+39 0171 619105"/>
     <tag k="shop" v="butcher"/>
@@ -475,7 +477,7 @@
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Di Marco"/>
     <tag k="operator" v="Farmacia di Di Marco Rosella e C. S.A.S."/>
@@ -549,7 +551,7 @@
   <node id="4472819038" lat="44.5147184" lon="7.4729824">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizza &amp; Fantasia"/>
     <tag k="phone" v="+39 0171 946013"/>
     <tag k="takeaway" v="yes"/>
@@ -560,7 +562,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="email" v="farmaciaabratebusca@gmail.com"/>
     <tag k="name" v="Farmacia Abrate"/>
@@ -578,7 +580,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="yes"/>
     <tag k="name" v="Farmacia Favro"/>
     <tag k="operator" v="Favro Paolo"/>
@@ -625,7 +627,7 @@
     <tag k="addr:housenumber" v="139ter"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Valle Po"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="cidas_cuneo@virgilio.it"/>
     <tag k="name" v="Cidas"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-12:30,15:00-19:00"/>
@@ -635,7 +637,7 @@
   <node id="5397122021" lat="44.3857601" lon="7.5442727">
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Corso Nizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@albero.delpane.it"/>
     <tag k="name" v="L'albero del pane"/>
     <tag k="operator" v="Ateliers Nicolas Srl"/>
@@ -649,7 +651,7 @@
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
     <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna per colombe pasquali, uova di cioccolato, pasticceria e gelato, vini. Servizio di prenotazione dalle 10 alle 17"/>
     <tag k="name" v="Bar Gelateria Rondò"/>
     <tag k="opening_hours" v="Mo-Sa 06:00-20:00; Su 07:00-12:30"/>
@@ -665,7 +667,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Pizza-Medaglie-Doro-1437767796484999/"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria Medaglie d'Oro"/>
     <tag k="opening_hours" v="Mo 18:15-23:00; We 12:00-14:00,18:15-23:00; Th-Su 18:15-23:00"/>
     <tag k="phone" v="+39 345 4200669"/>
@@ -673,7 +675,7 @@
   <node id="5402092370" lat="44.3817138" lon="7.5404782">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Via Luigi Negrelli"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="centroacusticocn@libero.it"/>
     <tag k="name" v="Centro Acustico Piemontese"/>
     <tag k="operator" v="Centro Acustico Piemontese Snc"/>
@@ -685,7 +687,7 @@
     <tag k="addr:housenumber" v="80"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Corso Nizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="delivery_point:access" v="yes"/>
     <tag k="name" v="L'Angolo alimentare"/>
     <tag k="phone" v="+39 0171 696139"/>
@@ -694,14 +696,14 @@
   <node id="5402092414" lat="44.3664395" lon="7.5237964">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizzeria del Conte"/>
     <tag k="phone" v="+39 0171 344303"/>
   </node>
   <node id="5420548585" lat="44.3899647" lon="7.5776326">
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:street" v="Via Savona"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@albero.delpane.it"/>
     <tag k="name" v="L'Albero del Pane"/>
     <tag k="phone" v="+39 0171 348240"/>
@@ -729,7 +731,7 @@
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="contact:facebook" v="https://www.facebook.com/alessiasottileparafarmacia/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="no"/>
     <tag k="name" v="Parafarmacia Alessia Sottile"/>
     <tag k="operator" v="Parafarmacia Sottile"/>
@@ -738,19 +740,19 @@
     <tag k="ref:vatin" v="IT03525710046"/>
   </node>
   <node id="5839870389" lat="44.4186901" lon="7.4331295">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Edicola Mandile Simona"/>
     <tag k="phone:mobile" v="+39 339 2531361"/>
     <tag k="shop" v="tobacco"/>
   </node>
   <node id="5843603120" lat="44.3308624" lon="7.4877099">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Borgomarket"/>
     <tag k="shop" v="convenience"/>
   </node>
   <node id="5967741748" lat="44.3800648" lon="7.5259808">
     <tag k="addr:street" v="Via Cascina Colombaro"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Sapore di Mare"/>
     <tag k="nohousenumber" v="yes"/>
     <tag k="shop" v="seafood"/>
@@ -787,7 +789,7 @@
     <tag k="addr:street" v="Via Santa Maria"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="japanese;sushi"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Kombu"/>
     <tag k="opening_hours" v="Mo 18:30-22:30; Tu-Sa 12:30-14:30,18:30-23:00; Su 18:30-23:00"/>
     <tag k="phone" v="+39 0171 605615"/>
@@ -825,7 +827,7 @@
     <tag k="addr:street" v="Corso Nizza"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="kebab;pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita per ordini superiori a 9 Euro"/>
     <tag k="name" v="Med Casa del kebap"/>
     <tag k="opening_hours" v="12:00-23:59"/>
@@ -835,7 +837,7 @@
   <node id="6034734222" lat="44.3895430" lon="7.5470124">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Per agevolare i clienti hanno attivato un servizio di prenotazione online per i prodotti di gastronomia: potete scaricare l'app dall'Apple Store e da Google Play oppure ordinare tramite il sito. Resta valida la telefonata diretta."/>
     <tag k="email" v="gastronomia@drogheriagiraudo.it"/>
     <tag k="name" v="Drogheria Giraudo"/>
@@ -859,8 +861,8 @@
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
     <tag k="contact:email" v="mondadori.cuneostore@gmail.com"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="description" v="Scrivi una mail indicando i titoli desiderati e l'indirizzo per la spedizione.  PAGAMENTI: - SATISPAY sul numero di cellulare 331.6869763 -CARTA DOCENTE; -APP18; BONIFICO ord, IBAN: IT90H0845010201000000007502 - Banca Alpi Marittime - Ag. Cuneo 2"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="description" v="Scrivi una mail indicando i titoli desiderati e l'indirizzo per la spedizione. PAGAMENTI: - SATISPAY sul numero di cellulare 331.6869763 -CARTA DOCENTE; -APP18; BONIFICO ord, IBAN: IT90H0845010201000000007502 - Banca Alpi Marittime - Ag. Cuneo 2"/>
     <tag k="name" v="Mondadori Bookstore"/>
     <tag k="shop" v="books"/>
   </node>
@@ -878,7 +880,7 @@
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
     <tag k="contact:email" v="cuneo@fiorito.net"/>
     <tag k="contact:phone" v="+39 0171 66650"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegniamo fiori e piante a domicilio a Cuneo e dintorni."/>
     <tag k="name" v="Fiorito Cuneo"/>
     <tag k="payment:cash" v="yes"/>
@@ -894,7 +896,7 @@
     <tag k="brand" v="Carrefour Market"/>
     <tag k="brand:wikidata" v="Q2689639"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Spesa online, gratis per OVER 65 fino al 12 aprile 2020"/>
     <tag k="name" v="Carrefour Market"/>
     <tag k="opening_hours" v="24/7"/>
@@ -904,7 +906,7 @@
   <node id="6068617025" lat="44.3901581" lon="7.5475874">
     <tag k="addr:housenumber" v="4f"/>
     <tag k="addr:street" v="Piazza Tancredi Galimberti"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="emporio.cuneo@oliocarli.it"/>
     <tag k="name" v="F.lli Carli Emporio di Cuneo"/>
     <tag k="phone" v="+39 0171 601176"/>
@@ -918,7 +920,7 @@
     <tag k="changing_table" v="yes"/>
     <tag k="changing_table:location" v="unisex_toilet"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita a Borgo San Dalmazzo"/>
     <tag k="name" v="Italy Pizzeria"/>
     <tag k="opening_hours" v="Mo-Su 12:00-14:00,19:00-24:00"/>
@@ -930,12 +932,14 @@
     <tag k="ref:vatin" v="IT03517840041"/>
   </node>
   <node id="6070278795" lat="44.3792639" lon="7.5313218">
+    <tag k="access:covid19" v="yes"/>
     <tag k="addr:city" v="Cuneo"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Corso Antonio Gramsci"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il Forno Nuovo S.n.c."/>
+    <tag k="opening_hours:covid19" v="open"/>
     <tag k="operator" v="Il Forno Nuovo S.n.c. di Bruno Mario e figli"/>
     <tag k="phone" v="+39 0171 692048"/>
     <tag k="ref:vatin" v="IT03638010045"/>
@@ -987,7 +991,7 @@
   <node id="6124666867" lat="44.3855735" lon="7.5435524">
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Corso Nizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il fornaio"/>
     <tag k="operator" v="Buccaresi Enrico"/>
     <tag k="phone" v="+39 0171 692432"/>
@@ -998,7 +1002,7 @@
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Michele Coppino"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna a domicilio su Cuneo."/>
     <tag k="name" v="Alimentari e Pane di Laugero Silvana"/>
     <tag k="phone" v="+39 0171 602533"/>
@@ -1007,7 +1011,7 @@
   <node id="6129227495" lat="44.3833612" lon="7.5393558">
     <tag k="addr:housenumber" v="52"/>
     <tag k="addr:street" v="Via Venti Settembre"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="contabilita@dalmassosnc.it"/>
     <tag k="name" v="Dalmasso"/>
     <tag k="operator" v="Dalmasso Snc"/>
@@ -1022,7 +1026,7 @@
     <tag k="addr:street" v="Via Dronero"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bove's Macellai"/>
     <tag k="opening_hours" v="Mo,Tu 12:15-14:30,19:15-22:30; Th-Su 12:15-14:30,19:15-22:30"/>
     <tag k="phone" v="+39 0171 692624"/>
@@ -1031,7 +1035,7 @@
   <node id="6140017109" lat="44.3908694" lon="7.5472588">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Via Carlo Pascal"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Ortomercato"/>
     <tag k="phone" v="+39 0171 602230"/>
     <tag k="phone:mobile" v="+39 334 8998460"/>
@@ -1042,7 +1046,7 @@
     <tag k="addr:street" v="Via Carlo Pascal"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="barbecue"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="elnadalessandro@gmail.com"/>
     <tag k="name" v="Macelleria D'Ale"/>
     <tag k="opening_hours" v="Mo-Sa 09:30-14:30; Mo-Th 16:30-20:00; Fr 16:30-22:30; Sa 16:30-23:00"/>
@@ -1064,7 +1068,7 @@
     <tag k="addr:street" v="Via Torino"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="japanese;sushi"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tokyo Fusion Restaurant"/>
     <tag k="opening_hours" v="Tu-Su 12:00-15:00,19:00-24:00"/>
     <tag k="operator" v="Ristorante Tokyo di Pan Wu"/>
@@ -1073,7 +1077,7 @@
   <node id="6160271234" lat="44.3945345" lon="7.5022620">
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:street" v="Via Nazionale"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="direzione@bramardicioccolato.it"/>
     <tag k="name" v="Bramardi"/>
     <tag k="operator" v="Beccaria Franco"/>
@@ -1086,7 +1090,7 @@
     <tag k="addr:housenumber" v="76d"/>
     <tag k="addr:postcode" v="12010"/>
     <tag k="addr:street" v="Via Nazionale"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@nordgel.it"/>
     <tag k="name" v="Nord Gel"/>
     <tag k="opening_hours" v="Mo-Sa 08:30-12:30,15:00-19:30; Su 08:30-12:30"/>
@@ -1110,7 +1114,7 @@
     <tag k="amenity" v="bar"/>
     <tag k="brewery" v="Beck's;Leffe"/>
     <tag k="cuisine" v="ice_cream"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Cuba"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 0171 693968"/>
@@ -1157,7 +1161,7 @@
     <tag k="addr:street" v="Piazza Europa"/>
     <tag k="contact:email" v="ladispensaeuropa@libero.it"/>
     <tag k="contact:mobile" v="+39 347 6626913"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La Dispensa"/>
     <tag k="operator" v="La Dispensa di Alessandra e Eleonora Gay S.A.S."/>
     <tag k="shop" v="convenience"/>
@@ -1167,14 +1171,14 @@
     <tag k="addr:street" v="Piazza Europa"/>
     <tag k="clothes" v="underwear"/>
     <tag k="contact:facebook" v="https://www.facebook.com/bruna.intimomerceria/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bruna"/>
     <tag k="shop" v="clothes"/>
   </node>
   <node id="6173050037" lat="44.3852183" lon="7.5417427">
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Corso Giovanni Giolitti"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="nettarecuneo@gmail.com"/>
     <tag k="name" v="Il Nettare"/>
     <tag k="phone" v="+39 334 7290501"/>
@@ -1191,7 +1195,7 @@
   <node id="6174999048" lat="44.3993545" lon="7.5326852">
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Via del Passatore"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Mi &amp; Ti"/>
     <tag k="phone" v="+39 0171 1988038"/>
     <tag k="shop" v="convenience"/>
@@ -1208,7 +1212,7 @@
   <node id="6187982140" lat="44.3917432" lon="7.5497818">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna su Cuneo e frazioni."/>
     <tag k="email" v="calcagno.cn@gmail.com"/>
     <tag k="name" v="Calcagno"/>
@@ -1220,7 +1224,7 @@
   <node id="6187982144" lat="44.3917158" lon="7.5497555">
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="robistazio@gmail.com"/>
     <tag k="name" v="L'Erbolario"/>
     <tag k="operator" v="Stazio Roberto"/>
@@ -1263,7 +1267,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/InfernottoYumPub/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/infernotto_yum_pub/"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Infernotto"/>
     <tag k="opening_hours" v="Mo-Tu,Th-Sa 11:30-15:00,18:00-24:00; Su 11:00-14:00,18:00-24:00"/>
     <tag k="operator" v="Infernotto S.A.S."/>
@@ -1308,7 +1312,7 @@
   <node id="6237748355" lat="44.3851815" lon="7.5423504">
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@chantillycuneo.it"/>
     <tag k="name" v="Chantilly"/>
     <tag k="phone" v="+39 392 174 5923"/>
@@ -1348,7 +1352,7 @@
     <tag k="contact:email" v="info@mammaorsacuneo.it"/>
     <tag k="contact:facebook" v="https://www.facebook.com/MammaOrsaCuneo/"/>
     <tag k="contact:phone" v="+39 0171 693490"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita dai 19,90€, nel raggio di 30 km da Cuneo. Cuneo in giornata; Fuori Cuneo entro 48 ore."/>
     <tag k="name" v="Mamma orsa"/>
     <tag k="payment:cash" v="yes"/>
@@ -1360,7 +1364,7 @@
     <tag k="addr:housenumber" v="29b"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="butcher" v="poultry"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="robertagiraudo92@virgilio.it"/>
     <tag k="name" v="Polleria Baudino"/>
     <tag k="operator" v="Giraudo Sergio"/>
@@ -1370,7 +1374,7 @@
   <node id="6269281647" lat="44.3926938" lon="7.5511563">
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Abbigliamento 8-18 anni"/>
     <tag k="email" v="puntoevirgola1@gmail.com"/>
     <tag k="name" v="Fashion Punto e Virgola"/>
@@ -1380,7 +1384,7 @@
   <node id="6269298460" lat="44.3924945" lon="7.5505950">
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="ortopediazaccone@libero.it"/>
     <tag k="medical_supply" v="orthopedic"/>
     <tag k="name" v="Ortopedia Zaccone"/>
@@ -1390,7 +1394,7 @@
   <node id="6269298461" lat="44.3923761" lon="7.5504474">
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="pastafrescagrosso@gmail.com"/>
     <tag k="name" v="Grosso Pasta Fresca"/>
     <tag k="operator" v="Grosso Massimo"/>
@@ -1411,7 +1415,7 @@
   <node id="6290787051" lat="44.3756062" lon="7.5331994">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Corso Francia"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="cuneo@fattoriebovingrana.com"/>
     <tag k="name" v="Macelleria Fattorie Bovin Grana"/>
     <tag k="phone" v="+39 0171 500447"/>
@@ -1421,7 +1425,7 @@
   <node id="6298798509" lat="44.3869182" lon="7.5445247">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizza Flash"/>
     <tag k="phone" v="+39 0171 630775"/>
   </node>
@@ -1430,13 +1434,13 @@
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Luigi Pirandello"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Le delizie di Albi - Alimentari"/>
     <tag k="phone" v="+39 342 1251277"/>
     <tag k="shop" v="convenience"/>
   </node>
   <node id="6327487199" lat="44.3881553" lon="7.5450616">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pescheria Costa Azzurra"/>
     <tag k="shop" v="seafood"/>
   </node>
@@ -1490,6 +1494,7 @@
     <tag k="contact:mobile" v="+39 346 3571576"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Faro Copisteria"/>
+    <tag k="opening_hours:covid19" v="open"/>
     <tag k="shop" v="copyshop"/>
   </node>
   <node id="6328565005" lat="44.3856033" lon="7.5429300">
@@ -1505,7 +1510,7 @@
   <node id="6342617252" lat="44.3887965" lon="7.5502015">
     <tag k="addr:housenumber" v="15bis"/>
     <tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="medical_supply" v="orthopedic"/>
     <tag k="name" v="Ortopedia I.T.O.S."/>
     <tag k="shop" v="medical_supply"/>
@@ -1514,14 +1519,14 @@
   <node id="6342641186" lat="44.3904384" lon="7.5500289">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Piazza Boves"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La cantinetta"/>
     <tag k="shop" v="wine"/>
   </node>
   <node id="6358397064" lat="44.3861275" lon="7.5389712">
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:street" v="Corso Giovanni Giolitti"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il fornaio"/>
     <tag k="operator" v="Buccaresi Enrico"/>
     <tag k="phone" v="+39 0171 692432"/>
@@ -1529,7 +1534,7 @@
   </node>
   <node id="6358483961" lat="44.3857052" lon="7.5420549">
     <tag k="amenity" v="cafe"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La coccinella"/>
     <tag k="phone" v="+39 339 2429445"/>
   </node>
@@ -1543,7 +1548,7 @@
     <tag k="name" v="Dama 3 Cafè"/>
   </node>
   <node id="6360785558" lat="44.3807256" lon="7.5401910">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Arcobaleno di frutta"/>
     <tag k="phone" v="+39 392 5903163"/>
     <tag k="shop" v="greengrocer"/>
@@ -1595,7 +1600,7 @@
     <tag k="addr:street" v="Via Mondovì"/>
     <tag k="contact:mobile" v="+39 347 7313496"/>
     <tag k="contact:phone" v="+39 0171 070182"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Magnolia"/>
     <tag k="shop" v="perfumery"/>
   </node>
@@ -1624,7 +1629,7 @@
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Quintino Sella"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="ilverdurivendolo@gmail.com"/>
     <tag k="name" v="Il verdurivendolo"/>
     <tag k="opening_hours" v="Mo,Fr 16:00-19:00; Tu,Th 09:30-13:00,16:00-19:00; Sa 09:30-12:30"/>
@@ -1659,7 +1664,7 @@
     <tag k="outdoor_seating" v="yes"/>
   </node>
   <node id="6433717643" lat="44.3877362" lon="7.5380134">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Eco store"/>
     <tag k="phone" v="+39 392 4050480"/>
     <tag k="shop" v="printer_ink"/>
@@ -1682,7 +1687,7 @@
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Corso Annibale Santorre di Santarosa"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La bufalina"/>
     <tag k="opening_hours" v="Mo 16:00-19:30; Tu-Fr 09:00-13:00,16:00-19:30; Sa 09:00-13:00"/>
     <tag k="phone" v="+39 320 4682017"/>
@@ -1733,12 +1738,12 @@
     <tag k="name" v="Crea"/>
   </node>
   <node id="6499353521" lat="44.3887067" lon="7.5430707">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Gli Aristogatti"/>
     <tag k="shop" v="pet"/>
   </node>
   <node id="6515136405" lat="44.3941244" lon="7.5475210">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="ortofruttapignatta@gmail.com"/>
     <tag k="name" v="Pignatta Bruno"/>
     <tag k="phone" v="+39 0171 695624"/>
@@ -1747,7 +1752,7 @@
   <node id="6515989776" lat="44.3793590" lon="7.5310743">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza;kebab"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="delivery:fee" v="yes"/>
     <tag k="email" v="pitali_matteo@yahoo.it"/>
     <tag k="name" v="Crazy pizza"/>
@@ -1762,11 +1767,11 @@
     <tag k="contact:mobile" v="+39 334 2421588"/>
     <tag k="contact:website" v="http://www.allapiada.it/"/>
     <tag k="cuisine" v="piadina"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alla piada"/>
   </node>
   <node id="6542694961" lat="44.3816563" lon="7.5391260">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="L'orto delle delizie"/>
     <tag k="phone" v="+39 347 2621977"/>
     <tag k="shop" v="greengrocer"/>
@@ -1774,7 +1779,7 @@
   <node id="6542713175" lat="44.3827452" lon="7.5371071">
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Corso Galileo Ferraris"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il fornaio di Galfrè"/>
     <tag k="phone" v="+39 0171 603614"/>
     <tag k="shop" v="bakery"/>
@@ -1811,7 +1816,7 @@
     <tag k="shop" v="model"/>
   </node>
   <node id="6547627100" lat="44.3808538" lon="7.5407151">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Vende alimentari freschi e secchi."/>
     <tag k="name" v="La bottega 71"/>
     <tag k="opening_hours" v="Mo-Sa 07:00-13:00,16:00-19:30"/>
@@ -1823,7 +1828,7 @@
     <tag k="addr:street" v="Corso Vittorio Emanuele Secondo"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza;hamburger"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Yuppidù Pizza"/>
     <tag k="opening_hours" v="Mo-Su 18:30-23:15"/>
     <tag k="phone" v="+39 0171 631827"/>
@@ -1832,7 +1837,7 @@
   <node id="6547688235" lat="44.3795386" lon="7.5424891">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Corso Vittorio Emanuele Secondo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="operator" v="Garnerone Marco"/>
     <tag k="phone" v="+39 346 6764181"/>
     <tag k="shop" v="bakery"/>
@@ -1861,7 +1866,7 @@
     <tag k="addr:street" v="Via Santa Croce"/>
     <tag k="contact:email" v="ninfeocuneo@gmail.com"/>
     <tag k="contact:mobile" v="+39 391 7655455"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il ninfeo"/>
     <tag k="shop" v="beauty"/>
   </node>
@@ -1888,7 +1893,7 @@
   <node id="6578479217" lat="44.3939953" lon="7.5508912">
     <tag k="contact:mobile" v="+39 340 9774923"/>
     <tag k="contact:phone" v="+39 0171 695565"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita."/>
     <tag k="name" v="Sandra Calzature"/>
     <tag k="shop" v="shoes"/>
@@ -1897,7 +1902,7 @@
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:street" v="Corso Francia"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="no"/>
     <tag k="email" v="parafarmacia.invernelli@gmail.com"/>
     <tag k="name" v="Parafarmacia Invernelli"/>
@@ -1933,7 +1938,7 @@
   <node id="6604580115" lat="44.3915630" lon="7.5489145">
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Via Saluzzo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="andrea.giolitti87@gmail.com"/>
     <tag k="name" v="L'angolo del gusto"/>
     <tag k="operator" v="Giolitti Andrea"/>
@@ -1945,7 +1950,7 @@
     <tag k="addr:street" v="Piazza Vincenzo Virginio"/>
     <tag k="contact:instagram" v="https://www.instagram.com/prisma_cuneo/"/>
     <tag k="contact:mobile" v="+39 377 3145630"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Ordini entro le h 12:00 del giorno prima. Consegna in 48h entro le 18:00 in Cuneo."/>
     <tag k="name" v="Prisma"/>
     <tag k="shop" v="pastry"/>
@@ -1975,7 +1980,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/PerUnaBirra/"/>
     <tag k="contact:mobile" v="+39 338 1111318"/>
     <tag k="contact:phone" v="+39 0171 552131"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="yammano@tiscali.it"/>
     <tag k="microbrewery" v="yes"/>
     <tag k="name" v="Per una birra"/>
@@ -1989,14 +1994,14 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:mobile" v="+39 391 3004405"/>
     <tag k="contact:phone" v="+39 0171 325145"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="I 5 sensi"/>
     <tag k="operator" v="Franco Carlevero Diego"/>
   </node>
   <node id="6635193476" lat="44.3926462" lon="7.5510912">
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="dadybooks@libero.it"/>
     <tag k="name" v="Gulliver's"/>
     <tag k="phone" v="+39 329 4199539"/>
@@ -2004,14 +2009,14 @@
   </node>
   <node id="6673724204" lat="44.3479457" lon="7.5078869">
     <tag k="clothes" v="underwear"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Intimania"/>
     <tag k="shop" v="clothes"/>
   </node>
   <node id="6696708899" lat="44.3818954" lon="7.5414661">
     <tag k="addr:housenumber" v="10a"/>
     <tag k="addr:street" v="Via Antonio Stoppani"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="&quot;A CAUSA CRONAVIRUS LE CONSEGNE A DOMICILIO SI EFFETTUERANNO SOLO DOPO AVER FATTO LA SPESA PRESSO IL SUPERMERCATO, NON RIUSCIAMO A PRENDERE ORDINAZIONI TELEFONICHE O VIA MAIL. CI SCUSIAMO PER IL DISSERVIZIO. GRAZIE PER LA COLLABORAZIONE&quot;"/>
     <tag k="name" v="Supermercato Lingua"/>
     <tag k="opening_hours" v="Mo, Tu, Fr-Su 08:10-12:30, 15:30-19:30; We 08:10-12:30, 15:30-19:00; Th 08:10-12:30"/>
@@ -2035,7 +2040,7 @@
   <node id="6696896931" lat="44.3757274" lon="7.5202864">
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:street" v="Via Cascina Colombaro"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@doggypop.com"/>
     <tag k="name" v="Doggy pop"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-12:30,15:00-19:30"/>
@@ -2050,7 +2055,7 @@
     <tag k="addr:housenumber" v="14f"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Bisalta"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Agrimacelleria, Macelleria Ghibaudo"/>
     <tag k="opening_hours" v="Tu-Sa 08:15-13:00,16:00-19:30"/>
     <tag k="phone" v="+39 0171 401266"/>
@@ -2061,7 +2066,7 @@
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Bisalta"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La Bottega Simply"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-12:50,16:00-19:30"/>
     <tag k="phone" v="+39 0171 346333"/>
@@ -2081,7 +2086,7 @@
   <node id="6741749290" lat="44.3902972" lon="7.5623854">
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Via Bisalta"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Azienda agricola &quot;Il sogno&quot;"/>
     <tag k="phone" v="+39 0171 401763"/>
     <tag k="shop" v="greengrocer"/>
@@ -2091,7 +2096,7 @@
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Via Bernezzo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tuttanatura Fiori e Piante"/>
     <tag k="opening_hours" v="Mo-Sa 08:30-12:30, 15:30-20:00"/>
     <tag k="phone:mobile" v="+39 348 5919192"/>
@@ -2101,7 +2106,7 @@
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="Via della Battaglia"/>
     <tag k="brand" v="Punto Simply"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="margherita.cuneo@yahoo.it"/>
     <tag k="name" v="Punto Simply"/>
     <tag k="operator" v="Maccario di Tomatis Giovanna"/>
@@ -2112,7 +2117,7 @@
   <node id="6814084330" lat="44.3919955" lon="7.5476990">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Piazza Foro Boario"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La bottega dei sapori"/>
     <tag k="operator" v="La bottega dei sapori di Melillo Michela"/>
     <tag k="phone" v="+39 345 9925106"/>
@@ -2130,7 +2135,7 @@
     <tag k="shop" v="clothes"/>
   </node>
   <node id="6832293603" lat="44.4131859" lon="7.5505367">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Clorofilla"/>
     <tag k="phone" v="+39 349 1360179"/>
     <tag k="shop" v="florist"/>
@@ -2138,7 +2143,7 @@
   <node id="6835198168" lat="44.3975004" lon="7.4801447">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Via Valle Grana"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Caffetteria Pasticceria Musso"/>
     <tag k="operator" v="Pasticceria Musso di Musso Francesco"/>
     <tag k="outdoor_seating" v="yes"/>
@@ -2151,7 +2156,7 @@
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Corso Alcide De Gasperi"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Nutrimind"/>
     <tag k="opening_hours" v="Mo 14:00-19:00; Tu-Sa 10:00-19:00"/>
     <tag k="phone" v="+39 320 6017904"/>
@@ -2159,7 +2164,7 @@
   </node>
   <node id="6854806232" lat="44.3733010" lon="7.5336947">
     <tag k="contact:facebook" v="https://www.facebook.com/dogservice.petstore/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna in Cuneo e limitrofi."/>
     <tag k="name" v="Dogservice agricentro"/>
     <tag k="phone" v="+39 0171 493366"/>
@@ -2168,7 +2173,7 @@
   <node id="6854839164" lat="44.3754078" lon="7.5330409">
     <tag k="addr:housenumber" v="14a"/>
     <tag k="addr:street" v="Corso Francia"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="ortopediapegaso@libero.it"/>
     <tag k="medical_supply" v="orthopedic"/>
     <tag k="name" v="Ortopedia Pegaso"/>
@@ -2177,10 +2182,10 @@
     <tag k="shop" v="medical_supply"/>
   </node>
   <node id="6855588409" lat="44.3659629" lon="7.5233632">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Franchino"/>
     <tag k="outdoor_seating" v="yes"/>
-    <tag k="phone" v="+39  0171 491345"/>
+    <tag k="phone" v="+39 0171 491345"/>
     <tag k="shop" v="pastry"/>
   </node>
   <node id="6872671494" lat="44.3874961" lon="7.5408009">
@@ -2198,7 +2203,7 @@
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="contact:facebook" v="https://www.facebook.com/libreria.passpartout/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="passpartout.caraglio@libero.it"/>
     <tag k="name" v="Libreria Passpartout"/>
     <tag k="opening_hours" v="Mo-Sa 09:30-12:30,16:00-19:30; Su 09:30-19:30"/>
@@ -2212,7 +2217,7 @@
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="burger;kebab;pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Europizza 2"/>
     <tag k="opening_hours" v="Tu-Su 11:30-14:30,17:00-23:30"/>
     <tag k="payment:american_express" v="yes"/>
@@ -2226,7 +2231,7 @@
     <tag k="addr:housenumber" v="153"/>
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tabaccheria Mo.Ni.Ca."/>
     <tag k="opening_hours" v="Mo-Sa 07:30-12:30,14:00-19:30"/>
     <tag k="payment:cash" v="yes"/>
@@ -2253,7 +2258,7 @@
     <tag k="addr:street" v="Piazza Garibaldi"/>
     <tag k="clothes" v="children"/>
     <tag k="contact:facebook" v="https://www.facebook.com/PuntoeVirgolaCaraglio/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Nato per soddisfare le esigenze dei più piccoli dalla prima infanzia e abitini fino ai 7 anni. Con il tempo è cresciuto con abbigliamento fino ai 18 anni!"/>
     <tag k="name" v="Punto e Virgola"/>
     <tag k="opening_hours" v="Tu-Sa 09:00-12:30,15:30-19:30; Su 09:00-12:30"/>
@@ -2266,9 +2271,10 @@
   <node id="7023698875" lat="44.3991963" lon="7.5716051">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Via Tetto dell'Ola"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="brignonemarco@gmail.com"/>
     <tag k="name" v="Macelleria Fratelli Brignone"/>
+    <tag k="opening_hours:covid19" v="open"/>
     <tag k="operator" v="Macelleria Fratelli Brignone Snc"/>
     <tag k="phone" v="+39 0171 401376"/>
     <tag k="shop" v="butcher"/>
@@ -2288,7 +2294,7 @@
     <tag k="addr:housenumber" v="171"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="contact:facebook" v="https://www.facebook.com/dalmassoelettrodomestici.it/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="dalmasso_caraglio@yahoo.it"/>
     <tag k="name" v="Dalmasso Elettrodomestici"/>
     <tag k="opening_hours" v="Tu-Sa 08:00-12:30,15:30-19:30; Su 09:00-12:30"/>
@@ -2298,7 +2304,7 @@
   </node>
   <node id="7025976966" lat="44.4179817" lon="7.4280970">
     <tag k="contact:facebook" v="https://www.facebook.com/bioetik.vallegrana/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Punto di raccolta e vendita di frutta e verdura biologica e altri prodotti alimentari biologici. Da poco, la bottega è anche bistrot e gastronomia."/>
     <tag k="email" v="info@bioetik.net"/>
     <tag k="name" v="BioEtik"/>
@@ -2312,7 +2318,7 @@
     <tag k="addr:street" v="Via della Battaglia"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger;pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="La Pantalera"/>
     <tag k="opening_hours" v="Mo-Sa 19:00-23:30; Su 12:00-15:00,19:00-23:00"/>
     <tag k="phone" v="+39 0171 682941"/>
@@ -2334,7 +2340,7 @@
     <tag k="addr:postcode" v="12023"/>
     <tag k="addr:street" v="Via Cesare Battisti"/>
     <tag k="contact:facebook" v="https://www.facebook.com/alimentarerisparmioebonta/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Risparmio e Bontà di Tallone Patrizia"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:maestro" v="yes"/>
@@ -2352,14 +2358,14 @@
     <tag k="amenity" v="fast_food"/>
     <tag k="contact:mobile" v="+39 328 4257981"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizza Italia"/>
     <tag k="operator" v="Isnardi Ilaria"/>
   </node>
   <node id="7080087031" lat="44.4233926" lon="7.5625967">
     <tag k="addr:housenumber" v="3b"/>
     <tag k="addr:street" v="Via Porta Rossa"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="diet:gluten_free" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
     <tag k="name" v="Mario senza glutine vegan"/>
@@ -2371,7 +2377,7 @@
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Pier Carlo Boggio"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegne gratuite su Cuneo, piccolo contributo per zone limitrofe."/>
     <tag k="email" v="info@tantecosebuone.it"/>
     <tag k="name" v="Tante cose buone"/>
@@ -2383,7 +2389,7 @@
   <node id="7168974431" lat="44.4170228" lon="7.4281178">
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Piazza Cavour"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Cit ma Bun"/>
     <tag k="opening_hours" v="Tu-Sa 08:00-12:30,15:30-19:30; Su 08:00-12:30"/>
     <tag k="payment:cash" v="yes"/>
@@ -2395,7 +2401,7 @@
     <tag k="addr:housenumber" v="82"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="contact:facebook" v="https://www.facebook.com/vinerialunallegra/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Vineria Lunallegra offre una vasta scelta di vini del territorio, una selezione da tutta Italia ed internazionale. Prodotti tipici, aperitivi e degustazioni."/>
     <tag k="name" v="Vineria Lunallegra"/>
     <tag k="opening_hours" v="Tu-Th 09:00-12:30,16:00-19:30; Fr,Sa 09:00-12:30,16:00-21:00; Su 09:00-13:00"/>
@@ -2406,7 +2412,7 @@
   <node id="7170633530" lat="44.4184085" lon="7.4308842">
     <tag k="addr:housenumber" v="152"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Il mondo di Laura"/>
     <tag k="opening_hours" v="Tu-Sa 09:00-12:30,15:30-19:30; Su 09:30-12:30"/>
     <tag k="operator" v="Laura Di Garelli"/>
@@ -2423,7 +2429,7 @@
     <tag k="addr:housenumber" v="7b"/>
     <tag k="addr:street" v="Via Cesare Battisti"/>
     <tag k="contact:instagram" v="milonepaneedolci"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@milonepanedolci.com"/>
     <tag k="name" v="Milone Pane &amp; Dolci"/>
     <tag k="opening_hours" v="Mo-We,Fr,Sa 06:30-13:00,15:30-19:30; Su 06:30-13:00"/>
@@ -2451,7 +2457,7 @@
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Pizza al taglio Re Antò"/>
     <tag k="opening_hours" v="Tu-Fr 11:30-14:30,18:00-23:00; Su 17:30-23:00"/>
     <tag k="phone" v="+39 333 3333639"/>
@@ -2462,7 +2468,7 @@
     <tag k="addr:postcode" v="12010"/>
     <tag k="addr:street" v="Piazza Grande"/>
     <tag k="contact:mobile" v="+39 348 6921079"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna a domicilio gratuita su Vignolo e dintorni. Disponibili al telefono e tramite WhatsApp"/>
     <tag k="name" v="Bottega della carne"/>
     <tag k="opening_hours" v="Mo-Sa 07:00-18:30"/>
@@ -2471,7 +2477,7 @@
   </node>
   <node id="7284193496" lat="44.3931501" lon="7.5471118">
     <tag k="contact:facebook" v="https://www.facebook.com/acquarioandpiccolianimali/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="L'acquario and Piccoli Animali"/>
     <tag k="phone" v="+39 328 322 4280"/>
     <tag k="shop" v="pet"/>
@@ -2479,7 +2485,7 @@
   <node id="7284202331" lat="44.3923870" lon="7.5504599">
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:street" v="Via Roma"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna a domicilio su Cuneo e limitrofi."/>
     <tag k="email" v="s.alimentinaturali@libero.it"/>
     <tag k="name" v="Alimenti Naturali"/>
@@ -2492,7 +2498,7 @@
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Savona"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Nord Gel"/>
     <tag k="opening_hours" v="Tu-Sa 08:30-13:00,16:00-19:30"/>
     <tag k="phone" v="+39 370 3093939"/>
@@ -2503,7 +2509,7 @@
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:postcode" v="12040"/>
     <tag k="addr:street" v="Via Cuneo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Alimentari."/>
     <tag k="name" v="Ghiottomania"/>
     <tag k="phone" v="+39 0171 792622"/>
@@ -2512,7 +2518,7 @@
   <node id="7287719731" lat="44.5145092" lon="7.4732538">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Piazza Regina Margherita"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@otticainvista.com"/>
     <tag k="name" v="Ottica in Vista"/>
     <tag k="phone" v="+39 0171 943461"/>
@@ -2526,7 +2532,7 @@
     <tag k="addr:street" v="Via Cravetta"/>
     <tag k="contact:facebook" v="https://www.facebook.com/pelledoca/"/>
     <tag k="cuisine" v="burger"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Pelledoca"/>
     <tag k="phone" v="+39 339 440 7053"/>
@@ -2539,7 +2545,7 @@
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Antica di Busca"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Meinero-Panetteria-Pasticceria-201659636685892/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Meinero Panetteria Pasticceria"/>
     <tag k="opening_hours" v="Mo-Sa 07:15-13:00,15:30-19:45"/>
     <tag k="phone" v="+39 0171 689022"/>
@@ -2551,7 +2557,7 @@
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
     <tag k="contact:facebook" v="https://www.facebook.com/labottegadelgustotarantasca/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegnano a domicilio fino a Madonna dell'Olmo"/>
     <tag k="name" v="La Bottega del Gusto"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-12:30,16:00-19:30; Su 08:00-12:30"/>
@@ -2562,14 +2568,14 @@
   <node id="7289155704" lat="44.3841393" lon="7.5406647">
     <tag k="addr:housenumber" v="47a"/>
     <tag k="addr:street" v="Via Venti Settembre"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Rigenera Cuneo di Marchetti Marco"/>
     <tag k="phone" v="+39 338 5977575"/>
     <tag k="shop" v="printer_ink"/>
   </node>
   <node id="7289164947" lat="44.5115416" lon="7.4822769">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="El Granatin"/>
     <tag k="phone" v="+39 347 4546429"/>
@@ -2581,7 +2587,7 @@
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Via Beppino Nasetta"/>
     <tag k="contact:facebook" v="https://www.facebook.com/CrispinoAndrea86/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="delivery:fee" v="no"/>
     <tag k="description" v="Consegna gratuita su Cuneo e limitrofi."/>
     <tag k="email" v="andreacrispy@icloud.com"/>
@@ -2591,7 +2597,7 @@
     <tag k="shop" v="convenience"/>
   </node>
   <node id="7293198123" lat="44.3947601" lon="7.4959420">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Ordini tramite whatsapp o telefonando. Consegna su Cuneo e limitrofi. Consegna GRATUITA. Ordine minimo circa 20€."/>
     <tag k="name" v="Famù negozio"/>
     <tag k="payment:bancomat" v="yes"/>
@@ -2606,7 +2612,7 @@
     <tag k="addr:postcode" v="12100"/>
     <tag k="addr:street" v="Viale degli Angeli"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Telefonate per sapere la proposta del giorno!"/>
     <tag k="name" v="La Novella"/>
     <tag k="phone" v="+39 339 7374519"/>
@@ -2614,7 +2620,7 @@
   <node id="7294607767" lat="44.4224249" lon="7.5436470">
     <tag k="addr:housenumber" v="139"/>
     <tag k="addr:street" v="Via Valle Po"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Molino Squillario"/>
     <tag k="operator" v="Molino Squillario di Squillario Andrea e C. snc"/>
@@ -2625,7 +2631,7 @@
   <node id="7294614759" lat="44.3871091" lon="7.5451299">
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Corso Nizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="ordini solo via mail"/>
     <tag k="email" v="cristina@assediumritualpastry.com"/>
     <tag k="fixme" v="position estimated"/>
@@ -2637,26 +2643,26 @@
     <tag k="website" v="https://assediumritualpastry.com/"/>
   </node>
   <node id="7295079935" lat="44.4170499" lon="7.4319042">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Control C"/>
     <tag k="phone:mobile" v="+39 328 4882278"/>
     <tag k="shop" v="printer_ink"/>
   </node>
   <node id="7295079936" lat="44.4179601" lon="7.4290334">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Casalinghi Ex Parola"/>
     <tag k="phone:mobile" v="+39 339 3104858"/>
     <tag k="shop" v="houseware"/>
   </node>
   <node id="7295160828" lat="44.4170837" lon="7.4273602">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Ferramenta Armando"/>
     <tag k="phone:mobile" v="+39 347 6011705"/>
     <tag k="shop" v="hardware"/>
   </node>
   <node id="7296142267" lat="44.4176874" lon="7.4288578">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="L'intimo"/>
     <tag k="operator" v="Delfino Antonella"/>
@@ -2664,56 +2670,56 @@
     <tag k="shop" v="clothes"/>
   </node>
   <node id="7296203101" lat="44.4172274" lon="7.4277439">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="La Piramide"/>
     <tag k="phone:mobile" v="+39 393 1829005"/>
     <tag k="shop" v="houseware"/>
   </node>
   <node id="7296207271" lat="44.4178987" lon="7.4295655">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Gioielleria Aretia"/>
     <tag k="phone" v="+39 327 0029130"/>
     <tag k="shop" v="jewelry"/>
   </node>
   <node id="7296208076" lat="44.4184025" lon="7.4311588">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Bianco Carla"/>
     <tag k="phone" v="+39 346 210 7609"/>
     <tag k="shop" v="convenience"/>
   </node>
   <node id="7296208692" lat="44.4168948" lon="7.4283386">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Piemme"/>
     <tag k="phone" v="+39 347 8150625"/>
     <tag k="shop" v="curtain"/>
   </node>
   <node id="7296209432" lat="44.4173091" lon="7.4274350">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Acqua di Roccia"/>
     <tag k="phone" v="+39 366 1981316"/>
     <tag k="shop" v="herbalist"/>
   </node>
   <node id="7296212842" lat="44.4171357" lon="7.4275519">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Macelleria Marco"/>
     <tag k="phone:mobile" v="+39 342 5313751"/>
     <tag k="shop" v="butcher"/>
   </node>
   <node id="7296220326" lat="44.4171958" lon="7.4273174">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Lucky"/>
     <tag k="phone" v="+39 348 7118682"/>
     <tag k="shop" v="electronics"/>
   </node>
   <node id="7296221053" lat="44.4171848" lon="7.4272642">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="La Poiana"/>
     <tag k="phone" v="+39 0171 619862"/>
@@ -2721,35 +2727,35 @@
     <tag k="website" v="https://www.cooperativalapoiana.it"/>
   </node>
   <node id="7296225201" lat="44.4179335" lon="7.4297775">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Morra"/>
     <tag k="phone" v="+39 0171 610359"/>
     <tag k="shop" v="greengrocer"/>
   </node>
   <node id="7296228776" lat="44.4174972" lon="7.4278252">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="L'antico portico"/>
     <tag k="phone" v="+39 0171 619048"/>
     <tag k="shop" v="butcher"/>
   </node>
   <node id="7296234972" lat="44.4171342" lon="7.4266143">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Debora Fiori"/>
     <tag k="phone:mobile" v="+39 346 5127411"/>
     <tag k="shop" v="florist"/>
   </node>
   <node id="7296263218" lat="44.4175819" lon="7.4281612">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="Dario Alimentari"/>
     <tag k="phone" v="+39 380 3900773"/>
     <tag k="shop" v="convenience"/>
   </node>
   <node id="7296264523" lat="44.4169952" lon="7.4268523">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="adjust position"/>
     <tag k="name" v="La Bottega di Lerda Giorgio"/>
     <tag k="phone" v="+39 0171 619332"/>
@@ -2769,7 +2775,7 @@
   <node id="7299866175" lat="44.5027545" lon="7.4908324">
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="arriva@terraviva.coop"/>
     <tag k="name" v="TerraViva"/>
     <tag k="phone" v="+39 0171 946724"/>
@@ -2780,7 +2786,7 @@
   <node id="7303891062" lat="44.3839361" lon="7.5426307">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:street" v="Piazza Europa"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita il giorno dopo all'ordinazione, dalle h 13:00 alle h 15:30, su Cuneo, Borgo san Giuseppe, San Rocco Castagnaretta"/>
     <tag k="email" v="mimi.martini62@gmail.com"/>
     <tag k="fixme" v="position estimated"/>
@@ -2791,7 +2797,7 @@
   <node id="7303895009" lat="44.3777570" lon="7.5424300">
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Via Francesco Bruno Di Tornaforte"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Santamaria"/>
     <tag k="operator" v="Santamaria di Tomatis Pietro &amp; C. S.A.S."/>
@@ -2803,7 +2809,7 @@
     <tag k="addr:housenumber" v="321"/>
     <tag k="addr:place" v="Regione Madonna dei Prati"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="no"/>
     <tag k="email" v="vendite.irma@pavengroup.com"/>
     <tag k="fixme" v="position estimated"/>
@@ -2816,7 +2822,7 @@
   <node id="7303960737" lat="44.3994661" lon="7.5553243">
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Via Basse San Sebastiano"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Vendita Farine - consegne dalle ore 8 alle 12 e dalle 14 alle 18"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Molino Mettone"/>
@@ -2833,7 +2839,7 @@
     <tag k="addr:street" v="Corso Giuseppe Romita"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Sherwood Pub"/>
     <tag k="phone" v="+39 0171 943170"/>
     <tag k="phone:mobile" v="+39 338 2795261"/>
@@ -2844,7 +2850,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="contact:facebook" v="https://www.facebook.com/panetteriaantichisaporibusca"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Antichi Sapori"/>
     <tag k="phone" v="+39 0171 944273"/>
@@ -2857,7 +2863,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Umberto Primo"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="dispensing" v="no"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Parafarmacia del Consiglio"/>
@@ -2871,7 +2877,7 @@
     <tag k="addr:housenumber" v="120"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Umberto Primo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Salumeria Cantaluppi"/>
     <tag k="phone" v="+39 0171 325928"/>
@@ -2884,14 +2890,14 @@
     <tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Di Pasta...In Pizza"/>
     <tag k="phone:mobile" v="+39 334 7634722"/>
   </node>
   <node id="7304248609" lat="44.5159584" lon="7.4772517">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Via Luigi Cadorna"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Macelleria da Marco"/>
     <tag k="operator" v="Marco Ballario"/>
     <tag k="phone" v="+39 0171 290969"/>
@@ -2900,7 +2906,7 @@
   <node id="7306642794" lat="44.3864289" lon="7.5100833">
     <tag k="addr:housenumber" v="127"/>
     <tag k="addr:street" v="Via Cuneo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Antoci F.lli SNC"/>
     <tag k="phone" v="+39 335 1212064"/>
     <tag k="shop" v="frozen_food"/>
@@ -2910,7 +2916,7 @@
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alimentari Valter Olivero"/>
     <tag k="phone" v="+39 331 1825562"/>
     <tag k="shop" v="convenience"/>
@@ -2920,7 +2926,7 @@
     <tag k="addr:housenumber" v="140"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Umberto Primo"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Stema"/>
     <tag k="phone" v="+39 0171 944467"/>
     <tag k="shop" v="greengrocer"/>
@@ -2930,13 +2936,13 @@
     <tag k="addr:housenumber" v="157a"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Tarantasca"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Azienda agricola di Ilaria Ichino - La Capanna"/>
     <tag k="phone" v="+39 340 998 8783"/>
     <tag k="shop" v="dairy"/>
   </node>
   <node id="7306953000" lat="44.5176112" lon="7.4776463">
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="fixme" v="position estimated"/>
     <tag k="name" v="Pasticceria Fagiolo"/>
     <tag k="phone" v="+39 0171 945165"/>
@@ -2947,7 +2953,7 @@
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Bisalta"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Troticoltura Cristian Testa"/>
     <tag k="phone" v="+39 346 7224627"/>
     <tag k="shop" v="seafood"/>
@@ -2958,7 +2964,7 @@
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Alessandro Volta"/>
     <tag k="agrarian" v="feed;seed;pellet"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Daniele Francesco Granatin"/>
     <tag k="phone" v="+39 0171 931941"/>
     <tag k="shop" v="agrarian"/>
@@ -2968,7 +2974,7 @@
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Chiara Antonucci Alimentari"/>
     <tag k="phone" v="+39 333 8892320"/>
     <tag k="shop" v="convenience"/>
@@ -2978,7 +2984,7 @@
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Tabaccheria Nilva Galfré"/>
     <tag k="phone" v="+39 339 4346606"/>
     <tag k="shop" v="tobacco"/>
@@ -2986,7 +2992,7 @@
   <node id="7310315792" lat="44.3917897" lon="7.5453060">
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:street" v="Via Carlo Pascal"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna quotidiano La Stampa"/>
     <tag k="email" v="stampain@nuvolariweb.com"/>
     <tag k="name" v="Stampa In"/>
@@ -2998,7 +3004,7 @@
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="12044"/>
     <tag k="addr:street" v="Piazza Vittorio Emanuele II"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Dolci tentazioni"/>
     <tag k="opening_hours" v="Th-Tu 07:00-13:00,14:30-20:00"/>
     <tag k="phone" v="+39 0171 214357"/>
@@ -3011,7 +3017,7 @@
     <tag k="addr:street" v="Piazza Conti Gondolo della Riva"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna a domicilio su Spinetta e limitrofi."/>
     <tag k="name" v="C'era una volta"/>
     <tag k="opening_hours" v="Fr,Sa 18:00-22:30; Su 18:00-22:00"/>
@@ -3068,7 +3074,7 @@
   <node id="7312852482" lat="44.6526006" lon="7.6536258">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="delivery:description:it" v="Attivazione servizio a domicilio di generi di prima necessità per COVID-19"/>
     <tag k="name" v="Pizzeria Da Turel"/>
     <tag k="phone" v="+39 0172 201746"/>
@@ -3200,7 +3206,7 @@
     <tag k="addr:street" v="Via Massimo D'Azeglio"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Buscaje Ristorante Pizzeria"/>
     <tag k="phone" v="+39 334 1196311"/>
   </node>
@@ -3211,7 +3217,7 @@
     <tag k="addr:street" v="Via Roberto d'Azeglio"/>
     <tag k="contact:mobile" v="+39 340 7288196"/>
     <tag k="contact:phone" v="+39 0171 943888"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="L'Erbolario - Erboristeria da Mary"/>
     <tag k="shop" v="herbalist"/>
   </node>
@@ -3221,7 +3227,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Strada San Martino"/>
     <tag k="craft" v="winery"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Vini tipici locali e succhi di frutta"/>
     <tag k="name" v="Vini Tomatis Dario e figli"/>
     <tag k="phone" v="+39 339 5489745"/>
@@ -3232,20 +3238,18 @@
     <tag k="addr:housenumber" v="8b"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Tarantasca"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Alimentari Tabacchi Rosso Elda"/>
     <tag k="phone" v="+39 0171 945389"/>
     <tag k="shop" v="convenience"/>
     <tag k="tobacco" v="yes"/>
   </node>
-  <node id="7323651043" lat="44.5132557" lon="7.4722200">
-    <tag k="addr:city" v="Busca"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="12022"/>
-    <tag k="addr:street" v="Strada Rossana"/>
+  <node id="7323651043" lat="44.5132853" lon="7.4723152">
+    <tag k="addr:housenumber" v="1"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="entrance" v="yes"/>
     <tag k="name" v="Pizzeria 2 Mondi"/>
     <tag k="phone" v="+39 0171 943909"/>
   </node>
@@ -3254,7 +3258,7 @@
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Cioccolateria Fagiolo - Peirano"/>
     <tag k="phone" v="+39 338 4196505;+39 338 9054745"/>
     <tag k="shop" v="pastry"/>
@@ -3264,7 +3268,7 @@
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Cesare Battisti"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Lavanderia Giletta Nadia"/>
     <tag k="phone" v="+39 347 3232134"/>
     <tag k="shop" v="dry_cleaning"/>
@@ -3276,7 +3280,7 @@
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
     <tag k="contact:mobile" v="+39 335 5826732"/>
     <tag k="contact:phone" v="+39 0171 946080"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="E.Z.A. DeLaval"/>
     <tag k="shop" v="pet"/>
     <tag k="website" v="https://www.ezasas.it/"/>
@@ -3286,7 +3290,7 @@
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Martiri della Libertà"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Aimar Elettrodomestici"/>
     <tag k="phone" v="+39 0171 945201"/>
     <tag k="phone:mobile" v="+39 335 6817081"/>
@@ -3300,7 +3304,7 @@
     <tag k="addr:street" v="Via Cuneo"/>
     <tag k="contact:mobile" v="+39 366 2044877"/>
     <tag k="contact:phone" v="+39 0171 384084"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Consegna gratuita da 19,99€, su Beinette per un raggio di 30 km. Consegna in 72 h."/>
     <tag k="name" v="Magazzino Mary JouèClub"/>
     <tag k="payment:cash" v="yes"/>
@@ -3321,7 +3325,7 @@
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Le-torte-di-Mary-Jo-è-un-guinness-world-record-531683173642634/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="info@letortedimaryjo.it"/>
     <tag k="name" v="Le torte di Mary Jo"/>
     <tag k="phone" v="+39 334 7634722"/>
@@ -3332,7 +3336,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Bufala-e-Basilico-_-Ristorante-Pizzeria-111012633773321/"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Bufala e Basilico"/>
     <tag k="phone" v="+39 0171 940753;+39 366 7462765"/>
   </node>
@@ -3609,7 +3613,7 @@
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:postcode" v="12020"/>
     <tag k="addr:street" v="Via Laghi di Avigliana"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Generi alimentari vari (carne, salumi, formaggi, vino, farine, pasta fresca)."/>
     <tag k="email" v="info@zuccoalimentari.it"/>
     <tag k="name" v="Zucco Alimentari di Zucco Antonio"/>
@@ -3681,15 +3685,34 @@
     <tag k="addr:postcode" v="12038"/>
     <tag k="addr:street" v="Via Torino"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="info@ristoranteconvivio.it"/>
     <tag k="contact:facebook" v="https://www.facebook.com/CONVIVIORestaurantPizza/;https://www.facebook.com/Convivio_restaurant/"/>
     <tag k="contact:mobile" v="+39 340 8373585"/>
-    <tag k="cuisine" v="pizza;italian"/>
-    <tag k="delivery" v="Mo-Su 18:00 - 22:00"/>
-    <tag k="email" v="info@ristoranteconvivio.it"/>
+    <tag k="contact:phone" v="+39 0172 713417"/>
+    <tag k="contact:website" v="http://www.ristoranteconvivio.it/"/>
+    <tag k="cuisine" v="italian;pizza"/>
+    <tag k="delivery" v="Mo-Su 18:00-22:00"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="name" v="Convivio Restaurant &amp; Pizza"/>
-    <tag k="opening_hours" v="Mo-Su 18:00 - 22:00"/>
-    <tag k="phone" v="+39 0172 713417"/>
-    <tag k="website" v="http://www.ristoranteconvivio.it/"/>
+    <tag k="opening_hours" v="Mo-Su 18:00-22:00"/>
+  </node>
+  <node id="7487418824" lat="44.5661044" lon="7.9207642">
+    <tag k="addr:city" v="Monchiero"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="12060"/>
+    <tag k="addr:street" v="Località Borgonuovo B"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brewery" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Pizzeria Ristorante Ajò da Lorenzo"/>
+    <tag k="opening_hours" v="Tu-Su 12:00-24:00"/>
+    <tag k="opening_hours:covid19" v="Th-Su 18:00-22:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 393 9140319"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="341906477">
     <nd ref="3489695897"/>
@@ -3702,7 +3725,7 @@
     <nd ref="3489695897"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:place" v="Paschera San Defendente"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="email" v="direzionecommercialemoris@gmail.com"/>
     <tag k="landuse" v="farmyard"/>
     <tag k="name" v="Caseificio Moris"/>
@@ -3723,7 +3746,7 @@
     <tag k="addr:housenumber" v="95"/>
     <tag k="addr:postcode" v="12022"/>
     <tag k="addr:street" v="Via Antica di Costigliole"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="description" v="Vini tipici locali, succhi di mela, frutta e verdura di stagione."/>
     <tag k="landuse" v="farmyard"/>
     <tag k="name" v="Azienda agricola Fornero Andrea"/>
@@ -3746,7 +3769,7 @@
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:street" v="Via Traversagna"/>
     <tag k="contact:facebook" v="https://www.facebook.com/mangiargenuino/"/>
-    <tag k="delivery" v="yes"/>
+    <tag k="delivery:covid19" v="yes"/>
     <tag k="landuse" v="farmyard"/>
     <tag k="name" v="Azienda Agricola Marchisio Pietro"/>
     <tag k="opening_hours" v="Mo-Th 15:00-19:30; We 09:30-19:30; Sa 09:30-12:30,15:00-19:00"/>

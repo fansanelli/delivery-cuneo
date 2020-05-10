@@ -5,10 +5,8 @@ I dati sono ricavati con query overpass:
 ```
 ( area[name=Cuneo]; )->.searchArea;
 (
-  node["delivery"][delivery!=no](area.searchArea);
-  way["delivery"][delivery!=no](area.searchArea);>;
-  node["delivery:covid19"](area.searchArea);
-  way["delivery:covid19"](area.searchArea);>;
+  node["delivery:covid19"=yes](area.searchArea);
+  way["delivery:covid19"=yes](area.searchArea);>;
 
 );
 out body;
