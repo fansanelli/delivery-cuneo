@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmfilter 1.4.4">
 	<node id="2634940001" lat="44.3899953" lon="7.5474621">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:postcode" v="12100"/>
@@ -16,11 +15,11 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Galì"/>
 		<tag k="opening_hours" v="Mo-Th,Su 07:00-24:00; Fr,Sa 07:00-02:00"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="2634945051" lat="44.3873442" lon="7.5453672">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="16"/>
 		<tag k="addr:street" v="Corso Nizza"/>
 		<tag k="amenity" v="bar"/>
@@ -29,6 +28,7 @@
 		<tag k="cuisine" v="ice_cream"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il Corso"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="operator" v="Bar Corso s.n.c. di Basso Marco Giuseppe &#38; C."/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="ref:vatin" v="IT02293100042"/>
@@ -36,7 +36,6 @@
 		<tag k="wheelchair" v="yes"/>
 	</node>
 	<node id="3884561295" lat="44.3912962" lon="7.5634988">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="10"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Savona"/>
@@ -45,10 +44,10 @@
 		<tag k="contact:mobile" v="+39 349 6003543"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Bar barriera"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="4520651757" lat="44.441342" lon="7.5255381">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:city" v="Roata Rossi"/>
 		<tag k="addr:housenumber" v="144"/>
 		<tag k="addr:postcode" v="12100"/>
@@ -61,11 +60,11 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Red Village Café"/>
 		<tag k="opening_hours" v="Tu-Th 07:00-20:00; Fr 07:00-21:00; Sa 07:00-12:30,14:30-22:00; Su 08:30-12:00,14:30-20:30"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 		<tag k="tobacco" v="yes"/>
 	</node>
 	<node id="5397122034" lat="44.3881856" lon="7.5488399">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="5"/>
 		<tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
 		<tag k="amenity" v="cafe"/>
@@ -76,11 +75,11 @@
 		<tag k="description" v="Consegna per colombe pasquali, uova di cioccolato, pasticceria e gelato, vini. Servizio di prenotazione dalle 10 alle 17"/>
 		<tag k="name" v="Bar Gelateria Rondò"/>
 		<tag k="opening_hours" v="Mo-Sa 06:00-20:00; Su 07:00-12:30"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6015519457" lat="44.3907096" lon="7.5506688">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="7"/>
 		<tag k="addr:street" v="Via Peveragno"/>
 		<tag k="alt_name" v="Sottosopra"/>
@@ -89,6 +88,7 @@
 		<tag k="contact:mobile" v="+39 392 7158394;+39 345 0847193"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Coffee and Good Spirits"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6028315708" lat="44.3882781" lon="7.5479339">
@@ -106,7 +106,6 @@
 		<tag k="organic" v="yes"/>
 	</node>
 	<node id="6038593234" lat="44.3869137" lon="7.5449442">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="22"/>
 		<tag k="addr:street" v="Corso Nizza"/>
@@ -116,10 +115,10 @@
 		<tag k="cuisine" v="ice_cream"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Sillano"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6170776614" lat="44.3840423" lon="7.5411894">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="14"/>
 		<tag k="addr:street" v="Piazza Europa"/>
 		<tag k="amenity" v="bar"/>
@@ -127,13 +126,13 @@
 		<tag k="cuisine" v="ice_cream"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Cuba"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="phone" v="+39 0171 693968"/>
 		<tag k="takeaway:covid19" v="yes"/>
 		<tag k="website" v="https://www.relaiscubaonline.com/"/>
 	</node>
 	<node id="6188040643" lat="44.3878666" lon="7.5450764">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Ventotto Aprile"/>
 		<tag k="amenity" v="cafe"/>
@@ -141,6 +140,7 @@
 		<tag k="contact:mobile" v="+39 392 2836557"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il mondo del caffè"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6342641186" lat="44.3904384" lon="7.5500289">
@@ -157,7 +157,6 @@
 		<tag k="phone" v="+39 339 2429445"/>
 	</node>
 	<node id="6358638318" lat="44.3859932" lon="7.5432528">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="33a"/>
 		<tag k="addr:street" v="Via Carlo Emanuele Terzo"/>
 		<tag k="amenity" v="cafe"/>
@@ -165,10 +164,10 @@
 		<tag k="contact:mobile" v="+39 373 7622399"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Dama 3 Cafè"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6433717642" lat="44.388218" lon="7.5378782">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="38"/>
 		<tag k="addr:postcode" v="12100"/>
@@ -181,11 +180,11 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="internet_access" v="wlan"/>
 		<tag k="name" v="Dotta Caffè"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6549851145" lat="44.3910935" lon="7.5703842">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="50"/>
 		<tag k="addr:street" v="Via Savona"/>
 		<tag k="amenity" v="bar"/>
@@ -193,16 +192,17 @@
 		<tag k="contact:phone" v="+39 0171 402666"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Cit Ma Bel"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="operator" v="Cit Ma Bel Ettore e Margherita Ristorante"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6578471478" lat="44.3917713" lon="7.5488246">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="8"/>
 		<tag k="addr:street" v="Via Caraglio"/>
 		<tag k="contact:mobile" v="+39 339 1366315;+39 328 0648540"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Al 37"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="shop" v="wine"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
@@ -265,7 +265,6 @@
 		<tag k="name" v="La Belle Epoque"/>
 	</node>
 	<node id="7415053014" lat="44.4223377" lon="7.5440492">
-		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="99"/>
 		<tag k="addr:street" v="Via Valle Po"/>
 		<tag k="amenity" v="cafe"/>
@@ -273,6 +272,7 @@
 		<tag k="contact:phone" v="+39 0171 412294"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il Podio Cafè"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="operator" v="Bertero Mirella"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
