@@ -16,24 +16,6 @@
 		<tag k="phone" v="+39 0171 501962"/>
 		<tag k="ref:vatin" v="IT03832770048"/>
 	</node>
-	<node id="1776036865" lat="44.4146611" lon="7.4340372">
-		<tag k="addr:city" v="Caraglio"/>
-		<tag k="addr:housenumber" v="20"/>
-		<tag k="addr:postcode" v="12023"/>
-		<tag k="addr:street" v="Via Comitato Liberazione Nazionale"/>
-		<tag k="amenity" v="restaurant"/>
-		<tag k="cuisine" v="pizza"/>
-		<tag k="delivery:covid19" v="yes"/>
-		<tag k="email" v="info@hotel-quadrifoglio.com"/>
-		<tag k="fax" v="+39 0171 817666"/>
-		<tag k="name" v="Hotel Quadrifoglio"/>
-		<tag k="opening_hours:covid19" v="open"/>
-		<tag k="phone" v="+39 0171 817666"/>
-		<tag k="stars" v="3"/>
-		<tag k="takeaway:covid19" v="yes"/>
-		<tag k="tourism" v="hotel"/>
-		<tag k="website" v="http://www.hotel-quadrifoglio.com/"/>
-	</node>
 	<node id="1833052866" lat="44.6480426" lon="7.6098996">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="contact:mobile" v="+39 348 6836677"/>
@@ -59,6 +41,7 @@
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery:covid19" v="yes"/>
+		<tag k="delivery:rapideat" v="yes"/>
 		<tag k="diet:gluten_free" v="yes"/>
 		<tag k="name" v="Capri"/>
 		<tag k="opening_hours" v="Mo-Tu,Th-Su 12:00-14:10,19:00-24:00"/>
@@ -66,6 +49,7 @@
 		<tag k="operator" v="Pizzeria Capri di Giordano Emilio e C."/>
 		<tag k="phone" v="+39 0171 681904"/>
 		<tag k="ref:vatin" v="IT00764810040"/>
+		<tag k="takeaway" v="yes"/>
 		<tag k="takeaway:covid19" v="yes"/>
 		<tag k="website" v="https://www.pizzeriacapricuneo.it/"/>
 	</node>
@@ -227,7 +211,7 @@
 		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
-	<node id="4472819038" lat="44.5147184" lon="7.4729824">
+	<node id="4472819038" lat="44.5147079" lon="7.4729831">
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery:covid19" v="yes"/>
@@ -269,11 +253,15 @@
 		<tag k="contact:mobile" v="+39 338 8616725"/>
 		<tag k="contact:website" v="https://www.birrificiotrunasse.it/"/>
 		<tag k="craft" v="brewery"/>
+		<tag k="cuisine" v="burger;barbecue"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="microbrewery" v="yes"/>
 		<tag k="name" v="Birrificio Trunasse"/>
 		<tag k="opening_hours" v="Tu-Fr 18:00-02:00; Sa 18:00-03:00; Su 18:00-01:00"/>
+		<tag k="operator" v="Zoe di Lerda Roberto e Lerda Paolo S.N.C."/>
+		<tag k="outdoor_seating" v="yes"/>
 		<tag k="product" v="beer"/>
+		<tag k="ref:vatin" v="IT03234750044"/>
 	</node>
 	<node id="6018280867" lat="44.393807" lon="7.5513196">
 		<tag k="addr:housenumber" v="6"/>
@@ -312,7 +300,9 @@
 		<tag k="name" v="Med Casa del kebap"/>
 		<tag k="opening_hours" v="12:00-23:59"/>
 		<tag k="opening_hours:covid19" v="open"/>
+		<tag k="operator" v="Casa del Kebap di Ceylan Ali"/>
 		<tag k="oven" v="gas_fired"/>
+		<tag k="ref:vatin" v="IT10858560013"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6069087797" lat="44.3349923" lon="7.4917451">
@@ -516,19 +506,6 @@
 		<tag k="operator" v="Pitali Matteo"/>
 		<tag k="phone" v="+39 346 1212656"/>
 	</node>
-	<node id="6542571364" lat="44.390785" lon="7.5493473">
-		<tag k="addr:housenumber" v="49"/>
-		<tag k="addr:street" v="Via Roma"/>
-		<tag k="amenity" v="fast_food"/>
-		<tag k="contact:email" v="direzione@allapiada.it"/>
-		<tag k="contact:mobile" v="+39 334 2421588"/>
-		<tag k="contact:website" v="http://www.allapiada.it/"/>
-		<tag k="cuisine" v="piadina"/>
-		<tag k="delivery:covid19" v="yes"/>
-		<tag k="name" v="Alla piada"/>
-		<tag k="opening_hours:covid19" v="open"/>
-		<tag k="takeaway:covid19" v="yes"/>
-	</node>
 	<node id="6547627107" lat="44.3809534" lon="7.540513">
 		<tag k="addr:housenumber" v="7c"/>
 		<tag k="addr:street" v="Corso Vittorio Emanuele Secondo"/>
@@ -572,11 +549,15 @@
 		<tag k="addr:street" v="Via Sette Assedi"/>
 		<tag k="amenity" v="restaurant"/>
 		<tag k="contact:mobile" v="+39 349 5958584"/>
+		<tag k="contact:phone" v="+39 0171 480555"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="consegne a Cuneo e dintorni, dal giovedì alla domenica, dalle 19.00 alle 21.30"/>
 		<tag k="name" v="Passione pizza"/>
 		<tag k="opening_hours:covid19" v="open"/>
+		<tag k="operator" v="Passione pizza di De Lucia Giuseppe e C. S.N.C."/>
+		<tag k="outdoor_seating" v="yes"/>
+		<tag k="ref:vatin" v="IT03746000045"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6611844291" lat="44.3928486" lon="7.5529822">
@@ -597,6 +578,7 @@
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6611933791" lat="44.3927068" lon="7.5498378">
+		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:street" v="Via Dronero"/>
 		<tag k="amenity" v="restaurant"/>
@@ -604,7 +586,9 @@
 		<tag k="contact:phone" v="+39 0171 325145"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="I 5 sensi"/>
+		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="operator" v="Franco Carlevero Diego"/>
+		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6741749289" lat="44.3900507" lon="7.5618159">
 		<tag k="addr:housenumber" v="8"/>
@@ -706,6 +690,22 @@
 		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
+	<node id="7296225201" lat="44.4179291" lon="7.4297465">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="137"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="amenity" v="fast_food"/>
+		<tag k="cuisine" v="kebab"/>
+		<tag k="delivery" v="yes"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Nuova Sharm Pizza &#38; Kebab"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-02:00"/>
+		<tag k="opening_hours:covid19" v="same"/>
+		<tag k="phone:mobile" v="+39 389 9177403"/>
+		<tag k="start_date" v="2020-09-08"/>
+		<tag k="takeaway" v="yes"/>
+	</node>
 	<node id="7304098757" lat="44.5249901" lon="7.4800572">
 		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="69"/>
@@ -719,10 +719,7 @@
 		<tag k="phone:mobile" v="+39 338 2795261"/>
 	</node>
 	<node id="7304241312" lat="44.5157987" lon="7.477992">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="2"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
 		<tag k="amenity" v="restaurant"/>
 		<tag k="cuisine" v="pizza"/>
 		<tag k="delivery:covid19" v="yes"/>
@@ -921,6 +918,22 @@
 		<tag k="opening_hours:covid19" v="open"/>
 		<tag k="outdoor_seating" v="yes"/>
 		<tag k="start_date" v="2019-06-14"/>
+		<tag k="takeaway:covid19" v="yes"/>
+	</node>
+	<node id="7858314676" lat="44.4146451" lon="7.4336588">
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Comitato Liberazione Nazionale"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="contact:phone" v="+39 0171 619685"/>
+		<tag k="cuisine" v="italian;pizza;regional"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Ristorante Quadrifoglio"/>
+		<tag k="opening_hours:covid19" v="open"/>
+		<tag k="operator" v="Ristorante Il Quadrifoglio di Riba Guido &#38; C. S.N.C."/>
+		<tag k="oven" v="wood_fired"/>
+		<tag k="ref:vatin" v="IT00571060045"/>
 		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 </osm>

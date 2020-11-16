@@ -18,18 +18,30 @@
 		<tag k="contact:phone" v="+39 0171 694233"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Giocheria"/>
+		<tag k="opening_hours" v="Mo-Sa 09:30-12:30,15:30-19:30"/>
+		<tag k="opening_hours:covid19" v="Mo-Sa 09:30-12:30,15:30-19:30"/>
 		<tag k="shop" v="toys"/>
 	</node>
 	<node id="2412584584" lat="44.3839017" lon="7.542549">
+		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:street" v="Piazza Europa"/>
+		<tag k="contact:email" v="info@ippogrifo.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/libreria.lippogrifo/"/>
+		<tag k="contact:fax" v="+39 0171 631240"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/explore/locations/1016355420/libreria-lippogrifo/"/>
+		<tag k="contact:phone" v="+39 0171 67331"/>
+		<tag k="contact:website" v="http://www.ippogrifo.com/"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegna su Cuneo gratuita con un ordine minimo di €20. Altrimenti €2 a consegna. Spedizione 7 gg su 7 tra le 12:00 e le 20:00"/>
 		<tag k="name" v="L&#39;Ippogrifo"/>
+		<tag k="opening_hours" v="Mo-Su 09:00-12:30,15:30-19:30"/>
+		<tag k="opening_hours:covid19" v="Mo-Su 09:00-12:30,15:30-19:00"/>
+		<tag k="operator" v="L&#39;Ippogrifo SRL"/>
 		<tag k="payment:paypal" v="yes"/>
 		<tag k="payment:satispay" v="yes"/>
 		<tag k="payment:wire_transfer" v="yes"/>
-		<tag k="phone" v="+39 0171 67331"/>
+		<tag k="ref:vatin" v="IT01875940049"/>
 		<tag k="shop" v="books"/>
 	</node>
 	<node id="2956158078" lat="44.3912934" lon="7.5526704">
@@ -100,6 +112,38 @@
 		<tag k="description" v="Scrivi una mail indicando i titoli desiderati e l&#39;indirizzo per la spedizione. PAGAMENTI: - SATISPAY sul numero di cellulare 331.6869763 -CARTA DOCENTE; -APP18; BONIFICO ord, IBAN: IT90H0845010201000000007502 - Banca Alpi Marittime - Ag. Cuneo 2"/>
 		<tag k="name" v="Mondadori Bookstore"/>
 		<tag k="shop" v="books"/>
+	</node>
+	<node id="6088763430" lat="44.417463" lon="7.4284461">
+		<tag k="access:covid19" v="yes"/>
+		<tag k="addr:city" v="Caraglio"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="97"/>
+		<tag k="addr:postcode" v="12023"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:email" v="info@lottico.com"/>
+		<tag k="contact:mobile" v="+39 347 5153565"/>
+		<tag k="contact:phone" v="+39 0171 619922"/>
+		<tag k="contact:website" v="http://www.lotticodicaraglio.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="L&#39;Ottico di Caraglio"/>
+		<tag k="opening_hours" v="Tu-Sa 09:00-12:30,15:30-19:30"/>
+		<tag k="opening_hours:covid19" v="Tu-Sa 09:00-12:30,15:30-19:30"/>
+		<tag k="operator" v="Armando Enrico"/>
+		<tag k="ref:vatin" v="IT01794070043"/>
+		<tag k="shop" v="optician"/>
+	</node>
+	<node id="6101322515" lat="44.3820306" lon="7.5383927">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:street" v="Corso Galileo Ferraris"/>
+		<tag k="contact:email" v="info@chiapellacuneo.it"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/chiapellacuneo"/>
+		<tag k="contact:phone" v="+39 0171 681862"/>
+		<tag k="contact:website" v="http://www.chiapellacuneo.it/"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Chiapella"/>
+		<tag k="opening_hours:covid19" v="open"/>
+		<tag k="shop" v="houseware"/>
+		<tag k="start_date" v="1963-06"/>
 	</node>
 	<node id="6110507093" lat="44.3878465" lon="7.5464922">
 		<tag k="addr:housenumber" v="5"/>
@@ -203,6 +247,7 @@
 		<tag k="shop" v="houseware"/>
 	</node>
 	<node id="6328512680" lat="44.3929528" lon="7.5469005">
+		<tag k="addr:city" v="Cuneo"/>
 		<tag k="addr:housenumber" v="20"/>
 		<tag k="addr:street" v="Via Caraglio"/>
 		<tag k="contact:email" v="faro.copisteria@gmail.com"/>
@@ -210,6 +255,8 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Faro Copisteria"/>
 		<tag k="opening_hours:covid19" v="open"/>
+		<tag k="operator" v="Faro Copisteria dei Fratelli Pellegrino Marro di Pellegrino Marro Fabrizio"/>
+		<tag k="ref:vatin" v="IT03429860046"/>
 		<tag k="shop" v="copyshop"/>
 	</node>
 	<node id="6418937919" lat="44.392319" lon="7.5523919">
@@ -332,6 +379,31 @@
 		<tag k="phone:mobile" v="+39 345 9223238"/>
 		<tag k="shop" v="tobacco"/>
 	</node>
+	<node id="7123095497" lat="44.3884526" lon="7.8206441">
+		<tag k="addr:city" v="Mondovì"/>
+		<tag k="addr:country" v="IT"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="12084"/>
+		<tag k="addr:street" v="Corso Statuto"/>
+		<tag k="contact:facebook" v="@FerramentaBriatore"/>
+		<tag k="contact:phone" v="+39 017 440236"/>
+		<tag k="contact:website" v="https://www.ferramentabriatore.com"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="description:it" v="casalinghi, articoli regalo"/>
+		<tag k="name" v="Ferramenta Briatore"/>
+		<tag k="opening_hours" v="Tu-Sa 8:30-12:30, 15:30-19:30"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:apple_pay" v="yes"/>
+		<tag k="payment:bancomat" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:google_pay" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:samsung_pay" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="shop" v="hardware"/>
+		<tag k="wheelchair" v="limited"/>
+	</node>
 	<node id="7170633530" lat="44.4184085" lon="7.4308842">
 		<tag k="addr:housenumber" v="152"/>
 		<tag k="addr:street" v="Via Roma"/>
@@ -360,9 +432,8 @@
 		<tag k="operator" v="Palazzo s.a.s. di Palazzo Gabriele e Patrizia e C."/>
 		<tag k="shop" v="furniture"/>
 	</node>
-	<node id="7287719731" lat="44.5145092" lon="7.4732538">
+	<node id="7287719731" lat="44.5145111" lon="7.473239">
 		<tag k="addr:housenumber" v="2"/>
-		<tag k="addr:street" v="Piazza Regina Margherita"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="info@otticainvista.com"/>
 		<tag k="name" v="Ottica in Vista"/>
@@ -399,11 +470,10 @@
 		<tag k="phone" v="+39 327 0029130"/>
 		<tag k="shop" v="jewelry"/>
 	</node>
-	<node id="7296208692" lat="44.4168948" lon="7.4283386">
+	<node id="7296208692" lat="44.4168897" lon="7.4285277">
 		<tag k="delivery:covid19" v="yes"/>
-		<tag k="fixme" v="adjust position"/>
 		<tag k="name" v="Piemme"/>
-		<tag k="phone" v="+39 347 8150625"/>
+		<tag k="phone" v="+39 347 815 0625"/>
 		<tag k="shop" v="curtain"/>
 	</node>
 	<node id="7307077948" lat="44.4956691" lon="7.5418681">
@@ -557,7 +627,7 @@
 		<tag k="shop" v="coffee"/>
 	</node>
 	<node id="7416675736" lat="44.4730835" lon="7.5095714">
-		<tag k="addr:city" v="Tarantasca - Frazione San Chiaffredo"/>
+		<tag k="addr:city" v="San Chiaffredo"/>
 		<tag k="addr:housenumber" v="50"/>
 		<tag k="addr:postcode" v="12020"/>
 		<tag k="addr:street" v="Via Laghi di Avigliana"/>
@@ -567,7 +637,7 @@
 		<tag k="name" v="Zucco Alimentari di Zucco Antonio"/>
 		<tag k="phone" v="+39 0171 411759"/>
 		<tag k="shop" v="wholesale"/>
-		<tag k="website" v="www.zuccoalimentari.it"/>
+		<tag k="website" v="https://www.zuccoalimentari.it/"/>
 		<tag k="wholesale" v="food"/>
 	</node>
 	<node id="7454799702" lat="44.3169161" lon="7.2622551">

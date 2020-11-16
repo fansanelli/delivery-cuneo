@@ -30,10 +30,7 @@
 		<tag k="ref:vatin" v="IT02034570040"/>
 	</node>
 	<node id="3441538565" lat="44.5157371" lon="7.4783675">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="3"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Corso Papa Giovanni Ventitreesimo"/>
 		<tag k="amenity" v="pharmacy"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="dispensing" v="yes"/>
@@ -74,10 +71,7 @@
 		<tag k="ref:vatin" v="IT02346710045"/>
 	</node>
 	<node id="4472819040" lat="44.5149929" lon="7.4745175">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="114"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="amenity" v="pharmacy"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="dispensing" v="yes"/>
@@ -92,10 +86,7 @@
 		<tag k="start_date" v="2007-04-01"/>
 	</node>
 	<node id="4473107900" lat="44.5150902" lon="7.4748565">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="106"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="amenity" v="pharmacy"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="dispensing" v="yes"/>
@@ -175,15 +166,6 @@
 		<tag k="phone" v="+39 0171 681412"/>
 		<tag k="shop" v="medical_supply"/>
 	</node>
-	<node id="6342617252" lat="44.3887965" lon="7.5502015">
-		<tag k="addr:housenumber" v="15bis"/>
-		<tag k="addr:street" v="Lungogesso Papa Giovanni Ventitreesimo"/>
-		<tag k="delivery:covid19" v="yes"/>
-		<tag k="medical_supply" v="orthopedic"/>
-		<tag k="name" v="Ortopedia I.T.O.S."/>
-		<tag k="shop" v="medical_supply"/>
-		<tag k="website" v="https://www.itoscuneo.com/"/>
-	</node>
 	<node id="6579153660" lat="44.3664074" lon="7.5237475">
 		<tag k="addr:housenumber" v="102"/>
 		<tag k="addr:street" v="Corso Francia"/>
@@ -230,10 +212,7 @@
 		<tag k="website" v="http://www.pavengroup.com/"/>
 	</node>
 	<node id="7304200571" lat="44.515202" lon="7.4751851">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="90"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="amenity" v="pharmacy"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="dispensing" v="no"/>
@@ -255,14 +234,13 @@
 		<tag k="name" v="L&#39;Erbolario - Erboristeria da Mary"/>
 		<tag k="shop" v="herbalist"/>
 	</node>
-	<node id="7404309379" lat="44.3912699" lon="7.5635972">
+	<node id="7404309379" lat="44.3912915" lon="7.5637645">
 		<tag k="addr:housenumber" v="12"/>
 		<tag k="addr:postcode" v="12100"/>
 		<tag k="addr:street" v="Via Savona"/>
 		<tag k="contact:email" v="info@erboristeria-artiano.com"/>
 		<tag k="contact:phone" v="+39 0171 500638"/>
 		<tag k="delivery:covid19" v="yes"/>
-		<tag k="fixme" v="adjust position"/>
 		<tag k="name" v="Erboristeria Dott.ssa Artiano"/>
 		<tag k="shop" v="herbalist"/>
 	</node>

@@ -11,12 +11,15 @@
 		<tag k="shop" v="convenience"/>
 	</node>
 	<node id="1922721432" lat="44.38931" lon="7.5464862">
+		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="2"/>
 		<tag k="addr:street" v="Corso Marcello Soleri"/>
 		<tag k="contact:phone" v="+39 0171 692466"/>
 		<tag k="contact:website" v="http://www.pastificioboetti.it/"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Pastificio Boetti"/>
+		<tag k="opening_hours" v="Tu-Su 08:00-13:00,16:00-19:00"/>
+		<tag k="opening_hours:covid19" v="Tu-Su 08:00-13:00,16:00-19:00"/>
 		<tag k="shop" v="pasta"/>
 	</node>
 	<node id="1965797379" lat="44.3957483" lon="7.4913901">
@@ -66,17 +69,6 @@
 		<tag k="phone" v="+39 0171 411109"/>
 		<tag k="shop" v="supermarket"/>
 	</node>
-	<node id="5402092382" lat="44.3801459" lon="7.5380339">
-		<tag k="addr:city" v="Cuneo"/>
-		<tag k="addr:housenumber" v="80"/>
-		<tag k="addr:postcode" v="12100"/>
-		<tag k="addr:street" v="Corso Nizza"/>
-		<tag k="delivery:covid19" v="yes"/>
-		<tag k="delivery_point:access" v="yes"/>
-		<tag k="name" v="L&#39;Angolo alimentare"/>
-		<tag k="phone" v="+39 0171 696139"/>
-		<tag k="shop" v="convenience"/>
-	</node>
 	<node id="5843603120" lat="44.3308624" lon="7.4877099">
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Borgomarket"/>
@@ -112,6 +104,9 @@
 		<tag k="description" v="Spesa online, gratis per OVER 65 fino al 12 aprile 2020"/>
 		<tag k="name" v="Carrefour Market"/>
 		<tag k="opening_hours" v="24/7"/>
+		<tag k="operator" v="GS S.p.A."/>
+		<tag k="phone" v="+39 0171 691079"/>
+		<tag k="ref:vatin" v="IT12683790153"/>
 		<tag k="shop" v="supermarket"/>
 		<tag k="website" v="https://www.carrefour.it/?cat=spesa"/>
 	</node>
@@ -123,6 +118,16 @@
 		<tag k="name" v="F.lli Carli Emporio di Cuneo"/>
 		<tag k="phone" v="+39 0171 601176"/>
 		<tag k="shop" v="deli"/>
+	</node>
+	<node id="6153157985" lat="44.3919901" lon="7.5495971">
+		<tag k="addr:housenumber" v="54"/>
+		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:phone" v="+39 0171 1641300"/>
+		<tag k="delivery:covid19" v="yes"/>
+		<tag k="name" v="Casa del Parmigiano"/>
+		<tag k="opening_hours:covid19" v="open"/>
+		<tag k="shop" v="convenience"/>
+		<tag k="takeaway:covid19" v="yes"/>
 	</node>
 	<node id="6160271235" lat="44.3945019" lon="7.5017926">
 		<tag k="addr:city" v="San Defendente di Cervasca"/>
@@ -157,12 +162,14 @@
 		<tag k="operator" v="La Dispensa di Alessandra e Eleonora Gay S.A.S."/>
 		<tag k="shop" v="convenience"/>
 	</node>
-	<node id="6174999048" lat="44.3993545" lon="7.5326852">
-		<tag k="addr:housenumber" v="31"/>
+	<node id="6174999048" lat="44.39967" lon="7.5330824">
+		<tag k="addr:housenumber" v="24b"/>
 		<tag k="addr:street" v="Via del Passatore"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Mi &#38; Ti"/>
-		<tag k="phone" v="+39 0171 1988038"/>
+		<tag k="operator" v="Mi e Ti SAS"/>
+		<tag k="phone" v="+39 0171 198 8038"/>
+		<tag k="ref:vatin" v="IT03816700045"/>
 		<tag k="shop" v="convenience"/>
 	</node>
 	<node id="6269298461" lat="44.3923761" lon="7.5504474">
@@ -255,22 +262,28 @@
 	<node id="6797025856" lat="44.4125306" lon="7.5465168">
 		<tag k="addr:housenumber" v="29"/>
 		<tag k="addr:street" v="Via della Battaglia"/>
-		<tag k="brand" v="Punto Simply"/>
+		<tag k="brand" v="Spar"/>
+		<tag k="brand:wikidata" v="Q610492"/>
+		<tag k="brand:wikipedia" v="en:Spar (retailer)"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="email" v="margherita.cuneo@yahoo.it"/>
-		<tag k="name" v="Punto Simply"/>
+		<tag k="name" v="Despar"/>
 		<tag k="operator" v="Maccario di Tomatis Giovanna"/>
 		<tag k="phone" v="+39 0171 411571"/>
 		<tag k="phone:mobile" v="+39 349 7393799"/>
 		<tag k="shop" v="supermarket"/>
 	</node>
 	<node id="6814084330" lat="44.3919955" lon="7.547699">
+		<tag k="access:covid19" v="yes"/>
 		<tag k="addr:housenumber" v="1"/>
 		<tag k="addr:street" v="Piazza Foro Boario"/>
+		<tag k="contact:email" v="labottegadeisaporicuneo@gmail.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/labottegadeisaporicuneo/"/>
+		<tag k="contact:mobile" v="+39 345 9925106"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="La bottega dei sapori"/>
+		<tag k="opening_hours:covid19" v="Tu-Sa 09:30-19:30"/>
 		<tag k="operator" v="La bottega dei sapori di Melillo Michela"/>
-		<tag k="phone" v="+39 345 9925106"/>
 		<tag k="ref:vatin" v="IT03766680049"/>
 		<tag k="shop" v="deli"/>
 	</node>
@@ -335,7 +348,7 @@
 		<tag k="phone" v="+39 0171 500911"/>
 		<tag k="shop" v="health_food"/>
 	</node>
-	<node id="7285142734" lat="44.3911381" lon="7.5618034">
+	<node id="7285142734" lat="44.3911064" lon="7.5616248">
 		<tag k="addr:city" v="Borgo San Giuseppe"/>
 		<tag k="addr:housenumber" v="6"/>
 		<tag k="addr:postcode" v="12100"/>
@@ -343,7 +356,7 @@
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Nord Gel"/>
 		<tag k="opening_hours" v="Tu-Sa 08:30-13:00,16:00-19:30"/>
-		<tag k="phone" v="+39 370 3093939"/>
+		<tag k="phone" v="+39 370 309 3939"/>
 		<tag k="shop" v="frozen_food"/>
 	</node>
 	<node id="7286479531" lat="44.399177" lon="7.6784918">

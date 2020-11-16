@@ -104,22 +104,18 @@
 		<tag k="phone" v="+39 0171 619048"/>
 		<tag k="shop" v="butcher"/>
 	</node>
-	<node id="7303891062" lat="44.3839361" lon="7.5426307">
+	<node id="7303891062" lat="44.3840085" lon="7.5426602">
 		<tag k="addr:housenumber" v="3"/>
 		<tag k="addr:street" v="Piazza Europa"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="description" v="Consegna gratuita il giorno dopo all&#39;ordinazione, dalle h 13:00 alle h 15:30, su Cuneo, Borgo san Giuseppe, San Rocco Castagnaretta"/>
 		<tag k="email" v="mimi.martini62@gmail.com"/>
-		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Martini Maria Silvia"/>
-		<tag k="phone" v="+39 0171 070630;+39 348 0085225"/>
+		<tag k="phone" v="+39 0171 070630;+39 348 008 5225"/>
 		<tag k="shop" v="butcher"/>
 	</node>
 	<node id="7304221087" lat="44.5149313" lon="7.4742745">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="120"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="position estimated"/>
 		<tag k="name" v="Salumeria Cantaluppi"/>

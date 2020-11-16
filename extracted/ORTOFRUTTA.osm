@@ -82,18 +82,8 @@
 		<tag k="shop" v="greengrocer"/>
 		<tag k="website" v="https://www.tantecosebuone.it"/>
 	</node>
-	<node id="7296225201" lat="44.4179335" lon="7.4297775">
-		<tag k="delivery:covid19" v="yes"/>
-		<tag k="fixme" v="adjust position"/>
-		<tag k="name" v="Morra"/>
-		<tag k="phone" v="+39 0171 610359"/>
-		<tag k="shop" v="greengrocer"/>
-	</node>
 	<node id="7306931287" lat="44.5147793" lon="7.4737197">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="140"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Stema"/>
 		<tag k="phone" v="+39 0171 944467"/>

@@ -33,8 +33,11 @@
 	<node id="6170876933" lat="44.3909481" lon="7.5495134">
 		<tag k="addr:housenumber" v="45"/>
 		<tag k="addr:street" v="Via Roma"/>
+		<tag k="contact:phone" v="+39 0171 692317"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Alessandria"/>
+		<tag k="operator" v="Alessandria di Ricchiardi Roberto &#38; C. S.A.S."/>
+		<tag k="ref:vatin" v="IT01113180044"/>
 		<tag k="shop" v="clothes"/>
 	</node>
 	<node id="6173030845" lat="44.3838343" lon="7.5409787">

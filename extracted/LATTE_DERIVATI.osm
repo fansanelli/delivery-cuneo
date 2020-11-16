@@ -26,6 +26,8 @@
 		<tag k="contact:phone" v="+39 0171 611114"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Crea"/>
+		<tag k="operator" v="Creamy S.R.L."/>
+		<tag k="ref:vatin" v="IT03791040045"/>
 	</node>
 	<node id="7293198123" lat="44.3947601" lon="7.495942">
 		<tag k="delivery:covid19" v="yes"/>
@@ -79,7 +81,7 @@
 		<tag k="amenity" v="ice_cream"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Crema &#38; Cioccolato"/>
-		<tag k="phone" v="+39 340 920652 +39 380 3296543"/>
+		<tag k="phone" v="+39 340 920652; +39 380 3296543"/>
 	</node>
 	<node id="7375440501" lat="44.6487223" lon="7.6560226">
 		<tag k="amenity" v="ice_cream"/>

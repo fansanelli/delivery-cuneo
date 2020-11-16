@@ -69,6 +69,7 @@
 	<node id="6124666867" lat="44.3855735" lon="7.5435524">
 		<tag k="addr:housenumber" v="40"/>
 		<tag k="addr:street" v="Corso Nizza"/>
+		<tag k="brand" v="Il Fornaio"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il fornaio"/>
 		<tag k="operator" v="Buccaresi Enrico"/>
@@ -89,6 +90,7 @@
 	<node id="6358397064" lat="44.3861275" lon="7.5389712">
 		<tag k="addr:housenumber" v="25"/>
 		<tag k="addr:street" v="Corso Giovanni Giolitti"/>
+		<tag k="brand" v="Il Fornaio"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="name" v="Il fornaio"/>
 		<tag k="operator" v="Buccaresi Enrico"/>
@@ -127,6 +129,13 @@
 		<tag k="email" v="info@milonepanedolci.com"/>
 		<tag k="name" v="Milone Pane &#38; Dolci"/>
 		<tag k="opening_hours" v="Mo-We,Fr,Sa 06:30-13:00,15:30-19:30; Su 06:30-13:00"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:coins" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:satispay" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
 		<tag k="phone" v="+39 0171 618822"/>
 		<tag k="phone:mobile" v="+39 338 8665686"/>
 		<tag k="shop" v="bakery"/>
@@ -169,10 +178,7 @@
 		<tag k="website" v="http://www.molinomettone.it/"/>
 	</node>
 	<node id="7304137083" lat="44.5147104" lon="7.4738234">
-		<tag k="addr:city" v="Busca"/>
 		<tag k="addr:housenumber" v="103"/>
-		<tag k="addr:postcode" v="12022"/>
-		<tag k="addr:street" v="Via Umberto Primo"/>
 		<tag k="contact:facebook" v="https://www.facebook.com/panetteriaantichisaporibusca"/>
 		<tag k="delivery:covid19" v="yes"/>
 		<tag k="fixme" v="position estimated"/>
